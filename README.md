@@ -5,6 +5,8 @@ Framework for simulating relevance feedback search using machine learning models
 ```
 apt install python3 python3-pip
 pip install -r requirements.txt
+cd som_py
+python setup.py build_ext -i
 ```
 
 ## Run
