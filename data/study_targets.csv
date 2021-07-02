@@ -1,855 +1,2692 @@
-799783;prayer church ;2;som
-799783;prayer monks;2;som
-799783;prayer monks church ;2;som
-799783;monks church ;5;som
-595922;stadium ;2;top
-595922;cameraman stadium ;5;top
-609301;sledding winter ;5;som
-609301;carriage winter white ;5;som
-312770;leaves sign person;4;top
-733324;handshake green ;3;som
-733324;hands bracelet green ;6;som
-578004;exhibition dark screen ;4;top
-633863;kinchen cutting ;3;som
-757607;wheelchair sport ;5;top
-405349;lemons  shell ;2;som
-380564;singer black ;4;top
-380564;young black singer  green ;5;top
-380564;black singer microphone ;4;top
-828435;house railing ;3;som
-828435;house railing trees ;7;som
-828435;yellow house railing trees ;3;som
-783244;paved street ;2;top
-783244;paved street bike ;3;top
-783244;paved street channel ;4;top
-1003086;guitarist sitting bottle yellow ;5;som
-281943;cross biker track ;2;top
-281943;biker track forest ;6;top
-1080823;white building ;2;som
-1080823;white temple ;3;som
-1080823;white temple eastern ;5;som
-1080823;white temple bay ;3;som
-744979;gym beams ;4;top
-541161;bedroom white window ;3;som
-541161;bedroom white window fan ;8;som
-1147086;people mist lights ;3;top
-343;india shop ladies ;3;som
-647700;two man ;2;top
-647700;two man suit ;5;top
-647700;two man suit gun ;6;top
-20379;tree snow ;2;som
-127721;night lights theatre ;4;top
-127721;night lights building persons;8;top
-595922;sitting crowd billboard ;5;som
-757607;wheelchair sport ;5;som
-405349;hand lemon ;2;top
-20379;snow tree ;2;top
-1080405;acoustic guitar singer;4;som
-726654;mountain top snow ;2;top
-799783;inside church chear;4;som
-799783;inside church ;2;som
-609301;sledge snow ;5;som
-312770;text stone ;11;top
-733324;handshake ;9;som
-633863;cutting ;8;som
-757607;wheelchair ;6;top
-405349;hand lemon ;2;som
-380564;singing man microphone ;4;top
-828435;house grass ;4;som
-828435;house grass garden ;6;som
-783244;pavement ;14;top
-1003086;man playing guitar ;4;som
-281943;bike ride ;9;top
-281943;bike ride ;6;top
-1080823;white castle ;4;som
-799783;room wood priest people praying cloak ;6;top
-595922;camera cameraman crowd ;3;som
-609301;snow child sledge vintage ;3;top
-609301;snow child sledge vintage winter ;5;top
-312770;text person paper bushes ;6;som
-733324;hands arm woman bracelet ;18;top
-578004;screen dark television ;2;som
-757607;handicapped wheelchair green human ;4;som
-828435;building chair door tree ;2;top
-783244;sidewalk street bicycle ;3;som
-783244;sidewalk street bicycle;5;som
-1003086;guitar guitarist window ;15;top
-281943;bicycle helmet trees ;10;som
-1080823;white building temple sky ;8;top
-343;hindu india praying dress ;6;top
-647700;men shirt sky handgun ;3;som
-647700;shirt sky handgun man suit ;4;som
-20379;winter snow tree sky ;4;top
-958292;men sunglasses suit bold ;4;som
-1098994;safari car couple grass ;2;top
-667883;snowboard snowboarder sky mountain snow ;7;top
-799783;church priest brown wooden chairs ;2;top
-799783;church priest brown wooden chairs reading four ;3;top
-799783;church priest wooden chairs reading book ;2;top
-799783;church priest wooden chairs reading book monk ;2;top
-799783;church priest wooden chairs book monk;6;top
-595922;spectators camera judge advertise ;2;som
-595922;spectators advertisement cameraman fans ;3;som
-595922;spectators advertisement cameraman fans audience ;3;som
-609301;snow winter tree house kid sled ;5;top
-609301;snow winter tree house kid sled pulling ;4;top
-312770;tree create stone man ;2;som
-312770;stone man words shirt leafs tree ;9;som
-312770;stone man words shirt leafs tree create ;11;som
-733324;hand greensleeves shirt handshake ;2;top
-733324;hand greensleeves shirt handshake grass ;7;top
-733324;hand shirt handshake grass shoulder ;3;top
-578004;screen tree fog ;5;som
-578004;screen tree fog city ;12;som
-578004;screen tree fog city shine ;4;som
-578004;screen tree fog city shine  whiteboard ;2;som
-578004;screen tree fog city shine  whiteboard dark ;4;som
-578004;screen city shine dark blurry;7;som
-578004;screeen blurry shine room ;3;som
-578004;screen blurry shine room ;35;som
-578004;screen blurry shine room dark ;7;som
-633863;knife cutting garlic ;2;top
-757607;wheelchair sport green ;7;som
-405349;orange peel shirt squares peeling ;2;top
-405349;orange peel shirt squares peeling hand ;2;top
-405349;peel shirt squares peeling hand lemon ;2;top
-380564;sing microphone black ;2;som
-380564;sing microphone black woman ;6;som
-380564;sing microphone black woman window ;4;som
-380564;sing microphone black window singer ;3;som
-380564;sing microphone black singer man ;7;som
-828435;house garden armchair ;3;top
-828435;house garden armchair tree chair ;3;top
-783244;sidewalk city ;5;som
-281943;bike jump helmet ;9;som
-281943;bike jump helmet man ;22;som
-281943;bike jump helmet forest ;8;som
-281943;bike jump forest bicycle ;5;som
-1080823;white house church ski ;18;top
-744979;skate blurry ;11;som
-541161;room fan window white bed ;5;top
-1147086;man mask fire dark ;2;som
-343;indian people ;3;top
-343;indian people blue ;5;top
-647700;suit gun man sky ;3;som
-647700;suit gun man sky ;11;som
-647700;suit gun man sky pistol belt ;4;som
-647700;suit gun man sky pistol belt men ;7;som
-20379;tree snow sky ;2;top
-127721;dark lights ;21;som
-127721;dark lights wire ;13;som
-127721;dark lights people ;11;som
-900219;words black stone ;11;top
-900219;words black stone sign ;18;top
-900219;words black stone sign advertisement ;18;top
-958292;bald man suit ;3;som
-958292;bald man suit sunglasses ;16;som
-1098994;truck couple field ;2;top
-990334;man tent sleeping ;2;som
-667883;ski mountain sky ;2;top
-920562;fish fishing boat water man ;2;som
-799783;monks church praying cross ;2;som
-799783;monks church praying light ;2;som
-799783;monk church praying wood chair curtain ;7;som
-595922;cameraman advertisements champions crowd ;3;top
-595922;advertisement audience cameraman men sitting ;2;top
-595922;advertisement audience cameraman men sitting ;2;top
-595922;advertisement audience cameraman ;2;top
-595922;advertisement audience cameraman interview ;2;top
-595922;advertisement audience cameraman interview outside ;3;top
-595922;spectators cameraman advertisements ;3;top
-595922;spectators cameraman advertisements fans ;7;top
-312770;create man transparent bush wall ;3;top
-312770;create man transparent bush wall stone;8;top
-312770;man transparent bush wall stone;2;top
-312770;man transparent bush wall stone shirt  lettering ;5;top
-733324;hand woman bracelet blouse green park ;5;som
-733324;woman handshake park green close ;3;som
-733324;woman handshake park green blouse ;4;som
-578004;screen blurry room shine ;2;top
-633863;knife board ;5;som
-757607;wheelchair sport coach ;5;top
-405349;lemon peels cooking ;3;som
-380564;black person microphone speaking ;3;top
-828435;house chair garden fence ;12;som
-828435;house chair garden fence old ;2;som
-828435;house chair garden fence old yellow ;8;som
-783244;sidewalk city bicycle ;6;top
-783244;sidewalk city bicycle pavement ;15;top
-783244;sidewalk city bicycle pavement stripes ;4;top
-783244;sidewalk city  ;2;top
-783244;sidewalk city pavement ;13;top
-1003086;man guitar playing ;5;som
-281943;forest bicycle jump ;4;top
-1080823;building church white ;2;som
-1080823;building white church sky ;4;som
-1080823;building white church sky architecture ;3;som
-1080823;building white church sky muslim ;4;som
-744979;room blurry peephole round ;2;top
-744979;room blurry peephole people ;18;top
-541161;bedroom window bed white ;4;som
-1147086;men fog smoke lights mask ;13;top
-343;indian people room color ;4;som
-647700;men suit guns sky talkign ;2;top
-20379;tree winter snow sky ;3;som
-127721;dark lights men ;8;top
-127721;dark lights men ship ;6;top
-127721;dark lights men ship neon ;4;top
-127721;dark lights men ship ;3;top
-127721;dark lights men ;4;top
-127721;dark lights men blurry ship ;5;top
-127721;dark lights men blurry ship stick ;24;top
-900219;board writing street blurry ;11;som
-900219;board writing street blurry ;3;som
-900219;board writing street blurry close ;8;som
-958292;men suit sunglasses bold ;5;top
-1098994;safari car couple ;4;som
-1098994;safari car looking people terrain ;3;som
-667883;mountains man snowboard ;3;som
-799783;christ monk chairs saint ;4;top
-595922;crowd audience stadium cameraman ;5;som
-609301;snow white man child ;5;top
-312770;bush word green white shoulder ;13;som
-733324;hand palms shoulder body green ;6;top
-578004;display television dark white ;19;som
-757607;green wheelchair man sport ;3;som
-380564;black microphone talking face fingers ear shoulder ;5;som
-828435;house chair column tree white black green;24;top
-783244;path building people tree white gray ;6;som
-733324;female handshake  grey bracelet ;3;som
-733324;bracelet top hand ;2;som
-733324;bracelet top hand woman ;2;som
-733324;bracelet top hand woman park ;3;som
-733324;bracelet top hand woman park grey ;6;som
-757607;wheelchair football trainer ;5;top
-405349;hand lemon ;2;som
-828435;chair house tree handrail door ;5;som
-783244;bike biker sidewalk city stone ;2;top
-783244;bike biker sidewalk city stone people ;2;top
-783244;bike biker sidewalk city stone people square ;3;top
-1003086;guitar guitarist acoustic ;4;som
-281943;bicycle helmet ramp woods ;2;top
-1080823;church building sky ;2;som
-1080823;church building sky arch ;3;som
-744979;skateboard ramp people hall ;3;top
-541161;room bedroom window ;4;som
-1147086;fire fireman camera people ;9;top
-647700;man gun suit two ;5;top
-20379;tree snow sky ;2;som
-127721;people light bulb ;2;top
-127721;people light bulb party ;6;top
-127721;people light bulb party boat night ;8;top
-958292;guy sunglasses suit skin two head hand ;2;top
-1098994;car jeep man female desert ;2;som
-667883;mountain helmet snowboarder peak ;13;som
-1025320;wedding hairstyle women hair ;8;top
-1070429;crane boat dock fog ;6;som
-727362;hair women corridor ;2;som
-727362;hair women corridor door window ;3;som
-727362;hair women corridor door window picture ;5;som
-1080405;guitar guitarist microphone man show ;2;top
-346112;group photograph lake people ;2;som
-860818;desert sport dirt wind ;4;top
-234980;tablet hand ;6;som
-83008;newspaper article ;2;som
-1031917;climbing hands gloves ;6;som
-468747;article internet ;3;top
-468747;article internet sport ;4;top
-733324;hands shoulder woman green shirt bracelet grass ;2;som
-757607;wheelchair man gym green ;2;top
-1003086;man guitar yellow shirt bottle;2;som
-541161;bedroom open window bed white fan;2;som
-799783;church mass priests ;4;som
-799783;mass priests ;3;som
-799783;mass priests theatre ;8;som
-609301;winter sled vintage ;2;som
-312770;motivational bushes create text ;2;top
-312770;motivational bushes create text person ;4;top
-733324;handshake ;7;som
-733324;handshake girl bracelet ;3;som
-578004;night motorbikes billboard parked ;7;top
-633863;cooking cutting ;2;som
-757607;wheelchair sport ;6;top
-405349;hand lemon ;2;som
-380564;black speach microphone ;5;top
-828435;house tree garden ;5;som
-828435;house tree garden chair ;5;som
-757607;wheelchair four person match green curtain coach ;2;top
-405349;lemon hand peeling checkered shirt white apron ;3;som
-405349;lemon hand peeling checkered shirt white apron woman ;4;som
-405349;four lemon hand peeling checkered shirt white apron woman ;2;som
-281943;mountain bike red helmet outdoor black clothes trees ;8;top
-281943;mountain bike red helmet outdoor black clothes trees;11;top
-541161;bedroom fan opened window bed white sheet white wall hook rack lamp picture ;5;som
-1070429;port transport ship crane sea fog ;2;som
-1080405;concert man playing guitar singing microphone black shirt long hair sitting ;4;top
-234980;tablet hand bricks ;16;som
-780226;rapping two men graffiti ;3;top
-1031917;hands mountain climbing ;2;som
-1031917;hands mountain climbing gloves first person ;5;som
-670383;road yellow line ;5;som
-670383;road yellow line trees ;3;som
-670383;road yellow lines trees ;3;som
-670383;road yellow lines trees ;4;som
-670383;road two yellow lines trees;3;som
-670383;road two yellow lines;8;som
-427607;bike first person outdoor gloves ;2;top
-427607;bike first person outdoor gloves mountains ;3;top
-427607;bike first person outdoor gloves mountains ;3;top
-427607;bike first person outdoor gloves mountains ;3;top
-427607;bike first person outdoor gloves mountains ;4;top
-427607;bike first person outdoor gloves mountains ;3;top
-427607;bike first person outdoor gloves mountains ;6;top
-331265;snow mountain building sky ;2;top
-990334;man tent masturbating;2;som
-757607;green people disabled gym ;3;som
-828435;house chair ;3;top
-783244;street people cyclist walkway ;3;som
-783244;street people cyclist walkway black line;2;som
-281943;dirtbike jump red helmet cyclist tree ;6;som
-281943;dirtbike jump red helmet cyclist tree ;8;som
-1080823;white tower islam blue sky ;3;top
-1080823;white building islam blue sky muslim arabic;2;top
-744979;people indoor gymnasium ;9;som
-541161;bedroom window fan open bed hanger ;3;top
-1147086;mask protest hoodie smoke night ;5;som
-343;india shop women man sari indoor ;2;top
-647700;two men guns sky white shirt ;3;som
-127721;dark night ship people rope;7;som
-799783;orange church ;5;som
-595922;cameraman race ;9;top
-609301; sledge snow pink ;2;som
-609301; snow pink child ;4;som
-312770;collage bush board ;5;top
-733324;bracelet woman green ;2;som
-733324;bracelet arm grass hands ;2;som
-578004;stock motorcycles garage ;6;top
-578004;motorcycles garage tg 5 ;3;top
-633863;board chopping knife ;4;som
-633863;board chopping knife garlic ;3;som
-633863;cutting knife board ;2;som
-958292;sunglasses suit black men bold outside worried ;2;top
-667883;skiing mountains red ;2;som
-667883;skiing mountains red rock ;9;som
-920562;fishing men net lake cap ;2;top
-1025320;bride makeup girls preparation hair ;4;top
-1070429;tanker  brown ship ;4;som
-300925;man smile tie vest hair ;2;top
-727362;hair hallway ;3;som
-1080405;concert guitar singer sing ;3;top
-1080405;concert guitar singer sing orange ;4;top
-346112;group lake mountain people posing ;5;som
-346112;group lake mountain people posing ;3;som
-234980;tablet touch path bricks ;5;som
-373440;man vest green ;2;top
-83008;poster letter black white ;3;som
-82591;red concert guitarists guitars ;2;top
-726654;mountain snow ;4;som
-780226;dance musician clip graffiti ;3;top
-1031917;climbing rock hands ;5;som
-670383;road turn ;7;som
-427607;bicycle trail terrain ;2;top
-427607;bicycle trail terrain mountain ;6;top
-331265;snow panorama track sky ;6;top
-996744;posing group dress dressed ;4;top
-76855;parachute crops rope view ;13;som
-1008242;surf hands handing blue ;2;top
-799783;(church) service prayers inside chapel;2;top
-799783;(church) service prayers inside chapel gloomy  4 men ;3;top
-799783;(church) service prayers inside  modern chapel gloomy  4 men ;2;top
-799783;(church) service prayers inside  modern chapel gloom woody  4 men ;2;top
-799783;(church) service prayers inside chapel gloom  chairs standing men ;6;top
-609301;lying child   sledge  winter;3;top
-609301;lying child   sled   winter;2;top
-609301; man pull lying child   sled   winter ;3;top
-733324;handshake staying girl leather bracelet dark clothes ;13;top
-1003086;guitar player bottle yellow ;5;top
-281943; cyklokrose;2;som
-281943; cyklokrose track  up biker ;2;som
-281943; cyklokrose track  up biker  off road red helmed;37;som
-1080823; white  oriental church ;2;top
-1080823; white  old historical oriental building ;3;top
-1080823; top white  old historical oriental building ;9;top
-20379;snowy spurce;4;top
-20379;snowy spurce near ;7;top
-920562; fishing two men  on the  ship;4;som
-189079; winter green wing man  mountains ;2;top
-189079; winter green wing black man mountains ;18;top
-727362; head woman black hair corridor;2;top
-727362; head woman black  short hair corridor;4;top
-727362; head woman black  short hair corridor picture door ;3;top
-1080405;guitarist leather  bracelet ;8;som
-1080405;guitarist leather  bracelet mike ;17;som
-346112;human group rocky  coast white car ;2;top
-346112;human group ;2;top
-346112;human group sea rocky coast ;2;top
-346112;  group sea    ;2;top
-346112;  group ;5;top
-346112;  group near  sea ;5;top
-346112;  group near  sea front of white car ;3;top
-346112;group peoples near  sea ;3;top
-83008;white notice Theatro Municipal;2;top
-83008;white notice  ;3;top
-468747;wine-coloured signboard;3;som
-468747;wine-coloured signboard  ;16;som
-611418;tourists models of buildings park  ;2;top
-611418;tourists models of buildings park backpack ;3;top
-611418;tourists park backpack red  headscarf baby buggy ;3;top
-611418;tourists park backpack red  headscarf baby buggy small buildings  models;4;top
-611418;a lot off peoples park baby buggy small buildings  models peoples ;5;top
-341398;two sitting men white and black T-shirt glasses;20;som
-717732; footpath garden house dusk ;9;top
-717732; footpath garden house dusk lawn ;7;top
-717732; footpath garden overgrown house dusk lawn ;85;top
-717732; footpath garden overgrown house dusk lawn window ;4;top
-717732; footpath ;43;top
-799783;praying chair church ;5;top
-799783;prayer bible chair ;3;top
-799783;prayer bible chair people ;2;top
-799783;prayer bible chair people church ;4;top
-595922;spectators cameraman stands ;3;som
-595922;spectators cameraman panel ;5;som
-595922;spectators cameraman panel ramp ;3;som
-609301;snow sled ;2;top
-609301;snow sled child ;2;top
-312770;wall sign tree leafs ;4;som
-312770;wall sign tree leafs ;3;som
-633863;chopping knife garlic herbs onion ;2;top
-633863;chopping brown board knife garlic herbs onion  ;2;top
-757607;wheelchair people green curtain coach ;3;som
-380564;singer microphone black glass ;2;som
-380564;singer girl microphone black glass ;2;som
-380564;singer girl microphone black glass green ;5;som
-828435;wall chair trees house pole ;2;top
-828435;wall chair trees house pole pavement railing ;2;top
-828435;wall chair trees pole pavement railing door ;2;top
-828435;trees pole pavement railing door chair ;2;top
-783244;street pavement building ;2;som
-783244;street pavement building cubes ;4;som
-783244;street pavement building cubes people ;2;som
-783244;street pavement building cubes stripes tree ;3;som
-783244;pavement stripes cubes street greyish ;2;som
-1003086;guitar man yellow bottle ;2;top
-1080823;building white india religion ;2;top
-1080823;building white blue india religion ;3;top
-1080823;building white blue religion india old ;4;top
-744979;blurry brown people ramp skateboard ;3;som
-744979;blurry brown ramp skateboard white wall ;3;som
-744979;blurry brown ramp skateboard white wall stripes ;3;som
-541161;window bed white fan hook bedroom ;2;top
-1147086;firefighters dark wood ;7;som
-343;india people pray figurines wall ;2;top
-343;india people figurines celebration ;4;top
-343;india people celebration wall sitting gifts ;2;top
-343;india people celebration wall picture ;2;top
-343;india people celebration wall picture yellow dress presents ;2;top
-647700;men guns suit two sky ;2;som
-647700;men guns suit sky belt pair ;2;som
-647700;men guns suit belt pair sky ;3;som
-127721;night lights builiding people pyramid ;2;som
-799783;church priests inside ;2;som
-799783;priests church ;5;som
-595922;crowd advertisements cameraman ;2;top
-595922;crowd car race ;2;top
-595922;race competition;2;top
-609301;snow sledge people;4;som
-609301;snow sledge boy ;2;som
-609301;winter snow people;5;som
-609301;winter two people sledge ;3;som
-609301;snow two people sledge ;2;som
-609301;snow two people sledge child ;4;som
-609301;snow two people blue overall ;2;som
-312770;stone words ;3;top
-312770;stone words plaque ;3;top
-312770;stone words plaque shirt ;5;top
-312770;stone text plaque shirt transparent;8;top
-312770;stone text plaque  transparent;7;top
-733324;two hands person torso ;2;som
-633863;cutting board vegetables ;2;som
-633863;cutting board knife vegetables ;4;som
-633863;brown cutting board knife vegetables ;2;som
-757607;people wheelchair gym ;3;top
-405349;hand holding  food ;4;som
-380564;brown person singing ;3;top
-380564;person holding mic ;6;top
-609301;snow sledge pull tree ;2;som
-733324;woman side grass arm;2;som
-757607;wheelchair basketball coach green curtain ;2;top
-405349;peeled lemons hand;2;som
-783244;street bicycle poles tree stones ;2;top
-783244;street bicycle poles tree stones buildings ;2;top
-281943;bmx helmet forest ;2;top
-281943;bmx helmet forest pile dirt ;3;top
-281943;bmx helmet forest pile dirt fall ;2;top
-541161;hanger window fan framed pictures bed bedroom ;2;som
-343;indian women men;2;som
-20379;single tree snow ;3;som
-633863;choping vegetable knife ;2;som
-757607;wheelchair training people ;2;top
-405349;hand lemon peeling ;2;som
-799783;priests  table chair priest;5;top
-595922;crowd ;6;som
-609301;snow child woman bobs bobbing ;2;top
-609301;snow child person bobs ;2;top
-609301;snow child pink bobs person tree;2;top
-609301;snow child  bob  person tree lie ;4;top
-312770;text bush neck shirt grass;4;som
-733324; arm  hands top green  outside ;2;top
-733324; arm  arms top green   bracelet ;4;top
-578004;light screen news;11;som
-633863;knife board  onion finger;2;top
-757607;wheelchair gym trousers ;5;som
-405349; hand sleeve fruit ;2;top
-380564;african microphone;5;som
-380564;african microphone 3 ;5;som
-828435;  chair towel house ;3;top
-783244;sidewalk pavement ;3;som
-281943; helmet trees  bycycle ;7;som
-1080823;white building old sky;5;top
-744979;ramp  person blurry ;6;som
-541161;bed window white rack fan ;4;top
-1147086;light smoke  hoodie people ;6;som
-343;indian colorful woman man celebration ;7;top
-343;indian robes ;6;top
-127721;lights dark window;5;som
-127721;lights dark window foggy light;2;som
-127721;light dark house ;6;som
-127721;light dark windows;10;som
-900219;sign block brick;2;top
-900219;sign block brick text;3;top
-900219;sign block brick text street ;4;top
-900219;sign block brick text street spanish ;6;top
-900219;sign block brick text street ;9;top
-799783;church altar small priest bible dim poor ;3;som
-595922;stands cameraman viewers billboard ;3;top
-733324;park grass hands woman bracelet focus near arm ;2;som
-733324;park grass two hands woman bracelet arm close side green ;2;som
-633863;chopping borad knife table cooking ;3;som
-757607;wheelchair sport gym ;6;top
-405349;cooking orange peeled fruit white apron checkered sleeve detail ;5;som
-405349;cooking orange peeled white apron hand sleeve holding checkered ;4;som
-405349;cooking peeled white apron hand sleeve checkered peel orange;2;som
-380564;mic singer black ;4;top
-828435;backyard garden house chair drain pipe railing pavement hanging door ;2;som
-783244;street pavement city pov cyclist stone posts long cars glass entrance ;3;top
-1003086;guitar bottle window reflection playing indoors guy ;2;som
-1003086;guitar bottle playing indoors guys ;3;som
-281943;biker slope jump forest ramp leaves ;13;top
-281943;biker forest ramp leaves bike steep ;4;top
-1080823;temple arabic building sky ;2;som
-1080823;temple building sky light old ;2;som
-799783;church praying brown;2;top
-799783;church brown reading chairs;2;top
-595922;crowd stadion sport;4;som
-312770;monument citat bush;6;som
-578004;display room;2;som
-578004;display room tg5;2;som
-633863;cutting board garlic;4;top
-633863;dark cutting board herbs;2;top
-757607;wheelchair sporting ;2;som
-757607;wheelchair sporting green;5;som
-380564;black person microphone;3;som
-828435;back garden home chair fence;2;top
-783244;square city pavement ;3;som
-1003086;guitar yellow window man;4;top
-281943;bike hill cross;8;som
-1080823;church muslim white sky;2;top
-744979;wide lance skating;4;som
-541161;3rd bedroom white;4;top
-1147086;mask black fire mens;3;som
-343;india praying colorful people;6;top
-647700;pistols in pants mans white suits;2;som
-647700;pistols in pants mans white suits sky;4;som
-20379;pine snow sky;3;top
-127721;dark lights fence people boat;3;som
-900219;sign advertise fandi;2;top
-900219;sign advertise fandi street;3;top
-958292;bald mens black suits;2;som
-958292;bald mens black suits glasses black;3;som
-1098994;jeep grassland;2;top
-990334;tent bag man;4;som
-667883;snowboard mountains snow pink;2;top
-920562;fishing lake mens white shirt;3;som
-920562;fishing lake mens white shirt net;2;som
-727362;black hair from behind hall;3;top
-1080405;guitar mikrofon singer ;2;som
-346112;group photo lake people;3;top
-234980;tablet pavement;4;top
-827903;pointing woman summer turban;2;top
-82591;guitar red band;2;som
-726654;mountain top;2;top
-1031917;climbing rock split;3;top
-670383;road ;4;top
-427607;bike cross road plains;6;som
-331265;snow trail clean;3;som
-996744;pink field photo wedding;6;som
-384835;flames metal working;4;som
-627448;motorbike cross forest helmet ;4;som
-627874;motorbike helmet cross forest;8;top
-799783;standing men church ;4;top
-595922;auditorium  cameraman ;3;som
-609301;sledge  tow snow blurred headscarf ;2;top
-609301;snow sledge kid women blurred ;2;top
-609301;snow sledge kid women blurred tow tree house ;2;top
-733324;handshake green park detail ;2;top
-733324;bracelets ;2;top
-733324;bracelets green ;6;top
-733324;bracelets green park grass woman ;2;top
-578004;night motorbikes fence light parking ;4;som
-633863;knife chopping board ;3;top
-633863;knife chopping board herbs tongs ;4;top
-757607;wheelchair sport ;12;som
-380564;afro singer microphone black ;2;som
-380564;microphone black singing ;4;som
-799783;light chairs candles  books reading curtain;2;som
-595922;camera stadium match sitting fans blue  chairs;2;top
-595922;camera stadium cameraman sitting fans blue  chairs committee ;2;top
-595922;sports fans sitting committee blue chairs ;2;top
-633863;knife cutting garlic leaves white radish brown board cucumber ;4;som
-757607;disabled person carriage green sport indoor hall  referee ;5;top
-757607;disabled person carriage green sport indoor hall  referee watches blue line ;3;top
-405349;lemon peeling ;2;som
-783244;street cyclist  window red white bin buildings cafe ;2;top
-783244;street cyclist  window red white bin buildings blocks ;2;top
-783244;street cyclist  window red white bin buildings blocks pavement sidewalk ;2;top
-1003086;bottle yellow shirt man playing guitar ;2;som
-281943;red helmet bmx man ramp trees ;10;top
-1080823;cathedral blue sky;2;som
-595922;people watching  camera ;4;som
-595922;people watching  camera banner ;2;som
-609301;snow tree sled pink child ;2;top
-312770;leaves wall text tree ;3;som
-733324;hand green;2;top
-733324;hands green bracelet ;3;top
-733324;hands green bracelet grass ;3;top
-633863;knife board ;2;top
-633863;knife bowl pan ;2;top
-757607;wheelchair person green gym ;5;som
-380564;mic ;2;som
-380564;mic man ;3;som
-828435;house railing chair tree ;2;top
-799783;pray priests church men ;5;top
-595922;crowd cameramen;2;som
-595922;crowd cameramen ;3;som
-609301;snow kid toboggan parent ;2;top
-609301;snow kid sledding cottage mom ;2;top
-312770;inscription wall tree men ;2;som
-312770;inscription wall tree men legend;2;som
-312770;legend quote treehouse ;2;som
-312770;quote tree men wall;3;som
-312770;quote tree men wall grey ;2;som
-312770;quote tree men wall poem ;3;som
-733324;hands touch girl nature ;4;top
-578004;smoke screen light street;2;som
-633863;cooking knife chopping vegetable ;5;top
-757607;wheelchair sport coach gym;4;som
-405349;lemon person apron;4;top
-380564;blackmen rap sing mic;4;som
-828435;house garden chair terrace;4;top
-783244;street tiles grey city;4;som
-281943;trial bike man bmx nature jump ;8;som
-1080823;cathedrale white building church ;4;top
-1080823;cathedrale white building church old ;2;top
-1080823;cathedrale white building church old sky ;2;top
-1080823;cathedral white old sky arc  ;4;top
-799783;priest mass inside four ;2;top
-799783;priest mass inside four ;3;top
-595922;audiance contest ovation ;2;som
-595922;platform ovation cameraman sports ;4;som
-609301;black white sledge snow pulling ;4;top
-609301;black white sledge snow pulling lying people ;2;top
-312770;tree plate create;9;som
-578004;outdoors billboard news night cinema ;4;som
-578004;outdoors entrance news night cinema light ;9;som
-757607;wheelchair sport indoor coach green ;4;som
-380564;african american microphone grey conference ;5;som
-828435;garden chair terrace clothes house;11;top
-828435;garden chair terrace clothes house backyard ;6;top
-783244;city sidewalk entrance cobble;2;som
-783244;city sidewalk entrance cobble cyclist ;2;som
-1003086;guitarist guitar acustic yellow window alcohol talking sitting;4;top
-281943;bmx jump trail helmet rider outdoors;8;som
-799783;priest church indoors ;4;som
-595922;people sitting banners stadium ;5;top
-609301;snow winter sledge pulling ;6;som
-312770;wall text tree building ;7;top
-733324;hands outside ;4;som
-578004;screen building dark ;5;top
-633863;board knife food ;2;som
-757607;wheelchair gym green ;4;top
-405349;hand lemon ;2;som
-380564;microphone black man ;11;top
-828435;house garden porch chair ;4;som
-783244;sidewalk ;15;top
-1003086;guitarist sitting ;4;som
-281943;bmx ramp nature ;17;top
-1080823;white sky temple ;23;som
-744979;fish eye ramp skateboard indoors ;9;top
-541161;bedroom window white ;2;som
-1147086;masked man lights foggy dark ;4;top
-343;indian people ;4;som
-647700;two man suit sky ;4;top
-20379;tree snow sky;2;som
-127721;dark lights building glowing ;10;top
-900219;sign ;7;som
-958292;suit sunglasses bald building ;5;top
-1098994;jeep;2;som
-667883;snowboarder mountains sky ;5;som
-920562;man fishing water ;2;top
-189079;snow mountain sky;3;som
-1025320;woman back head hand;12;top
-1070429;crane ship foggy ;14;som
-300925;man smile wooden wall suit;3;top
-727362;black hair woman white corridor ;5;som
-1080405;guitarist playing microphone ;9;top
-346112;group standing next eachother ;7;som
-860818;sky horizon ground ;4;top
-234980;tablet finger ;3;som
-237618;man smile face;3;top
-827903;sunglasses sitting cup man woman ;13;som
-806108;city tower selfie;3;som
-340554;club green light;2;som
-415597;teacher map moustache person ;7;top
-394281;blue shirt man glasses text ;2;som
-1145030;blue wedding valley;5;top
-337634;sign text grey wall ;12;som
-337634;sign text grey wall stone ;3;som
-1016254;bicycle hills clear ;7;top
-486688;wedding hall empty;2;som
-486688;wedding hall empty podium ;5;som
-486688;purple white podium hall ;2;som
-486688;purple white podium hall event ;3;som
-785006;kids green trampoline ;2;top
-495903;racing curve ;5;som
-1153009;shop clothes male red;2;top
-1153009;shop clothes ;2;top
-1153009;shop clothes aisle ;2;top
-1153009;hug ;4;top
-517109;traffic sign cycling tree lamps ;3;som
-517109;traffic sign tree lamps ;8;som
-109923;subway  male ;4;top
-272999;grass tree blurry ;4;som
-272999;grass trees sky ;5;som
-178150;attack black men cap door ;3;top
-178150;attack black men cap door masked ;2;top
-178150;men door masked ;4;top
-95394;surf wave ;7;som
-599777;meeting greyish;7;som
-219484;desert discussion film cap sand boy female ;2;top
-219484;desert movie persons ;3;top
-1130564;castle coast sea ;5;som
-799783;chair curtain person ;7;som
-595922;stand ;7;top
-609301;sledding ;8;som
-312770;text  bush concrete ;11;top
-733324;hand green ;7;som
-578004;screen stage ;3;top
-578004;screen city ;11;top
-633863;knife vegetables ;11;som
-757607;wheelchair ;5;top
-405349;hand lemon ;2;som
-380564;microphone head ;8;top
-828435;chair garden house ;4;som
-783244;plaza pavement ;15;top
-1003086;guitarist yellow shirt ;3;som
-281943;trees bycycle helmet ;8;top
-281943;trees bycycle helmet ramp ;12;top
-1080823;temple ;13;som
-744979;floor circular ;5;top
-541161;bedroom window ;3;som
-1147086;fireman smoke  dark ;11;top
-343;hindu;4;som
-647700;two man suit belt ;3;top
-647700;two man suit belt sky ;4;top
-20379;tree snow sky ;2;som
-127721;night lights neon ;9;top
-900219;text billboard night brick ;8;som
-958292;sunglasses suit window man head back ;2;top
-958292;sunglasses suit two man back ;4;top
-1098994;jeep grassland ;2;som
-667883;snow sky rock red jacket mountain ;5;som
-920562;fishing white shirt cap ;2;top
-189079;snow surf ;4;som
-1025320;hair face bracelet hand bra ;8;top
-300925;closet black suit ;3;top
-727362;picture hair door ;2;som
-1080405;guitar player microphone ;4;top
-346112;group road cliff people ;5;som
-860818;field parachute strings ;7;top
-860818;field parachute ;18;top
-234980;hand tablet brick ;4;som
-827903;tree street people sunglasses crowd ;15;som
-373440;concrete man ;8;top
-83008;newspaper ;3;som
-806108;woman street paris tower ;5;top
-132527;child building car hat ;2;som
-340554;club person green ;2;top
-415597;map man room shirt boy ;2;som
-394281;man shirt glasses ;4;top
-1145030;wedding woman flower white dress outside ;6;som
-1145030;wedding woman man flower white dress outside suit veil ;2;som
-337634;document list  paper ;6;top
-337634;document list  paper important writing ;3;top
-337634;document list  paper important printed ;3;top
-1016254;bicycle mountains path ;3;som
-486688;bed hotel rich curtains wedding ;7;top
-486688;bed hotel rich curtains wedding white ;3;top
-486688;bed hotel rich curtains white ;2;top
-486688;wedding curtains white roses petals hotel altar inside ;8;top
-785006;trampoline child green ;3;som
-495903;race street motorcycle ;2;top
-1153009;man shop clothes ;4;som
-1153009;man shop clothes hug dress ;4;som
-517109;chinese traffic billboard sign street nature ;4;top
-109923;door people glass ;2;som
-272999;forest meadow green ;2;top
-178150;rob man cap door room gun ;2;som
-95394;raft person big see wave ;4;top
-502449;woman redhead glasses street ;2;som
-502449;woman redhead glasses street curly ;2;som
-502449;woman redhead glasses street outside ;5;som
-599777;people blue conference sitting ;3;top
-219484;man sand hat glasses ;3;som
-219484;man sand hat glasses clouds ;2;som
-1130564;lighthouse bricks ;3;top
-1130564;castle bricks sea coast ;3;top
-799783;chairs church monk ;3;top
-609301;snow  tree person child coat old ;6;top
-609301;snow  tree person child coat old fuzzy ;5;top
-733324;handshake bracelet;3;top
-733324;handshake bracelet green ;2;top
-578004;television big ;8;som
-633863;knife board cut ;6;top
-633863;knife board cut white ;3;top
-757607;wheelchair match green ;4;som
-380564;microphone black woman ;4;som
-828435;house chair door garden ;3;top
-281943;bicycle helmet man outside ;6;som
-1080823;church sky white ;5;top
-541161;bed fan hanger window room ;2;top
-541161;bed fan window room white ;2;top
-541161;bed fan window room white frames ;2;top
-647700;men guns suit outside ;2;som
-1098994;safari jeep ;3;top
-990334;man tent ;2;som
-667883;mouintans snowboarder snow ;8;top
-920562;fishing boat water ;2;som
-189079;snow flag mountains ;2;top
-189079;snow flag mountains clouds ;3;top
-1025320;brida veil ;2;som
-1025320;brida veil dressing preparation ;2;som
-799783;church celebration ;10;top
-595922;crowd stadium cameraman ;4;som
-609301;snow kid photograph ;6;top
-312770;sign wall greenery ;8;som
-733324;woman hand hand park ;2;top
-578004;screen dark stage ;13;som
-578004;dark stage ;5;som
-578004;dark stage light smoke ;3;som
-578004;stage television ;5;som
-578004;dark television;4;som
-757607;wheelchair green gym ;4;som
-405349;hand fruit ;4;top
-380564;black man singing ;3;som
-380564;man singing microphone ;10;som
-380564;man singing microphone room ;7;som
+799783;prayer monks;0;som;
+799783;prayer church ;1;som;1
+799783;prayer monks;1;som;1
+799783;prayer monks church ;1;som;1
+799783;prayer monks chairs ;0;som;
+799783;prayer chairs ;0;som;
+799783;prayer cmonks;0;som;
+799783;monks church ;4;som;2,1,1,1
+595922;jury;0;top;
+595922;stadium ;1;top;1
+595922;cameraman stadium ;4;top;3,1,2,1
+595922;cameraman stadium  white ;0;top;
+609301;sledding winter ;4;som;2,1,1,1
+609301;carriage winter ;0;som;
+609301;carriage winter white ;4;som;1,1,1,2
+312770;leaves sign person;3;top;1,1,1
+733324;person hand green ;0;som;
+733324;person hands green ;0;som;
+733324;handshake green ;2;som;1,1
+733324;hands bracelet green ;5;som;2,2,1,1,1
+578004;exhibition dark;0;top;
+578004;exhibition dark screen ;3;top;1,2,1
+633863;kinchen cutting ;2;som;2,1
+757607;wheelchair sport ;4;top;2,1,1,1
+405349;oranges shell ;0;som;
+405349;orange peel;0;som;
+405349;lemons peel ;0;som;
+405349;lemons  shell ;1;som;1
+380564;singer black ;3;top;2,1,1
+380564;young black singer ;0;top;
+380564;young black singer  piano ;0;top;
+380564;young black singer  green ;4;top;1,1,1,1
+380564;black singer microphone ;3;top;1,1,1
+828435;house railing ;2;som;1,1
+828435;house railing armchair ;0;som;
+828435;house railing trees ;6;som;1,2,1,1,1,1
+828435;yellow house railing trees ;2;som;1,1
+783244;paved street ;1;top;1
+783244;pedestrian street ;0;top;
+783244;paved street bike ;2;top;1,2
+783244;paved street posts bike ;0;top;
+783244;paved street posts ;0;top;
+783244;paved street columns ;0;top;
+783244;paved street channel ;3;top;1,2,1
+1003086;guitar bottle;0;som;
+1003086;guitarist bottle;0;som;
+1003086;guitarist sitting bottle;0;som;
+1003086;guitarist sitting bottle yellow ;4;som;1,1,1,2
+281943;biker cross ;0;top;
+281943;biker terrain ;0;top;
+281943;cross bicycle ;0;top;
+281943;cross bicycle forest ;0;top;
+281943;cross bicycle uphill ;0;top;
+281943;cross bicycle obstacle ;0;top;
+281943;cross bicycle track ;0;top;
+281943;cross biker track ;1;top;1
+281943;cross biker track forest ;0;top;
+281943;biker track forest ;5;top;1,1,1,1,1
+1080823;white building ;1;som;1
+1080823;white church ;0;som;
+1080823;white mosque;0;som;
+1080823;white temple ;2;som;2,1
+1080823;white temple east ;0;som;
+1080823;white temple eastern ;4;som;1,1,1,1
+1080823;white temple bay ;2;som;1,1
+1080823;white temple bow window ;0;som;
+744979;fisheye gym;0;top;
+744979;lense gym;0;top;
+744979;circle gym;0;top;
+744979;gym beams ;3;top;1,1,2
+541161;bedroom white window ;2;som;1,1
+541161;bedroom white window fan ;7;som;2,1,1,2,1,1,2
+1147086;people mist lights ;2;top;2,1
+343;india shop ladies ;2;som;2,2
+647700;two man ;1;top;1
+647700;two man suit ;4;top;2,1,2,1
+647700;two man suit gun ;5;top;1,2,1,1,1
+20379;tree snow ;1;som;1
+127721;night lights theatre ;3;top;1,1,2
+127721;night green light persons;0;top;
+127721;night lights persons;0;top;
+127721;night theatre persons;0;top;
+127721;night lights building persons;7;top;2,1,2,1,1,1,2
+799783;chapel;0;top;
+799783;church ;0;top;
+799783;church four men ;0;top;
+799783;church four men chairs ;0;top;
+799783;church four men chairs oltar;0;top;
+799783;church four monk chairs oltar;0;top;
+799783;church four monk read ;0;top;
+799783;four monk ;0;top;
+799783;four monk church ;0;top;
+799783;four monk readers ;0;top;
+595922;crowd;0;som;
+595922;crowd racers ;0;som;
+595922;sitting crowd ;0;som;
+595922;sitting crowd billboard ;4;som;1,2,9,1
+609301;winter sledge kid grandmother ;0;top;
+609301;old photo winter sledge kid grandmother ;0;top;
+609301;winter sledge old photo;0;top;
+609301;kid laying sledge ;0;top;
+609301;children laying sledge ;0;top;
+609301;sledge ;0;top;
+609301;winter ;0;top;
+609301;winter children ;0;top;
+609301;winter children sledge ;0;top;
+609301;snow sledge ;0;top;
+609301;snow sledge children ;0;top;
+733324;handshake ;0;top;
+733324;handshake green ;0;top;
+633863;kitchen board ;0;top;
+633863;kitchen board knife ;0;top;
+757607;wheelchair sport ;4;som;1,1,3,1
+405349;hand lemon ;1;top;2
+380564;black woman microphone ;0;som;
+380564;singer ;0;som;
+380564;black singer ;0;som;
+380564;black singer microphone ;0;som;
+380564;black singer microphone 3 ;0;som;
+380564;portrait microphone 3 ;0;som;
+380564;black man microphone ;0;som;
+1003086;guitarist yellow tshirts ;0;top;
+1003086;guitarist tshirts ;0;top;
+1003086;guitarist bottle ;0;top;
+1003086;yellow tshirt ;0;top;
+1003086;yellow tshirt guitarist ;0;top;
+1003086;party guitarist ;0;top;
+1003086;acoustic guitar ;0;top;
+1003086;acoustic guitar yellow tshirt ;0;top;
+281943;biker jump ;0;som;
+281943;bicycle jump ;0;som;
+281943;bicycle jump park ;0;som;
+1080823;white cathedral ;0;top;
+1080823;white cathedral rounded rooftop ;0;top;
+1080823;turkish white cathedral ;0;top;
+343;indian wedding ;0;top;
+647700;mafia two guys ;0;som;
+647700;mafia;0;som;
+647700;murderer pistols ;0;som;
+647700;two man with pistols ;0;som;
+647700;criminals ;0;som;
+20379;snow tree ;1;top;1
+1098994;jeep safari ;0;top;
+1098994;jeep safari couple ;0;top;
+990334;tent sleeping man ;0;som;
+667883;mountain snowboarder ;0;top;
+667883;mountain snowboarder pink ;0;top;
+920562;two fisherman ;0;som;
+920562;two fisherman boat ;0;som;
+920562;two fisherman small boat ;0;som;
+1070429;tanker ;0;top;
+727362;black hair back ;0;top;
+727362;black hair back white;0;top;
+1080405;guitar singer ;0;som;
+1080405;acoustic guitar singer;3;som;1,2,4
+346112;group photo mountains ;0;top;
+346112;group photo;0;top;
+346112;group photo lake ;0;top;
+346112;group photo lake mountain ;0;top;
+860818;kite ;0;som;
+237618;smile white shirt ;0;som;
+237618;smile profile white shirt ;0;som;
+237618;pornography ;0;som;
+83008;theatre program ;0;top;
+83008;theatre list ;0;top;
+726654;mountain top snow ;1;top;1
+780226;graffiti rap clip ;0;som;
+780226;graffiti rap singer ;0;som;
+799783;inside church ;0;som;
+799783;inside church chear;3;som;1,2,1
+799783;inside church ;1;som;1
+609301;sledge in baby;0;som;
+609301;sledge ;0;som;
+609301;slege ;0;som;
+609301;sledge ;0;som;
+609301;sledge snow ;4;som;1,2,1,1
+312770;text;0;top;
+312770;text stone ;10;top;1,1,1,1,1,1,1,1,1,1
+733324;handshake ;8;som;2,1,2,2,1,1,1,1
+633863;cutting ;7;som;1,4,1,1,1,1,4
+757607;wheelchair ;0;top;
+757607;wheelchair green ;0;top;
+757607;wheelchair ;5;top;1,2,1,2,1
+405349;hand orange ;0;som;
+405349;hand lemon ;1;som;1
+380564;singing man microphone ;3;top;2,1,1
+828435;house pool ;0;som;
+828435;house grass ;3;som;2,1,2
+828435;house grass garden ;5;som;2,2,1,2,1
+783244;pavement ;13;top;2,1,3,2,2,1,2,2,2,3,2,5,1
+1003086;man playing guitar ;3;som;1,1,1
+281943;bike ride ;8;top;1,1,1,3,1,6,2,1
+281943;bike ride black T-ishrt;0;top;
+281943;bike ride ;5;top;2,2,1,1,2
+1080823;white castle ;3;som;1,1,1
+799783;room wood priest people praying cloak ;5;top;6,1,1,1,4
+595922;camera cameraman crowd ;2;som;4,2
+609301;snow child sledge trees ;0;top;
+609301;snow child sledge vintage ;2;top;3,3
+609301;snow child sledge vintage old ;0;top;
+609301;snow child sledge vintage winter ;4;top;3,5,4,5
+312770;text person paper bushes ;5;som;3,3,3,4,3
+733324;hand hands arm woman ;0;top;
+733324;hand hands arm woman bracelet ;0;top;
+733324;hands arm woman bracelet ;17;top;4,4,4,5,4,3,5,7,6,5,6,6,6,6,1,2,3
+578004;screen dark ;0;som;
+578004;screen dark television ;1;som;3
+633863;cooking knife herbs cutting ;0;top;
+757607;handicapped wheelchair green human ;3;som;2,2,5
+405349;hand lemons sleeve ;0;top;
+380564;singer microphone black ;0;som;
+828435;building chair door ;0;top;
+828435;building chair door tree ;1;top;3
+783244;sidewalk street bicycle ;2;som;3,6
+783244;sidewalk street bicycle;4;som;3,5,4,3
+1003086;guitar guitarist window party ;0;top;
+1003086;guitar guitarist window ;14;top;4,4,4,4,3,5,4,4,4,4,4,3,3,3
+281943;bicycle helmet trees ;9;som;2,1,3,2,3,2,4,4,3
+1080823;white building temple sky ;7;top;3,3,3,6,6,4,5
+541161;room walls window white bed hanger ;0;top;
+343;hindu india praying dress ;5;top;3,4,3,3,3
+647700;men pistol shirt sky handgun ;0;som;
+647700;men shirt sky handgun ;2;som;1,1
+647700;shirt sky handgun man suit ;3;som;1,3,3
+20379;winter snow tree ;0;top;
+20379;winter snow tree sky ;3;top;4,5,5
+958292;men sunglasses suit bold ;3;som;2,4,2
+1098994;safari car couple ;0;top;
+1098994;safari car couple grass ;1;top;2
+990334;tent sleeping man ;0;som;
+667883;snowboard snowboarder sky mountain snow ;6;top;4,3,4,2,3,2
+799783;church priest brown ;0;top;
+799783;church priest brown wooden chairs ;1;top;3
+799783;church priest brown wooden chairs reading ;0;top;
+799783;church priest brown wooden chairs reading four ;2;top;3,3
+799783;church priest wooden chairs reading book ;1;top;2
+799783;church priest wooden chairs reading book monk ;1;top;1
+799783;church priest wooden chairs book monk;5;top;7,2,4,5,2
+595922;spectators camera judge advertise ;1;som;2
+595922;spectators camera judge advertisement ;0;som;
+595922;spectators advertisement cameraman;0;som;
+595922;spectators advertisement cameraman fans ;2;som;1,4
+595922;spectators advertisement cameraman fans audience ;2;som;1,6
+609301;snow winter bobbing ;0;top;
+609301;snow winter bobbing old ;0;top;
+609301;snow winter bobbing tree ;0;top;
+609301;snow winter tree house ;0;top;
+609301;snow winter tree house kid ;0;top;
+609301;snow winter tree house kid sled ;4;top;1,1,2,1
+609301;snow winter tree house kid sled pulling ;3;top;2,4,1
+312770;tree create stone man ;1;som;1
+312770;tree create stone man words ;0;som;
+312770;tree stone man words ;0;som;
+312770;tree stone man words shirt ;0;som;
+312770;stone man words shirt leafs ;0;som;
+312770;stone man words shirt leafs tree ;8;som;4,7,5,3,5,2,3,3
+312770;stone man words shirt leafs tree create ;10;som;2,3,4,5,4,7,3,3,7,2
+733324;hand greensleeves shirt ;0;top;
+733324;hand greensleeves shirt handshake ;1;top;1
+733324;hand greensleeves shirt handshake grass ;6;top;3,6,9,6,7,1
+733324;hand shirt handshake grass shoulder ;2;top;2,2
+578004;screen man ;0;som;
+578004;screen ;0;som;
+578004;screen tree ;0;som;
+578004;screen tree fog ;4;som;1,1,1,1
+578004;screen tree fog city ;11;som;3,4,3,4,6,4,4,3,3,5,7
+578004;screen tree fog city shine white ;0;som;
+578004;screen tree fog city shine ;3;som;2,1,1
+578004;screen tree fog city shine  whiteboard ;1;som;2
+578004;screen tree fog city shine  whiteboard dark ;3;som;2,2,4
+578004;screen tree city shine  whiteboard dark blurry ;0;som;
+578004;screen tree city shine  dark blurry;0;som;
+578004;screen tree city shine dark blurry;0;som;
+578004;screen tree city shine dark blurry ;0;som;
+578004;screen city shine dark blurry;6;som;1,3,6,5,8,4
+578004;screen shine dark blurry;0;som;
+578004;screen shine room blurry;0;som;
+578004;screeen blurry shine room ;2;som;2,5
+578004;screen blurry shine room 10 ;0;som;
+578004;screen blurry shine room ;34;som;2,4,4,6,3,3,1,2,3,4,2,4,3,4,2,1,1,2,1,2,2,1,2,2,3,2,2,3,4,3,2,2,3,5
+578004;screen blurry shine room dark ;6;som;2,1,1,5,4,2
+633863;knife cutting garlic ;1;top;1
+757607;wheelchair sport green ;6;som;1,2,2,2,4,1
+405349;orange peel square ;0;top;
+405349;orange peel square shirt ;0;top;
+405349;orange peel shirt squares ;0;top;
+405349;orange peel shirt squares peeling ;1;top;1
+405349;orange peel shirt squares peeling hand ;1;top;1
+405349;peel shirt squares peeling hand lemon ;1;top;3
+380564;sing microphone black ;1;som;2
+380564;sing microphone black woman ;5;som;3,1,1,1,1
+380564;sing microphone black woman window ;3;som;1,2,2
+380564;sing microphone black window 10 ;0;som;
+380564;sing microphone black window;0;som;
+380564;sing microphone black window singer ;2;som;2,1
+380564;sing microphone black singer man ;6;som;1,1,2,2,2,3
+828435;house garden armchair ;2;top;1,1
+828435;house garden armchair tree chair ;2;top;2,1
+783244;sidewalk city ;4;som;2,1,4,2
+1003086;guitar man ;0;top;
+1003086;guitar man yellow;0;top;
+281943;bike jump helmet ;8;som;1,2,2,1,2,2,2,2
+281943;bike jump helmet man ;21;som;1,2,2,1,2,3,1,2,1,2,5,3,2,3,2,2,2,2,2,2,1
+281943;bike jump helmet forest ;7;som;1,1,1,1,1,2,1
+281943;bike jump forest ;0;som;
+281943;bike jump forest bicycle ;4;som;1,2,4,4
+1080823;white house church ski ;17;top;1,1,1,3,3,4,2,1,2,1,2,2,1,2,3,3,5
+744979;skate blurry ;10;som;1,1,2,2,5,8,7,5,6,5
+541161;room fan window white bed ;4;top;2,6,1,1
+1147086;man mask fire dark ;1;som;1
+343;indian people ;2;top;1,1
+343;indian people blue ;4;top;1,2,3,3
+647700;suit gun man ski ;0;som;
+647700;suit gun man sky ;2;som;1,1
+647700;suit gun man sky dialogue ;0;som;
+647700;suit gun man sky ;10;som;1,1,2,1,1,2,2,2,2,1
+647700;suit gun man sky pistol belt ;3;som;2,1,1
+647700;suit gun man sky pistol belt men ;6;som;1,1,2,2,2,1
+20379;tree snow sky ;1;top;1
+127721;dark lights green ;0;som;
+127721;dark lights ;20;som;1,2,3,2,3,3,2,3,2,2,2,2,1,1,2,2,1,2,2,3
+127721;dark lights wire ;12;som;2,2,3,4,4,2,3,3,3,4,4,3
+127721;dark lights people ;10;som;2,2,1,4,4,3,1,1,3,3
+900219;words black ;0;top;
+900219;words black stone ;10;top;1,2,2,3,2,4,4,1,3,3
+900219;words black stone sign ;17;top;3,4,2,4,4,4,4,5,5,2,2,3,4,2,5,1,1
+900219;words black stone sign advertisement ;17;top;1,2,1,1,2,1,1,4,2,4,2,1,1,1,1,2,1
+958292;bald man suit ;2;som;1,1
+958292;bald man suit sunglasses ;15;som;1,1,1,1,1,1,1,3,2,2,1,1,2,2,1
+1098994;truck couple field ;1;top;1
+990334;man tent sleeping ;1;som;1
+667883;ski mountain sky ;1;top;1
+667883;ski mountain sky pink ;0;top;
+920562;fish fishing boat water man ;1;som;4
+799783;monk church praying ;0;som;
+799783;monk church praying orange ;0;som;
+799783;monks church praying;0;som;
+799783;monks church praying cross ;1;som;1
+799783;monks church praying cross bible chairs ;0;som;
+799783;monks church praying  chairs ;0;som;
+799783;monks church praying light ;1;som;3
+799783;monks church praying light curtain ;0;som;
+799783;monk church praying wood chairs ;0;som;
+799783;monk church praying wood chair curtain ;6;som;1,1,1,2,1,3
+595922;cameraman advertisements champions ;0;top;
+595922;cameraman advertisements champions wizard ;0;top;
+595922;cameraman advertisements champions crowd ;2;top;2,1
+595922;cameraman advertisements  crowd ;0;top;
+595922;cameraman advertisements crowd white dressed ;0;top;
+595922;advertisement audience cameraman ;0;top;
+595922;advertisement audience cameraman champions ;0;top;
+595922;advertisement audience cameraman  ;0;top;
+595922;advertisement audience cameraman wizard ;0;top;
+595922;advertisement audience cameraman ;0;top;
+595922;advertisement audience cameraman men sitting ;1;top;1
+595922;advertisement audience cameraman men sitting white wall ;0;top;
+595922;advertisement audience cameraman men sitting white ;0;top;
+595922;advertisement audience cameraman men sitting ;1;top;1
+595922;advertisement audience cameraman men sitting billboard ;0;top;
+595922;advertisement audience cameraman men sitting board ;0;top;
+595922;advertisement audience cameraman men sitting poster ;0;top;
+595922;advertisement audience cameraman men sitting;0;top;
+595922;advertisement audience cameraman ;1;top;1
+595922;advertisement audience cameraman champion ;0;top;
+595922;advertisement audience cameraman interview ;1;top;1
+595922;advertisement audience cameraman interview outside ;2;top;1,1
+595922;spectators cameraman advertisements ;2;top;1,1
+595922;spectators cameraman advertisements fans ;6;top;2,2,1,5,1,5
+609301;snow sled kid mom drag ;0;som;
+609301;snow sled kid mom drag old ;0;som;
+312770;create man transparent bush wall ;2;top;1,1
+312770;create man transparent bush wall stone writing ;0;top;
+312770;create man transparent bush wall stone;7;top;3,1,4,2,2,3,4
+312770;man transparent bush wall stone;1;top;2
+312770;man transparent bush wall stone shirt  lettering ;4;top;2,4,1,2
+733324;hand shaking woman bracelet blouse ;0;som;
+733324;hand shaking woman bracelet blouse green ;0;som;
+733324;hand shaking woman bracelet blouse green park ;0;som;
+733324;hand woman bracelet blouse green park ;4;som;2,2,2,1
+733324;hand woman bracelet blouse green  ;0;som;
+733324;woman handshake park green ;0;som;
+733324;woman handshake park green close ;2;som;1,2
+733324;woman handshake park green blouse ;3;som;1,1,3
+578004;screen blurry tree room ;0;top;
+578004;screen blurry tree room shine ;0;top;
+578004;screen blurry room shine ;1;top;3
+633863;knife board ;4;som;1,4,3,1
+757607;wheelchair sport coach ;4;top;1,5,5,2
+405349;lemon peels cooking ;2;som;1,3
+380564;black person microphone speaking ;2;top;1,3
+828435;house chair garden fence ;11;som;4,3,2,1,1,4,1,1,2,1,3
+828435;house chair garden fence old ;1;som;1
+828435;house chair garden fence old yellow ;7;som;3,1,2,3,1,3,2
+783244;sidewalk city bicycle ;5;top;2,3,2,2,3
+783244;sidewalk city bicycle pavement ;14;top;2,2,3,2,2,1,3,3,2,3,2,5,4,2
+783244;sidewalk city bicycle pavement stripes ;3;top;3,3,1
+783244;sidewalk city  ;1;top;2
+783244;sidewalk city pavement ;12;top;2,2,2,2,2,3,2,2,1,2,1,2
+1003086;man guitar playing ;4;som;1,1,2,2
+281943;forest bicycle jump ;3;top;1,2,3
+1080823;building church white ;1;som;1
+1080823;building white mosque;0;som;
+1080823;building white church ;0;som;
+1080823;building white church sky ;3;som;2,2,2
+1080823;building white church sky architecture ;2;som;1,2
+1080823;building white church sky architecture muslim ;0;som;
+1080823;building white church sky muslim ;3;som;4,3,3
+744979;room blurry peephole ;0;top;
+744979;room blurry peephole round ;1;top;2
+744979;room blurry peephole people ;17;top;2,1,2,3,4,2,4,3,3,1,3,2,2,3,13,3,2
+541161;bedroom window bed white ;3;som;1,3,1
+1147086;men covered fog smoke ;0;top;
+1147086;men covered fog smoke lights ;0;top;
+1147086;men fog smoke lights mask ;12;top;1,2,4,3,2,2,4,2,1,2,2,4
+343;indian people room color ;3;som;2,3,1
+647700;men gun smoking ;0;top;
+647700;men gun smoking two ;0;top;
+647700;men gun smoking two belt ;0;top;
+647700;men suit guns sky ;0;top;
+647700;men suit guns sky movie ;0;top;
+647700;men suit guns sky ;0;top;
+647700;men suit guns sky talkign ;1;top;3
+20379;tree winter snow sky ;2;som;2,1
+127721;dark lights men ;7;top;1,1,2,2,3,2,2
+127721;dark lights men ship ;5;top;1,1,1,1,1
+127721;dark lights men ship neon ;3;top;3,2,4
+127721;dark lights men ship ;2;top;2,2
+127721;dark lights men ;3;top;1,1,3
+127721;dark lights men blurry ;0;top;
+127721;dark lights men blurry ship ;4;top;2,3,3,1
+127721;dark lights men blurry ship stick ;23;top;1,2,4,2,1,3,3,3,3,3,2,3,3,2,2,3,4,4,4,4,3,3,3
+127721;dark lights men blurry ship stick holding ;0;top;
+127721;dark lights men ship stick holding ;0;top;
+900219;board writing ;0;som;
+900219;board writing street blurry ;10;som;1,3,2,2,2,2,1,1,2,3
+900219;board writing street blurry wall ;0;som;
+900219;board writing street blurry;0;som;
+900219;board writing street blurry ;2;som;2,2
+900219;board writing street blurry close ;7;som;2,2,3,2,3,3,2
+958292;men suit sunglasses bold ;4;top;1,4,4,4
+1098994;safari car couple ;3;som;1,2,1
+1098994;safari car couple looking ;0;som;
+1098994;safari car looking peole ;0;som;
+1098994;safari car looking people ;0;som;
+1098994;safari car looking people terrain ;2;som;5,2
+990334;men tent ;0;top;
+990334;men tent sleeping ;0;top;
+667883;mountains man snowboard ;2;som;2,2
+667883;mountains man snowboard pink ;0;som;
+667883;mountains man snowboard pink sky ;0;som;
+799783;christ monk chairs saint ;3;top;3,2,2
+595922;crowd audience stadium cameraman ;4;som;1,2,3,6
+609301;snow white man child ;4;top;3,2,3,3
+312770;bush word green white shoulder ;12;som;3,5,4,5,2,2,1,1,1,1,1,1
+733324;hand palms shoulder body green ;5;top;2,6,2,4,3
+578004;display television dark white ;18;som;1,4,4,5,4,4,3,4,3,3,1,3,2,4,2,3,4,1
+633863;knife brown white slicing table herbs ;0;top;
+757607;green wheelchair man sport ;2;som;2,4
+405349;hand yellow ball lemon red white ;0;top;
+380564;black microphone talking face fingers ear shoulder ;4;som;2,4,1,1
+828435;house chair column tree white black green;23;top;1,2,3,4,3,3,5,2,3,3,5,3,4,4,4,4,3,3,4,4,3,3,3
+783244;path building people tree white gray ;5;som;1,1,2,2,1
+799783;church ;0;som;
+799783;church praying ;0;som;
+799783;church praying people ;0;som;
+799783;church praying people chairs ;0;som;
+799783;church praying people chairs light ;0;som;
+799783;church praying people chairs light candle ;0;som;
+799783;church praying people chairs light candle wood ;0;som;
+609301;snow children adult ;0;som;
+609301;snow children adult sledge ;0;som;
+609301;snow children adult sledge tree ;0;som;
+733324;female handshake ;0;som;
+733324;female handshake  grey ;0;som;
+733324;female handshake  grey bracelet ;2;som;1,1
+733324;female  grey bracelet hand ;0;som;
+733324;female  grey bracelet hand hands ;0;som;
+733324;female  grey bracelet hand hands top ;0;som;
+733324;bracelet top hand ;1;som;5
+733324;bracelet top hand woman ;1;som;2
+733324;bracelet top hand woman park ;2;som;1,1
+733324;bracelet top hand woman park grey ;5;som;1,2,3,1,4
+633863;cooking kitchen knife ;0;som;
+757607;wheelchair ;0;top;
+757607;wheelchair football ;0;top;
+757607;wheelchair football trainer ;4;top;10,1,4,8
+405349;hand lemon ;1;som;1
+380564;black singer ;0;top;
+380564;black singer shirt ;0;top;
+380564;black singer shirt short hair ;0;top;
+380564;black singer shirt microphone ;0;top;
+380564;black singer shirt microphone glass ;0;top;
+828435;chair house tree handrail ;0;som;
+828435;chair house tree handrail door ;4;som;1,3,8,2
+828435;chair house tree handrail door windows ;0;som;
+828435;chair house tree handrail door windows roof ;0;som;
+783244;bike biker sidewalk ;0;top;
+783244;bike biker sidewalk city ;0;top;
+783244;bike biker sidewalk city stone ;1;top;2
+783244;bike biker sidewalk city stone people ;1;top;6
+783244;bike biker sidewalk city stone people square ;2;top;2,6
+783244;bike biker sidewalk city stone people square cafe ;0;top;
+783244;bike biker sidewalk city stone people square cafe car ;0;top;
+783244;bike biker sidewalk city stone people square cafe car lines ;0;top;
+1003086;guitar guitarist ;0;som;
+1003086;guitar guitarist acoustic ;3;som;4,1,5
+281943;bicycle helmet ramp woods ;1;top;7
+1080823;church building sky ;1;som;2
+1080823;church building sky arch ;2;som;2,6
+744979;skateboard ramp people hall ;2;top;5,12
+541161;room bedroom window ;3;som;1,3,3
+1147086;fire fireman ;0;top;
+1147086;fire fireman camera ;0;top;
+1147086;fire fireman camera people ;8;top;1,5,7,5,2,7,5,5
+343;india ;0;som;
+343;india praying ;0;som;
+343;india praying statues ;0;som;
+647700;man gun suit ;0;top;
+647700;man gun suit two ;4;top;2,2,3,2
+20379;tree snow ;0;som;
+20379;tree snow sky ;1;som;1
+127721;people light bulb ;1;top;2
+127721;people light bulb party ;5;top;5,2,3,4,5
+127721;people light bulb party boat ;0;top;
+127721;people light bulb party boat night ;7;top;4,1,1,1,2,3,2
+958292;guy sunglasses suit skin ;0;top;
+958292;guy sunglasses suit skin two ;0;top;
+958292;guy sunglasses suit skin two head ;0;top;
+958292;guy sunglasses suit skin two head hand ;1;top;1
+958292;guy sunglasses suit skin two head hand window ;0;top;
+1098994;car jeep man female desert ;1;som;1
+990334;man tent ;0;top;
+990334;man tent sleeping bag ;0;top;
+667883;mountain helmet snowboarder ;0;som;
+667883;mountain helmet snowboarder peak ;12;som;3,7,3,2,4,2,2,3,4,4,3,3
+920562;boat fisherman fishing ;0;top;
+189079;man mountain sky sail ;0;som;
+189079;man mountain sky sail snow ;0;som;
+1025320;wedding hairstyle women ;0;top;
+1025320;wedding hairstyle women hair ;7;top;3,3,4,2,1,2,2
+1025320;wedding hairstyle women hair veil ;0;top;
+1025320;wedding hairstyle women hair ;0;top;
+1070429;crane ;0;som;
+1070429;crane boat ;0;som;
+1070429;crane boat dock ;0;som;
+1070429;crane boat dock fog ;5;som;1,5,9,1,1
+727362;hair women corridor ;1;som;3
+727362;hair women corridor door window ;2;som;2,2
+727362;hair women corridor door window picture ;4;som;1,2,3,1
+1080405;guitar guitarist microphone man show ;1;top;2
+1080405;guitar guitarist microphone man show acoustic ;0;top;
+346112;group photograph lake ;0;som;
+346112;group photograph lake people ;1;som;1
+860818;desert sport ;0;top;
+860818;desert sport dirt ;0;top;
+860818;desert sport dirt wind ;3;top;1,1,5
+234980;tablet hand ;5;som;1,6,2,1,4
+237618;man smile ;0;top;
+237618;man smile shirt ;0;top;
+237618;man smile shirt profile ;0;top;
+237618;man smile shirt;0;top;
+827903;man woman sunglasses top coffee ;0;som;
+827903;man woman sunglasses top coffee outdoor party ;0;som;
+83008;newspaper article ;1;som;5
+726654;mountain peak ;0;som;
+726654;mountain peak snow ;0;som;
+1031917;climbing hands gloves ;5;som;2,4,4,4,1
+468747;article ;0;top;
+468747;article internet ;2;top;1,2
+468747;article internet sport ;3;top;1,1,1
+799783;church praying men ;0;som;
+799783;church praying 4 men ;0;som;
+799783;church praying four men ;0;som;
+799783;church praying four men chairs light ;0;som;
+799783;church praying four men chairs light jesus ;0;som;
+799783;church praying four men chairs light candles ;0;som;
+595922;cameraman audiance ;0;top;
+595922;cameraman audiance adds ;0;top;
+595922;cameraman audiance adds people ;0;top;
+609301;snow child sledge ;0;som;
+609301;snow child sledge tree;0;som;
+609301;snow laying child sledge tree ;0;som;
+312770;green tree paper words ;0;top;
+312770;green tree paper words create;0;top;
+733324;hands shoulder woman green shirt;0;som;
+733324;hands shoulder woman green shirt bracelet ;0;som;
+733324;hands shoulder woman green shirt bracelet grass ;1;som;1
+633863;knife kitchen ;0;som;
+757607;wheelchair man gym green ;1;top;5
+405349;lemon hand ;0;som;
+380564;singler black woman microphone ;0;top;
+380564;singler black woman microphone green shirt ;0;top;
+380564;singer black woman microphone ;0;top;
+380564;singer black woman microphone glass ;0;top;
+380564;singer black woman microphone glass three ;0;top;
+380564;singer black woman microphone beige shirt ;0;top;
+380564;singer black woman microphone beige shirt green shirt ;0;top;
+828435;garden house chair ;0;som;
+828435;garden house black chair ;0;som;
+828435;baige garden house black chair ;0;som;
+828435;baige garden house black chair open door ;0;som;
+828435;baige garden house black chair open door fence ;0;som;
+828435;baige garden house black chair open door fence hood ;0;som;
+783244;black and white street cubes cycle ;0;top;
+783244;black and white street cubes;0;top;
+783244;black and white sidewalk cubes ;0;top;
+783244;black and white sidewalk cubes  building entrance ;0;top;
+783244;black and white sidewalk cubes  building entrance cyclist ;0;top;
+783244;black and white sidewalk cubes  building entrance cyclist red shirt ;0;top;
+783244;black and white sidewalk cubes trashcan  building entrance cyclist red shirt ;0;top;
+783244;black and white sidewalk cubes white trashcan  building entrance cyclist red shirt ;0;top;
+783244;black and white sidewalk cubes white trashcan;0;top;
+783244;black and white sidewalk cubes white trashcan cyclist ;0;top;
+783244;black and white sidewalk cubes white trashcan cyclist buildings ;0;top;
+1003086;man guitar yellow shirt bottle;1;som;1
+281943;cyclist black tshirt red helmet;0;top;
+281943;cyclist black tshirt red helmet nature jumper ;0;top;
+281943;cyclist black tshirt red helmet nature jumper green trees ;0;top;
+281943;cyclist black cloth red helmet nature jumper green trees ;0;top;
+281943;cyclist black cloth red helmet nature jump green trees ;0;top;
+281943;cyclist black cloth red helmet nature jump green trees mud ;0;top;
+1080823;white cathedral blue sky ;0;som;
+1080823;white building blue sky ;0;som;
+541161;room window bad white fan;0;som;
+541161;bedroom open window bed white fan;1;som;3
+1147086;men smoke lights ;0;top;
+343;india market ;0;som;
+343;india wedding ;0;som;
+343;india traditional  wedding ;0;som;
+647700;two men guns suits ;0;top;
+647700;two men guns suits sky ;0;top;
+20379;tree snow sky;0;som;
+958292;two men suits sunglasses bold  window ;0;top;
+958292;two men suits sunglasses bold;0;top;
+958292;two men suits sunglasses bold yellow wall ;0;top;
+958292;two men black suits sunglasses bold yellow wall ;0;top;
+799783;church mass priests ;3;som;1,2,2
+799783;mass priests ;2;som;3,1
+799783;mass priests theatre ;7;som;2,3,5,5,4,3,2
+609301;winter sled vintage ;1;som;3
+312770;motivational bushes ;0;top;
+312770;motivational bushes create ;0;top;
+312770;motivational bushes create text ;1;top;1
+312770;motivational bushes create text person ;3;top;2,1,1
+733324;handshake ;6;som;2,1,2,4,6,3
+733324;handshake girl bracelet ;2;som;1,3
+578004;night bikes billboard ;0;top;
+578004;night motorbikes billboard ;0;top;
+578004;night motorbikes billboard parked ;6;top;2,2,3,5,1,2
+633863;cooking cutting ;1;som;3
+757607;wheelchair sport ;5;top;1,1,1,10,2
+405349;hand lemon ;1;som;1
+380564;black rapper ;0;top;
+380564;black speach microphone ;4;top;2,1,1,4
+380564;black speach microphone news ;0;top;
+828435;house tree garden ;4;som;1,4,1,2
+828435;house tree garden chair ;4;som;1,4,2,4
+799783;christian reading jesus ;0;som;
+799783;christian reading jesus church ;0;som;
+799783;christian reading jesus church men reading ;0;som;
+799783;christian reading jesus church men reading crucifix ;0;som;
+799783;christian reading jesus church men reading crucifix chairs ;0;som;
+799783;christian reading jesus church men reading crucifix chairs four ;0;som;
+799783;christian reading jesus church men reading crucifix chairs four table ;0;som;
+799783;christian reading jesus church men reading crucifix chairs four table white tablecloth ;0;som;
+799783;christian reading jesus men reading crucifix chairs four table white tablecloth ;0;som;
+799783;christian reading men reading crucifix chairs four table white tablecloth ;0;som;
+799783;christian reading men jesus reading crucifix chairs four table white tablecloth ;0;som;
+799783;christian reading men jesus reading crucifix chairs four table white tablecloth pictures ;0;som;
+799783;christian reading men jesus reading crucifix chairs four table white tablecloth pictures robe ;0;som;
+595922;crowd competion judges cameraman ;0;top;
+609301;kid sled snow old two person tree ;0;som;
+609301;kid sled snow old two person lie trees white red shoes;0;som;
+609301;kid sled snow old two person lie trees white red shoes bad quality ;0;som;
+609301;kid sled snow old two person lie trees white red shoes bad quality house ;0;som;
+609301;kid sled snow old two person lie trees white red shoes bad quality house pull ;0;som;
+633863;brown cutting board knife white table ;0;som;
+633863;brown cutting board knife white table hand ;0;som;
+633863;brown cutting board knife white table hand herbs ;0;som;
+757607;wheelchair four person match green curtain coach ;1;top;4
+405349;lemon hand peeling checkered shirt white apron ;2;som;2,12
+405349;lemon hand peeling checkered shirt white apron woman ;3;som;4,13,9
+405349;four lemon hand peeling checkered shirt white apron woman ;1;som;2
+380564;black man singing microphone pink sweatshirt ;0;top;
+380564;black man singing microphone pink sweatshirt black hair ;0;top;
+380564;black man singing microphone pink sweatshirt black hair two people ;0;top;
+1003086;two men guitar playing yellow shirt window yellow background bottle grey pants ;0;som;
+1003086;two men guitar playing yellow shirt window bottle grey pants ;0;som;
+1003086;two men guitar playing yellow shirt window bottle grey pants yellow wall ;0;som;
+1003086;two men guitar playing yellow shirt window bottle grey pants yellow wall white stripes ;0;som;
+281943;mountain bike red helmet outdoor black clothes ;0;top;
+281943;mountain bike red helmet outdoor black clothes trees ;7;top;1,3,10,14,3,8,3
+281943;mountain bike red helmet outdoor black clothes trees dirt ;0;top;
+281943;mountain bike red helmet outdoor black clothes trees;10;top;1,4,10,10,7,8,7,11,6,6
+541161;bedroom fan opened window bed white sheet white wall hook rack lamp picture ;4;som;2,7,8,7
+647700;two men black suits guns white shirt glasses belt skies ;0;top;
+647700;two men black suits guns white shirt glasses belt sky ;0;top;
+647700;two men black suits white shirt glasses belt sky handguns ;0;top;
+647700;two men black suits white shirt glasses belt sky handguns belts talking ;0;top;
+958292;two men bald suits black glasses ;0;top;
+1098994;jeep men woman blue shirt driving ;0;som;
+990334;man lie tent red duvet pillow ;0;top;
+667883;snowboard mountain snow pink jacket helmet yellow pants snowboarding ;0;som;
+667883;snowboard mountain snow pink black jacket helmet yellow pants snowboarding ;0;som;
+920562;two men fishing boat lake rod net cap white shirt;0;top;
+1025320;wedding bride three women white dress ;0;top;
+1025320;wedding bride three women white dress veil bracelet ;0;top;
+1070429;port transport ship crane sea ;0;som;
+1070429;port transport ship crane sea fog ;1;som;2
+300925;man black suit shirt blue tie smiling ;0;top;
+300925;man black suit shirt blue tie smiling stubble ;0;top;
+300925;man black suit shirt blue tie smiling stubble wood ;0;top;
+300925;man black suit shirt blue tie smiling stubble;0;top;
+300925;man black suit black shirt blue tie smiling stubble;0;top;
+300925;man black suit shirt blue tie smiling stubble;0;top;
+300925;man black suit shirt blue tie smiling stubble hair ;0;top;
+727362;hallway picture black hair ;0;som;
+727362;hallway picture black hair door ;0;som;
+1080405;concert man playing guitar singing microphone black shirt ;0;top;
+1080405;concert man playing guitar singing microphone black shirt long hair ;0;top;
+1080405;concert man playing guitar singing microphone black shirt long hair sitting ;3;top;1,1,2
+234980;tablet hand bricks ;15;som;1,17,44,21,27,15,23,17,16,10,12,11,12,11,15
+780226;rapping two men graffiti ;2;top;3,7
+1031917;hands mountain climbing ;1;som;1
+1031917;hands mountain climbing gloves ;0;som;
+1031917;hands mountain climbing gloves first person ;4;som;1,9,7,8
+468747;program text red ;0;top;
+468747;program text red sport ;0;top;
+468747;program text red sport products ;0;top;
+468747;program text red;0;top;
+468747;program text red grey ;0;top;
+468747;program text red ;0;top;
+468747;program text red sport grey ;0;top;
+468747;program text red sport grey old ;0;top;
+670383;road yellow line ;4;som;2,8,9,19
+670383;road yellow line trees ;2;som;2,17
+670383;road yellow lines trees ;2;som;2,21
+670383;road yellow lines ;0;som;
+670383;road yellow lines trees ;3;som;1,7,46
+670383;road two yellow lines trees;2;som;2,20
+670383;road two yellow lines;7;som;3,8,13,14,4,17,20
+427607;bike first person outdoor gloves ;1;top;12
+427607;bike first person outdoor gloves mountains ;2;top;3,45
+427607;bike first person outdoor gloves;0;top;
+427607;bike first person outdoor gloves mountains ;2;top;3,43
+427607;bike first person outdoor gloves;0;top;
+427607;bike first person outdoor gloves mountains ;2;top;2,26
+427607;bike first person outdoor gloves =;0;top;
+427607;bike first person outdoor gloves ;0;top;
+427607;bike first person outdoor gloves mountains ;3;top;2,13,27
+427607;bike first person outdoor gloves;0;top;
+427607;bike first person outdoor gloves mountains ;0;top;
+427607;bike first person outdoor gloves mountains wood wall ;0;top;
+427607;bike first person outdoor gloves mountains ;2;top;2,27
+427607;bike first person outdoor gloves ;0;top;
+427607;bike first person outdoor gloves mountains ;5;top;2,5,7,10,11
+831676;stones red black ;0;som;
+831676;stones red black dirt ;0;som;
+331265;snow mountain building sky ;1;top;4
+331265;snow mountain building sky road ;0;top;
+331265;snow mountain building sky path ;0;top;
+331265;snow mountain building sky ;0;top;
+611418;people miniature building model;0;som;
+611418;people miniature model;0;som;
+799783;priests chairs altar orange church;0;top;
+799783;priests chairs altar;0;top;
+799783;priests altar;0;top;
+595922;stadium cameraman judges;0;som;
+595922;stadium cameraman;0;som;
+609301;kid sled snow;0;top;
+312770;create conjure conceive;0;som;
+312770;tombstone head;0;som;
+312770;inspiration quote;0;som;
+312770;plaque bush t-shirt;0;som;
+733324;hand bracelet green ;0;top;
+733324;hand bracelet green  park;0;top;
+733324;hand bracelet green arm;0;top;
+733324;handa-s bracelet green arm;0;top;
+733324;handa-s bracelet green park arm;0;top;
+578004;dark tg5;0;som;
+578004;dark red tg5;0;som;
+578004;dark red light tg5;0;som;
+633863;knife board spices;0;top;
+633863;knife board spices top-down;0;top;
+757607;green wheelchair trainer;0;som;
+405349;hand citrus;0;top;
+405349;hand lemon;0;top;
+380564;african microphone  dark;0;som;
+380564;african microphone ;0;som;
+380564;african girl microphone ;0;som;
+380564;black girl microphone ;0;som;
+380564;black girl microphone room;0;som;
+828435;backyard house tree;0;top;
+828435;backyard house tree chair;0;top;
+783244;street white buildings ;0;som;
+783244;street buildings ;0;som;
+1003086;guitar man window;0;top;
+1003086;guitar man window yellow;0;top;
+1003086;guitar man window underground bar;0;top;
+1003086;guitar man window pub;0;top;
+281943;bike outdoor jump;0;som;
+744979;blurry image;0;som;
+541161;bedroom white window light bed;0;top;
+1147086;dark mist people;0;som;
+1147086;dark fog people;0;som;
+343;indian temple;0;top;
+343;indian temple ritual;0;top;
+647700;two men suits gangster;0;som;
+647700;two men suits gangster sky;0;som;
+20379;tree snowy;0;top;
+127721;dark club people light;0;som;
+900219;fan di fendi;0;top;
+958292;two men suits sunglasses building;0;som;
+990334;man tent;0;som;
+990334;man tent masturbating;1;som;1
+667883;ski sky man;0;top;
+667883;ski sky man pink back;0;top;
+920562;fishing pole net two men sunglasses water;0;som;
+920562;fishing pole net two men sunglasses;0;som;
+1070429;oil tank;0;top;
+1070429;oil tanker;0;top;
+1070429;oil boat;0;top;
+300925;man suit wood;0;som;
+300925;man suit wood smug;0;som;
+300925;man suit  smug;0;som;
+727362;black hair white;0;top;
+1080405;guitar dark bearded man;0;som;
+346112;photo lake mountain;0;top;
+346112;photo lake mountain people;0;top;
+346112;lake mountain people;0;top;
+860818;desert sky;0;som;
+234980;tablet brickys hand touch;0;top;
+234980;tablet brickys hand touch finger;0;top;
+237618;man laugh teeth ;0;som;
+237618;man laugh teeth shirt;0;som;
+237618;man laugh teeth shirt light;0;som;
+373440;man guilty back dim;0;som;
+83008;newspaper spanish theater;0;top;
+82591;dark orange rock;0;som;
+82591;dark orange rock band;0;som;
+726654;mountain peak snow;0;top;
+780226;graffiti man tracksuit;0;som;
+1031917;climbing hands rock;0;top;
+670383;blurry road sky curve;0;top;
+427607;bike offroad pov hands;0;som;
+427607;bike offroad pov hands mountains sky;0;som;
+831676;bricks rock ;0;top;
+831676;red bricks rock ;0;top;
+611418;park people trip;0;top;
+996744;wedding people grass sky;0;som;
+996744;wedding people grass sky pink;0;som;
+881362;black 50 man ;0;top;
+881362;black 50 man hoodie;0;top;
+384835;blacksmith;0;som;
+384835;blacksmith hammer;0;som;
+384835;blacksmith hammer dark;0;som;
+689873;pink;0;top;
+689873;pink room chairs;0;top;
+799783;church  people  men chair chairs wood indoor ;0;top;
+799783;church people  men chair wood indoor ;0;top;
+799783;church people  men chair wood indoor light ;0;top;
+799783;church people men chair wood indoor light ;0;top;
+799783;church men chair wood indoor light ;0;top;
+595922;cameraman people ;0;som;
+595922;cameraman people standing crowd ;0;som;
+595922;cameraman people standing crowd sign ;0;som;
+595922;cameraman people standing crowd sign sport ;0;som;
+595922;cameraman people standing crowd sign sport event ;0;som;
+595922;cameraman people standing crowd sign sport event transparent ;0;som;
+595922;cameraman people standing crowd sign sport event transparent spectator ;0;som;
+595922;cameraman people standing crowd sign sport event transparent spectator referee ;0;som;
+595922;cameraman people standing crowd sign sport event transparent spectator referee metal;0;som;
+595922;cameraman people standing crowd sign sport event transparent spectator referee metal standing ;0;som;
+609301;snow two people tree ;0;top;
+609301;snow two people tree sledge ;0;top;
+609301;snow two people sledge ;0;top;
+609301;snow two people sledge red;0;top;
+609301;snow two people sledge red house ;0;top;
+609301;sledge ;0;top;
+609301;sledge snow ;0;top;
+609301;sledge snow pink ;0;top;
+609301;sledge snow pink filter ;0;top;
+312770;sign  tree  green ;0;som;
+312770;sign  tree  green person ;0;som;
+312770;sign  tree  green person shoulder ;0;som;
+312770;sign  tree  green person shoulder shrubs ;0;som;
+312770;sign  tree  green person shoulder shrubs wall ;0;som;
+733324;hands green arm;0;top;
+733324;hands green arm two ;0;top;
+733324;hands green arm two stand ;0;top;
+733324;hands green arm two stand standing ;0;top;
+733324;hands green arm two stand standing bracelet ;0;top;
+733324;hands green arm two stand standing bracelet park ;0;top;
+578004;red screen people tv ;0;som;
+578004;outside screen people tv ;0;som;
+633863;cook board cut ;0;top;
+633863;cooking board knife ;0;top;
+757607;green people disabled gym ;2;som;1,2
+405349;lemon hand ;0;top;
+380564;black singer man microphone ;0;som;
+380564;black singer man microphone window ;0;som;
+380564;black singer man microphone window hair ;0;som;
+380564;black singer man microphone window hair indoor ;0;som;
+828435;house chair ;2;top;1,1
+783244;street people cyclist ;0;som;
+783244;street people cyclist walkway ;2;som;2,2
+783244;street people cyclist walkway black line;1;som;1
+783244;street people walkway black line;0;som;
+783244;street people walkway black line outdoor cyclist ;0;som;
+783244;street people walkway black line outdoor cyclist house ;0;som;
+1003086;guitarist guitar  people yellow tshirt ;0;top;
+1003086;guitarist guitar  people yellow tshirt acoustic ;0;top;
+281943;dirtbike biker jump red helmet ;0;som;
+281943;dirtbike jump red helmet ;0;som;
+281943;dirtbike jump red helmet cyclist ;0;som;
+281943;dirtbike jump red helmet cyclist tree ;5;som;3,5,5,6,3
+281943;dirtbike jump red helmet cyclist tree uphill ;0;som;
+281943;dirtbike jump red helmet cyclist tree ;7;som;1,5,3,1,2,2,3
+1080823;white tower church;0;top;
+1080823;white tower ;0;top;
+1080823;white tower mosquito ;0;top;
+1080823;white tower islam ;0;top;
+1080823;white tower islam blue sky ;2;top;1,5
+1080823;white tower islam blue sky arabic;0;top;
+1080823;white tower islam blue sky muslim arabic;0;top;
+1080823;white islam blue sky muslim arabic;0;top;
+1080823;white building islam blue sky muslim arabic;1;top;6
+744979;people indoor gymnasium ;8;som;2,1,2,3,4,4,7,4
+541161;bedroom window fan opened;0;top;
+541161;bedroom window fan opened bed hanger ;0;top;
+541161;bedroom window fan open bed hanger ;2;top;5,8
+1147086;mask protest hoodie smoke ;0;som;
+1147086;mask protest hoodie smoke night ;4;som;2,3,1,3
+343;india shop women man sari ;0;top;
+343;india shop women man sari indoor ;1;top;4
+647700;two men guns blue sky white shirt ;0;som;
+647700;two men guns sky white shirt ;2;som;1,1
+20379;snow tree sky;0;top;
+127721;dark night ship people ;0;som;
+127721;dark night ship people rope;6;som;2,3,5,3,3,4
+900219;building street display ;0;top;
+900219;display ;0;top;
+958292;two men black suit;0;som;
+958292;two men black suit sunglasses ;0;som;
+958292;two men black suit sunglasses bold ;0;som;
+958292;two man black suit sunglasses bold ;0;som;
+958292;two man black suit sunglasses bold back;0;som;
+799783;orange church ;4;som;3,4,1,1
+595922;cameraman ;0;top;
+595922;cameraman race ;8;top;2,3,6,4,4,2,9,21
+609301;pink sledge ;0;som;
+609301;pink sledge snow;0;som;
+609301;pink sledge snow kid ;0;som;
+609301; sledge snow kid ;0;som;
+609301; sledge snow pink ;1;som;3
+609301;carriage snow pink ;0;som;
+609301; snow pink ;0;som;
+609301; snow pink child ;3;som;1,2,4
+609301; snow pink child sled ;0;som;
+312770;collage bush board ;4;top;5,4,4,6
+733324;bracelet woman green ;1;som;2
+733324;bracelet woman green arm;0;som;
+733324;bracelet woman green arm grass ;0;som;
+733324;bracelet arm grass ;0;som;
+733324;bracelet arm grass hands ;1;som;2
+578004;stock motorcycles ;0;top;
+578004;stock motorcycles garage ;5;top;2,6,10,9,6
+578004;stock motorcycles ;0;top;
+578004;motorcycles garage ;0;top;
+578004;motorcycles garage window ;0;top;
+578004;motorcycles garage window dark ;0;top;
+578004;motorcycles garage window red ;0;top;
+578004;motorcycles garage window stock ;0;top;
+578004;motorcycles garage tg 5 ;2;top;4,4
+578004; garage tg 5 ;0;top;
+578004; garage tg 5 bike ;0;top;
+633863;board chopping ;0;som;
+633863;board chopping knife ;3;som;4,1,2
+633863;board chopping knife herbs ;0;som;
+633863;board chopping knife herbs garlic ;0;som;
+633863;board chopping knife garlic ;2;som;3,2
+633863;board chopping knife ;0;som;
+633863; chopping knife white board ;0;som;
+633863;cutting knife board ;1;som;1
+900219;sign wall black yellow ;0;som;
+900219;sign wall black yellow fashion ;0;som;
+900219;sign wall black yellow fashion evening ;0;som;
+900219;sign wall black yellow fashion evening column ;0;som;
+900219;sign wall black yellow fashion evening pillar ;0;som;
+900219;sign fashion evening pillar wall ;0;som;
+958292;sunglasses suit black men bold ;0;top;
+958292;sunglasses suit black men bold interview ;0;top;
+958292;sunglasses suit black men bold outside ;0;top;
+958292;sunglasses suit black men bold outside worried ;1;top;1
+958292;sunglasses suit black men bold outside worried funeral ;0;top;
+958292;sunglasses suit men bold outside worried funeral ;0;top;
+958292;sunglasses suit men bold outside worried ;0;top;
+958292;sunglasses suit men bold worried garden ;0;top;
+958292;sunglasses suit men bold worried ;0;top;
+1098994;jeep couple safari savanna ;0;som;
+990334;tent sleeping boy movie ;0;top;
+667883;skiing mountains red ;1;som;2
+667883;skiing mountains red rock ;8;som;1,2,5,3,3,3,1,1
+920562;fishing men net lake cap ;1;top;4
+189079;parachute mountains green guy ;0;som;
+189079;parachute mountains green guy snow ;0;som;
+189079;mountains green guy snow wind ;0;som;
+189079;mountains green guy snow wind parachute ;0;som;
+1025320;bride makeup girls preparation ;0;top;
+1025320;bride makeup girls preparation hair ;3;top;2,3,1
+1070429;tanker ;0;som;
+1070429;tanker boat ;0;som;
+1070429;tanker  brown ;0;som;
+1070429;tanker  brown ship ;3;som;2,3,1
+300925;man smile tie vest hair ;0;top;
+300925;man smile tie vest hair black ;0;top;
+300925;man smile tie vest hair black move ;0;top;
+300925;man smile tie vest hair black ;0;top;
+300925;man smile tie vest hair ;1;top;2
+727362;hair hallway wall picture ;0;som;
+727362;hair hallway wall  frame ;0;som;
+727362;hair hallway wall  frame girl ;0;som;
+727362;hair hallway wall  frame girl woman ;0;som;
+727362;hair hallway ;2;som;1,3
+1080405;concert guitar singer sing ;2;top;3,5
+1080405;concert guitar singer sing orange ;3;top;3,2,7
+346112;group lake photoshoot standing mountain ;0;som;
+346112;group lake photoshoot standing mountain people ;0;som;
+346112;group lake mountain people posing ;4;som;1,2,3,3
+346112;group lake mountain people posing car ;0;som;
+346112;group lake mountain people posing car white ;0;som;
+346112;group lake mountain people posing ;2;som;1,2
+234980;tablet touch path bricks ;4;som;2,2,3,2
+237618;smiling man shirt portrait ;0;top;
+237618;smiling man shirt portrait ear ;0;top;
+827903;couple pointing man woman festival ;0;som;
+827903;couple pointing man woman festival beer ;0;som;
+827903;couple pointing man woman festival ;0;som;
+827903;pointing man woman festival ;0;som;
+827903;pointing man woman festival pink cross ;0;som;
+827903;woman pointing sitting festival summer ;0;som;
+827903;woman pointing sitting festival summer pointing ;0;som;
+373440;man vest green ;1;top;1
+373440;man vest green walking ;0;top;
+373440;men vest green walking ;0;top;
+83008;poster letter ;0;som;
+83008;poster letter black white ;0;som;
+83008;poster letter black white theatre ;0;som;
+83008;poster letter black white ;2;som;3,4
+82591;red concert guitarists guitars ;1;top;1
+726654;mountain snow ;3;som;1,1,2
+780226;dance musician ;0;top;
+780226;dance musician clip graffiti ;2;top;1,6
+1031917;climbing rock ;0;som;
+1031917;climbing rock hands ;4;som;1,2,2,2
+468747;add computer ;0;top;
+468747;add computer red ;0;top;
+468747;add computer red white display ;0;top;
+468747;add computer white display sport ;0;top;
+670383;road turn ;6;som;2,3,3,3,5,4
+427607;bicycle trail terrain ;1;top;1
+427607;bicycle trail terrain mountain ;5;top;3,1,5,2,1
+831676;bricks stone ;0;som;
+831676;bricks stone red ;0;som;
+831676;bricks stone red forest ;0;som;
+331265;snow panorama track ;0;top;
+331265;snow panorama track sky ;5;top;1,2,3,4,2
+611418;garden visit crowd miniature ;0;som;
+611418;garden visit crowd park ;0;som;
+611418;garden visit park people ;0;som;
+611418;garden visit park people backpack ;0;som;
+996744;posing group dress dressed ;3;top;2,1,2
+76855;parachute crops rope ;0;som;
+76855;parachute crops rope view ;12;som;2,3,4,2,2,4,6,4,2,3,3,4
+1008242;surf hands handing ;0;top;
+1008242;surf hands handing blue ;1;top;2
+881362;50 rap clip point ;0;som;
+881362;50 rap clip point man ;0;som;
+881362;50 rap clip point man view ;0;som;
+799783;(church) service prayers;0;top;
+799783;(church) service prayers inside chapel;1;top;1
+799783;(church) service prayers inside chapel gloomy;0;top;
+799783;(church) service prayers inside chapel gloomy  4 men ;2;top;1,1
+799783;(church) service prayers inside  modern chapel gloomy  4 men ;1;top;1
+799783;(church) service prayers inside  modern chapel gloom woody  4 men ;1;top;1
+799783;(church) service prayers inside chapel gloom  chairs ;0;top;
+799783;(church) service prayers inside chapel gloom  chairs standing men ;5;top;1,1,1,1,1
+609301;lying child drawing  on luge;0;top;
+609301;lying child    on luge;0;top;
+609301;lying child   sledge  winter;2;top;1,1
+609301;lying child   sled   winter;1;top;1
+609301; man pull lying child   sled   winter ;2;top;3,1
+609301; man with coat pull lying child   sled   winter ;0;top;
+733324;handshake;0;top;
+733324;handshake girl bracelet ;0;top;
+733324;handshake  staying girl bracelet ;0;top;
+733324;handshake staying girl leather bracelet dark clothes ;12;top;1,1,1,1,1,1,1,2,1,1,1,1
+757607;wheelchairs green grape;0;som;
+757607;wheelchairs green drapes ;0;som;
+757607;wheelchairs   ;0;som;
+1003086;guitar player bottle yellow ;4;top;1,7,1,1
+281943; cyclocross;0;som;
+281943; cyklokrose;1;som;1
+281943; cyklokrose track  up;0;som;
+281943; cyklokrose track  up biker ;1;som;2
+281943; cyklokrose track  up biker  off road red helmed;36;som;1,1,2,4,2,1,2,2,1,1,2,2,1,3,3,2,2,5,3,1,2,3,2,1,1,3,3,2,4,4,4,3,3,4,1,1
+1080823; white church ;0;top;
+1080823; white  oriental church ;1;top;1
+1080823; white  oriental building ;0;top;
+1080823; white  old historical oriental building ;2;top;1,1
+1080823; top white  old historical oriental building ;8;top;2,1,1,1,2,1,1,1
+20379;snowy spurce;3;top;1,1,1
+20379;snowy spurce near ;6;top;1,1,1,1,1,1
+920562; fishing;0;som;
+920562; fishing two men  on the  ship;3;som;1,1,1
+189079; winter green wing ;0;top;
+189079; winter green wing man ;0;top;
+189079; winter green wing man  mountains ;1;top;1
+189079; winter green wing black man mountains ;17;top;1,3,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1
+727362; head woman black hair corridor;1;top;1
+727362; head woman black  short hair corridor;3;top;1,1,2
+727362; head woman black  short hair corridor picture ;0;top;
+727362; head woman black  short hair corridor picture door ;2;top;1,1
+1080405;guitarist leather  bracelet ;7;som;2,3,3,1,1,1,1
+1080405;guitarist leather  bracelet mike ;16;som;1,1,1,1,1,1,2,2,1,2,1,1,1,1,1,1
+346112;grupp;0;top;
+346112;human group rocky  coast white car ;1;top;1
+346112;human group rocky  coast ;0;top;
+346112;human group rocky  coast see;0;top;
+346112;human group ;1;top;1
+346112;human group see ;0;top;
+346112;human group sea ;0;top;
+346112;human group sea rocky coast ;1;top;1
+346112;human group sea    ;0;top;
+346112;  group sea    ;1;top;1
+346112;  group ;4;top;1,1,1,1
+346112;  group sea ;0;top;
+346112;  group near  sea ;4;top;1,1,1,1
+346112;  group near  sea front of white car ;2;top;1,1
+346112;  group near  sea ;0;top;
+346112; peoples near  sea ;0;top;
+346112;group peoples near  sea ;2;top;1,1
+346112;group peoples near  sea tourists ;0;top;
+346112;arrange group peoples near  sea tourists ;0;top;
+83008;notice Theatro Municipal;0;top;
+83008;white notice Theatro Municipal;1;top;1
+83008;white notice  ;2;top;1,1
+726654;  mountaintop winter;0;top;
+726654;  mountaintop winter rocky;0;top;
+726654;  mountaintop winter ;0;top;
+726654;bare  mountaintop winter ;0;top;
+726654;remote bare  mountaintop winter ;0;top;
+468747;wine-coloured signboard;2;som;1,2
+468747;wine-coloured signboard viosport;0;som;
+468747;wine-coloured signboard  ;15;som;1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+611418;tourists models of buildings ;0;top;
+611418;tourists models of buildings parked ;0;top;
+611418;tourists models of buildings park  ;0;top;
+611418;tourists models of buildings park  ;1;top;1
+611418;tourists models of buildings park backpack ;2;top;1,1
+611418;tourists models of buildings park backpack red  scarf ;0;top;
+611418;tourists models of buildings park backpack red  headscarf ;0;top;
+611418;tourists park backpack red  headscarf ;0;top;
+611418;tourists park backpack red  headscarf baby buggy ;2;top;1,1
+611418;tourists park backpack red  headscarf baby buggy small buildings ;0;top;
+611418;tourists park backpack red  headscarf baby buggy small buildings  models;3;top;1,1,1
+611418;peoples park backpack red  headscarf baby buggy small buildings  models ;0;top;
+611418;peoples park baby buggy small buildings  models peoples ;0;top;
+611418;a lot off peoples park baby buggy small buildings  models peoples ;4;top;1,1,1,1
+341398;two men;0;som;
+341398;two men white and black ;0;som;
+341398;two men white and black T-shirt glasses;0;som;
+341398;two sitting men white and black T-shirt glasses;19;som;1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+717732; footpath garden house;0;top;
+717732; footpath garden house dusk ;8;top;2,1,1,1,1,1,2,2
+717732; footpath garden house dusk lawn ;6;top;2,3,3,2,2,1
+717732; footpath garden overgrown house dusk lawn ;84;top;1,1,3,1,2,1,1,3,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,3,1,3,1,1,3,1,1,3,1,3,1,2,1,3,3,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,2,4,1,3,2
+717732; footpath garden overgrown house dusk lawn window ;3;top;1,2,1
+717732; footpath ;42;top;1,1,1,1,1,1,2,2,2,2,3,2,3,2,2,2,2,2,2,1,3,3,2,1,1,1,3,3,1,3,2,2,1,1,1,3,2,1,1,2,1,1
+799783;monk praying ;0;top;
+799783;monk praying bible ;0;top;
+799783;praying bible ;0;top;
+799783;praying bible chair candle ;0;top;
+799783;praying bible chair ;0;top;
+799783;praying chair ;0;top;
+799783;praying chair yellow ;0;top;
+799783;praying chair church ;4;top;1,1,1,1
+799783;chair church four ;0;top;
+799783;chair church four pray ;0;top;
+799783;chair church four pray jesus ;0;top;
+799783;prayer room ;0;top;
+799783;prayer room chairs ;0;top;
+799783;prayer room;0;top;
+799783;prayer room candle ;0;top;
+799783;prayer room candlelight ;0;top;
+799783;prayer room candlelight praying ;0;top;
+799783;prayer room candlelight praying jesus ;0;top;
+799783;prayer chair ;0;top;
+799783;prayer chair believe ;0;top;
+799783;prayer bible brown ;0;top;
+799783;prayer bible brown candle ;0;top;
+799783;prayer bible brown candle chair ;0;top;
+799783;prayer bible chair ;2;top;1,2
+799783;prayer bible chair people ;1;top;1
+799783;prayer bible chair people church ;3;top;3,3,1
+595922;spectators cameraman ;0;som;
+595922;spectators cameraman stands ;0;som;
+595922;spectators cameraman stands race ;0;som;
+595922;spectators cameraman stands advertising ;0;som;
+595922;spectators cameraman stands ;2;som;1,2
+595922;spectators cameraman stands panel ;0;som;
+595922;spectators cameraman stands ;0;som;
+595922;spectators cameraman panel ;4;som;1,3,9,15
+595922;spectators cameraman panel white tshirt ;0;som;
+595922;spectators cameraman panel white ;0;som;
+595922;spectators cameraman panel ;0;som;
+595922;spectators cameraman panel ramp ;2;som;1,5
+609301;snow sledge child old ;0;top;
+609301;snow sledge child tree ;0;top;
+609301;snow sledge child father ;0;top;
+609301;snow sledge child man ;0;top;
+609301;snow sledge child house ;0;top;
+609301;snow sledge child ;0;top;
+609301;snow sledge child draw ;0;top;
+609301;snow sledge draw ;0;top;
+609301;snow sled ;1;top;1
+609301;snow sled child ;1;top;2
+609301;snow sled child pink ;0;top;
+312770;plant tshirt green ;0;som;
+312770;create plant tshirt green ;0;som;
+312770;create plant tshirt green sign ;0;som;
+312770;sign create ;0;som;
+312770;sign create tree ;0;som;
+312770;sign create tree tshirt ;0;som;
+312770;sign create tree tshirt man ;0;som;
+312770;sign tree ;0;som;
+312770;sign tree leafs ;0;som;
+312770;sign tree leafs green tshirt ;0;som;
+312770;sign tree leafs green tshirt wall ;0;som;
+312770;wall sign tree ;0;som;
+312770;wall sign tree window ;0;som;
+312770;wall sign tree ;0;som;
+312770;wall sign tree leafs ;3;som;1,1,1
+312770;wall sign tree leafs tshirt ;0;som;
+312770;wall sign tree leafs ;2;som;1,1
+733324;hand woman green bracelet ;0;top;
+733324;hand woman green bracelet grass ;0;top;
+578004;street white screen ;0;som;
+578004;street white screen dark ;0;som;
+578004;street white screen dark branch ;0;som;
+578004;street screen dark branch ;0;som;
+633863;chopping knife garlic ;0;top;
+633863;chopping knife garlic white herbs ;0;top;
+633863;chopping knife garlic herbs onion ;1;top;1
+633863;chopping board knife garlic ;0;top;
+633863;chopping board brown knife;0;top;
+633863;chopping board knife herbs onion pepper ;0;top;
+633863;chopping board knife garlic herbs onion  ;0;top;
+633863;chopping brown board knife garlic herbs onion  ;1;top;1
+757607;wheelchair green curtain man ;0;som;
+757607;wheelchair green curtain man sport ;0;som;
+757607;wheelchair people green curtain sport ;0;som;
+757607;wheelchair people green curtain coach ;2;som;2,7
+405349;lemons hand peeling ;0;top;
+380564;singer microphone black ;0;som;
+380564;singer microphone black three ;0;som;
+380564;singer microphone black green ;0;som;
+380564;singer microphone black green glass ;0;som;
+380564;singer microphone black window glass ;0;som;
+380564;singer microphone black glass ;1;som;1
+380564;singer girl microphone black glass ;1;som;2
+380564;singer girl microphone black glass green ;4;som;1,9,8,4
+828435;wall chair tree ;0;top;
+828435;wall chair tree house ;0;top;
+828435;wall chair tree house pole ;0;top;
+828435;wall chair trees house pole ;1;top;1
+828435;wall chair trees house pole pavement ;0;top;
+828435;wall chair trees house pole pavement railing ;1;top;3
+828435;wall chair trees house pole pavement railing door ;0;top;
+828435;wall chair trees pole pavement railing door ;1;top;1
+828435;wall trees pole pavement railing door chair ;0;top;
+828435;trees pole pavement railing door chair ;1;top;1
+783244;street pavement building ;1;som;1
+783244;street pavement building bike ;0;som;
+783244;street pavement building ;0;som;
+783244;street pavement building column ;0;som;
+783244;street pavement building cubes ;3;som;1,2,3
+783244;street pavement building cubes tree ;0;som;
+783244;street pavement building cubes people ;1;som;1
+783244;street pavement building cubes people stripes ;0;som;
+783244;street pavement building cubes stripes tree ;2;som;2,3
+783244;street pavement building cubes stripes tree white red ;0;som;
+783244;pavement stripes cubes ;0;som;
+783244;pavement stripes cubes street ;0;som;
+783244;pavement stripes cubes street greyish ;1;som;3
+783244;pavement stripes cubes street greyish tree ;0;som;
+1003086;guitar man yellow bottle ;1;top;3
+281943;bike red helmet ;0;som;
+281943;bike red helmet jump ;0;som;
+281943;bike red helmet jump black ;0;som;
+281943;bike jump trees mud ;0;som;
+1080823;build india sky ;0;top;
+1080823;building india sky white ;0;top;
+1080823;mosque sky white ;0;top;
+1080823;building white sky ;0;top;
+1080823;building white sky tower ;0;top;
+1080823;building white india ;0;top;
+1080823;building white india church ;0;top;
+1080823;building white india religion ;1;top;1
+1080823;building white blue india religion ;2;top;2,2
+1080823;building white blue religion ;0;top;
+1080823;building white blue religion india ;0;top;
+1080823;building white blue religion india old ;3;top;2,3,4
+1080823;building white blue religion old ;0;top;
+1080823;building white blue religion old ornament ;0;top;
+1080823;building white blue religion old ornament islam ;0;top;
+1080823;building islamic ;0;top;
+1080823;building islamic old ;0;top;
+1080823;building islamic old white sky ;0;top;
+1080823;building indian old white sky ;0;top;
+1080823;building indian old white sky ornament ;0;top;
+1080823;building indian old white sky ornament towers ;0;top;
+1080823;building indian old white sky ornament towers windows ;0;top;
+1080823;building indian old white sky ornament towers windows gothic ;0;top;
+1080823;building old religion white;0;top;
+744979;blurry brown people ramp ;0;som;
+744979;blurry brown people ramp skateboard ;2;som;2,1
+744979;blurry brown ramp skateboard ;0;som;
+744979;blurry brown ramp skateboard white wall ;2;som;2,1
+744979;blurry brown ramp skateboard white wall people ;0;som;
+744979;blurry brown ramp skateboard white wall windows ;0;som;
+744979;blurry brown ramp skateboard white wall;0;som;
+744979;blurry brown ramp skateboard white wall stripes ;2;som;1,1
+744979;brown ramp skateboard white wall stripes ;0;som;
+541161;window bed white fan hook ;0;top;
+541161;window bed white fan hook bedroom ;1;top;2
+1147086;fireman dark ;0;som;
+1147086;fireman ;0;som;
+1147086;firefighters ;0;som;
+1147086;firefighters dark ;0;som;
+1147086;firefighters dark fire ;0;som;
+1147086;firefighters dark wood ;6;som;1,1,5,2,2,2
+343;india people ;0;top;
+343;india people pray ;0;top;
+343;india people pray figurines ;0;top;
+343;india people pray figurines wall ;1;top;1
+343;india people pray figurines red dress ;0;top;
+343;india people figurines red dress ;0;top;
+343;india people figurines red sitting ;0;top;
+343;india people figurines celebration ;3;top;2,1,1
+343;india people celebration ;0;top;
+343;india people celebration standing ;0;top;
+343;india people celebration wall ;0;top;
+343;india people celebration wall sitting ;0;top;
+343;india people celebration wall sitting statues ;0;top;
+343;india people celebration wall sitting gifts ;1;top;2
+343;india people celebration wall sitting wedding ;0;top;
+343;india people celebration wall picture ;1;top;1
+343;india people celebration wall picture red dress ;0;top;
+343;india people celebration wall picture yellow dress ;0;top;
+343;india people celebration wall picture yellow dress presents ;1;top;1
+647700;men guns suit ;0;som;
+647700;men guns suit two ;0;som;
+647700;men guns suit two sky ;1;som;1
+647700;men guns suit two sky black white blue ;0;som;
+647700;men guns suit two sky white shirt ;0;som;
+647700;men guns suit sky shirt ;0;som;
+647700;men guns suit sky shirt belt ;0;som;
+647700;men guns suit sky shirt belt two ;0;som;
+647700;men guns suit sky shirt belt pair ;0;som;
+647700;men guns suit sky belt pair ;1;som;2
+647700;men guns suit sky belt pair elegant ;0;som;
+647700;men guns suit belt pair ;0;som;
+647700;men guns suit belt pair sky ;2;som;1,1
+20379;tree snow spruce;0;top;
+127721;night lights builiding people ;0;som;
+127721;night lights builiding people boat ;0;som;
+127721;night lights builiding people monolith;0;som;
+127721;night lights builiding people pyramid ;1;som;1
+127721;night lights builiding people yellow ;0;som;
+799783;church priests ;0;som;
+799783;church priests inside ;1;som;1
+799783;priests inside ;0;som;
+799783;priests church ;4;som;2,1,1,1
+595922;audience ;0;top;
+595922;audience  posters ;0;top;
+595922;audience  cameraman ;0;top;
+595922;audience  advertisements ;0;top;
+595922;audience  advertisements  grey ;0;top;
+595922;crowd advertisements ;0;top;
+595922;crowd advertisements cameraman ;1;top;3
+595922;crowd car ;0;top;
+595922;crowd car race ;1;top;2
+595922;race competition;1;top;1
+595922;competion advertisement ;0;top;
+595922;competion advertisement  car ;0;top;
+595922;competion advertisement  crowd ;0;top;
+609301;snow sledge people;3;som;1,2,6
+609301;snow sledge boy ;1;som;1
+609301;winter sledge boy ;0;som;
+609301;winter snow people;4;som;1,2,1,2
+609301;winter  people;0;som;
+609301;winter  two people ;0;som;
+609301;winter two people sledge ;2;som;1,2
+609301;snow two people sledge ;1;som;3
+609301;snow two people sledge boy ;0;som;
+609301;snow two people sledge child ;3;som;3,3,2
+609301;snow two people sledge pink;0;som;
+609301;snow two people sledge cap ;0;som;
+609301;snow two people blue overall ;1;som;2
+609301;snow two people blue overall sledge ;0;som;
+312770;create conjure;0;top;
+312770;create conjure conceive;0;top;
+312770;bush blue shirt stone ;0;top;
+312770;bush blue shirt stone words ;0;top;
+312770;bush  shirt stone words ;0;top;
+312770;stone words ;2;top;2,1
+312770;stone words plaque ;2;top;3,4
+312770;stone words plaque tree ;0;top;
+312770;stone words plaque shirt ;4;top;1,2,3,3
+312770;stone words plaque shirt transparent;0;top;
+312770;stone text plaque shirt transparent;7;top;3,2,1,2,5,3,4
+312770;stone text plaque  transparent;6;top;2,4,3,2,5,4
+733324;two hands dark green shirt ;0;som;
+733324;two hands ;0;som;
+733324;two hands person torso ;1;som;2
+733324;two hands bracelet;0;som;
+733324;two hands bracelet shirt ;0;som;
+733324;two hands bracelet dark shirt ;0;som;
+733324;woman hand bracelet ;0;som;
+733324;woman hand bracelet shake ;0;som;
+733324;woman hand bracelet shake green ;0;som;
+633863;cutting board vegetables ;1;som;2
+633863;cutting board knife vegetables ;3;som;4,1,3
+633863;brown cutting board knife vegetables ;1;som;2
+633863;brown cutting board knife  ;0;som;
+633863;brown cutting board knife  kitchen ;0;som;
+633863;brown cutting board knife ingredients ;0;som;
+757607;people wheelchair ;0;top;
+757607;people wheelchair gym ;2;top;1,4
+405349;hand cloth food ;0;som;
+405349;hand cloth oranges;0;som;
+405349;hand  oranges;0;som;
+405349;hand orange checkered ;0;som;
+405349;hand orange ;0;som;
+405349;hand cooking;0;som;
+405349;hand peeling ;0;som;
+405349;hand holding ;0;som;
+405349;hand holding  food ;3;som;1,1,3
+380564;black person microphone ;0;top;
+380564;brown person microphone ;0;top;
+380564;brown person singing ;2;top;2,2
+380564;brown person holding mic ;0;top;
+380564;person holding mic ;5;top;3,3,1,4,4
+799783;church people chairs priest altar;0;som;
+799783;church people empty chairs priest altar;0;som;
+799783;church people chairs priest altar;0;som;
+799783;church people chairs priest;0;som;
+799783;church people chairs priest curtain ;0;som;
+799783;church people chairs priest curtain wall ;0;som;
+799783;church people chairs priest curtain wall pillar ;0;som;
+799783;church people chairs curtain wall pillar ;0;som;
+595922;cameraman caixa audience ;0;top;
+595922;cameraman caixa audience tiles ;0;top;
+595922;cameraman caixa audience tiles judges;0;top;
+609301;old picture snow sledge pull tree ;0;som;
+609301;snow sledge pull tree ;1;som;1
+312770;wall tree poster ;0;top;
+312770;house tree poster ;0;top;
+733324;woman grass hands;0;som;
+733324;woman grass hands arms ;0;som;
+733324;woman grass hands arm ;0;som;
+733324;woman side grass hands arm ;0;som;
+733324;woman side grass hands arm bracelet ;0;som;
+733324;woman side grass hands arm bracelet green ;0;som;
+733324;woman side grass stretched arm bracelet green ;0;som;
+733324;woman side grass ;0;som;
+733324;woman side grass arm;1;som;1
+733324;woman side grass arm bracelet ;0;som;
+633863;chopped board knife chef ;0;som;
+757607;wheelchair basketball coach ;0;top;
+757607;wheelchair basketball coach green curtain ;1;top;2
+405349;peeled lemons hand;1;som;1
+380564;black man microphone 3 dreadlocks ;0;top;
+380564;black man speaking microphone 3 dreadlocks glasses ;0;top;
+380564;black man speaking microphone 3 glasses ;0;top;
+380564;black man speaking microphone;0;top;
+380564;black man speaking microphone window ;0;top;
+380564;black man speaking microphone window glass ;0;top;
+380564;black man speaking microphone window glass curtain ;0;top;
+380564;man speaking microphone window glass curtain ;0;top;
+828435;house chair trees ;0;som;
+828435;house folding chair trees ;0;som;
+828435;shed folding chair trees ;0;som;
+783244;street bicycle poles tree ;0;top;
+783244;street bicycle poles tree stones ;1;top;1
+783244;street bicycle poles tree stones buildings ;1;top;1
+1003086;guitarist bottle window ;0;som;
+1003086;guitarist bottle window signs ;0;som;
+281943;bmx helmet forest ;1;top;1
+281943;bmx helmet forest pile dirt ;2;top;2,2
+281943;bmx helmet forest pile dirt fall ;1;top;3
+1080823;sky building arabic ;0;som;
+541161;hanger window ventilator framed pictures bed ;0;som;
+541161;hanger window fan framed pictures bed lamp;0;som;
+541161;hanger window fan framed pictures bed ;0;som;
+541161;hanger window fan framed pictures bed bedroom ;1;som;1
+343;indian women men;1;som;1
+647700;men suits gun hip arms ;0;top;
+647700;men suits belt handgun hip arms ;0;top;
+20379;tree snow ;0;som;
+20379;single tree snow ;2;som;2,1
+799783;monks;0;som;
+799783;monk ;0;som;
+799783;monk church ;0;som;
+799783;monk church service ;0;som;
+799783;church service ;0;som;
+799783;worship;0;som;
+799783;chapel;0;som;
+799783;monk ;0;som;
+799783;monk christian ;0;som;
+799783;monk christianity ;0;som;
+799783;monk christianity church ;0;som;
+799783;church service chairs monk ;0;som;
+799783;church service chairs monk god ;0;som;
+799783;church service chairs priests ;0;som;
+799783;priests ;0;som;
+799783;monk ;0;som;
+799783;christian monk ;0;som;
+799783;jesus christ ;0;som;
+799783;room priests chairs church ;0;som;
+799783;worship;0;som;
+609301;snow child parent sled ;0;som;
+312770;create conjuring create ;0;top;
+312770;bush words ;0;top;
+312770;bush words human ;0;top;
+312770;bush words human sign ;0;top;
+312770;bush words sign ;0;top;
+312770;bush words sign create ;0;top;
+312770;bush words sign ;0;top;
+312770;bush sign ;0;top;
+733324;handshake ;0;som;
+733324;handshake wrist ;0;som;
+733324;handshake wrist bracelet ;0;som;
+733324;handshake bracelet ;0;som;
+733324;handshake green ;0;som;
+733324;handshake green hands ;0;som;
+733324;handshake green outside ;0;som;
+733324;handshake outside ;0;som;
+733324;handshake outside hands ;0;som;
+633863;cooking smashing vegetable ;0;som;
+633863;smashing vegetable ;0;som;
+633863;chopping ;0;som;
+633863;chopping plank ;0;som;
+633863;chopping plank vegetable ;0;som;
+633863;slice plank vegetable ;0;som;
+633863;choping plank vegetable ;0;som;
+633863;choping vegetable ;0;som;
+633863;choping vegetable knife ;1;som;2
+633863;choping vegetable knife plank ;0;som;
+633863;choping vegetable knife plank brown ;0;som;
+633863;slicing ;0;som;
+633863;slicing vegetable ;0;som;
+757607;wheelchair ;0;top;
+757607;wheelchair sport ;0;top;
+757607;wheelchair sport green ;0;top;
+757607;wheelchair sport trainer ;0;top;
+757607;wheelchair trainer ;0;top;
+757607;wheelchair trainer green ;0;top;
+757607;wheelchair ;0;top;
+757607;wheelchair training ;0;top;
+757607;wheelchair training people ;1;top;2
+757607;wheelchair training ;0;top;
+757607;wheelchair training sport ;0;top;
+757607;wheelchair training sport 4 ;0;top;
+757607;wheelchair training sport 4 people ;0;top;
+757607;wheelchair training sport 4 people  trainer ;0;top;
+757607;wheelchair training sport 4 people  trainer legs ;0;top;
+405349;hand lemon peeling ;1;som;1
+380564;black girl microphone ;0;top;
+380564;black girl microphone reading ;0;top;
+380564;black microphone ;0;top;
+1003086;man playing guitar ;0;som;
+1003086;man guitar ;0;som;
+1003086;man guitar alcohol ;0;som;
+1003086;man guitar alcohol yellow ;0;som;
+281943;biker ;0;top;
+281943;biker stunt ;0;top;
+281943;biker stunt nature ;0;top;
+281943;biker stunt nature hill ;0;top;
+281943;biker stunt nature hill jump ;0;top;
+281943;biker stunt hill jump ;0;top;
+1080823;white house ;0;som;
+1080823;white house sky ;0;som;
+541161;bedroom ;0;som;
+541161;bedroom fan ;0;som;
+541161;bedroom fan window ;0;som;
+541161;bedroom fan window clothing ;0;som;
+343;indian people ;0;som;
+343;indian people crowd ;0;som;
+343;indian people ;0;som;
+647700;two ;0;top;
+647700;two guys ;0;top;
+647700;two guys black suits ;0;top;
+647700;two guys black suits handguns ;0;top;
+647700;two guys black suits handguns sky ;0;top;
+647700;guys black suits handguns sky ;0;top;
+20379;tree snow ;0;som;
+1098994;jeep safari ;0;som;
+1098994;jeep safari peole ;0;som;
+1098994;jeep safari two peole ;0;som;
+1098994;jeep safari two peole standing ;0;som;
+990334;man tent sleeping bag ;0;top;
+667883;human snow mountain snowboard ;0;som;
+667883;human snow mountain ;0;som;
+667883;human snow mountain sky ;0;som;
+667883;human snow mountain sky snowboard ;0;som;
+667883;man snow mountain sky snowboard ;0;som;
+667883;man snow mountain sky ;0;som;
+920562;two men fishing ;0;top;
+920562;two men fishing net ;0;top;
+237618;man smile ;0;top;
+237618;man smile shirt ;0;top;
+237618;man smile shirt teeth ;0;top;
+1031917;hands climbing ;0;som;
+1031917;hands climbing rock ;0;som;
+384835;smith ;0;top;
+384835;smith fire ;0;top;
+29709;flying drone ;0;top;
+397547;girl chairs ballons ;0;som;
+397547;girl chairs balloons ;0;som;
+397547;girl chairs balloons party ;0;som;
+950676;train woman hair ;0;top;
+799783;priests  table chair priest;4;top;1,3,2,1
+595922;crowd cable;0;som;
+595922;crowd ;5;som;2,3,2,1,1
+609301;show child woman tree bobs ;0;top;
+609301;snow child woman tree bobs ;0;top;
+609301;snow child woman bobs bobbing ;1;top;1
+609301;snow child woman bobs ;0;top;
+609301;snow child person bobs ;1;top;2
+609301;snow child pink;0;top;
+609301;snow child pink bobs;0;top;
+609301;snow child pink bobs person tree;1;top;1
+609301;snow child pink  person tree;0;top;
+609301;snow child pink  person tree lie ;0;top;
+609301;snow child  bob  person tree lie ;3;top;1,2,1
+312770;text bush neck shirt;0;som;
+312770;text bush neck shirt grass;3;som;3,2,2
+733324;body arm hand green top grass;0;top;
+733324;body arm hand green top ;0;top;
+733324;body arm hand green ;0;top;
+733324;body arm hand top green ;0;top;
+733324;body arm hand hands top green ;0;top;
+733324; arm  hands top green ;0;top;
+733324; arm  hands top green  shaking ;0;top;
+733324; arm  hands top green  outside ;1;top;3
+733324; arm  hands top green  outside bracelet ;0;top;
+733324; arm  hands top green   bracelet ;0;top;
+733324; arm  hand top green   bracelet ;0;top;
+733324; arm  arms top green   bracelet ;3;top;3,3,1
+578004;screen red news;0;som;
+578004;light screen red news;0;som;
+578004;light screen news;10;som;1,2,3,4,3,4,1,3,4,2
+633863;knife board  onion finger;1;top;3
+757607;wheelchair gym trousers ;4;som;1,3,12,1
+405349;orange hand red sleeve ;0;top;
+405349;orange hand  sleeve ;0;top;
+405349; hand sleeve fruit ;1;top;1
+380564;african microphone;4;som;4,3,2,3
+380564;african microphone 3 ;4;som;3,4,4,7
+828435;hause tree pipe chair towel;0;top;
+828435; pipe chair towel house ;0;top;
+828435; pipe chair towel house  wall;0;top;
+828435;  chair towel house ;2;top;1,1
+783244;sidewalk pavement ;2;som;1,6
+1003086;guitare yellow  man leg;0;top;
+1003086; yellow  man  guitar ;0;top;
+281943;bike helmet trees ;0;som;
+281943; helmet trees  bycycle ;6;som;1,2,2,2,2,6
+1080823;white building old sky;4;top;7,5,5,2
+744979;ramp  person blurry ;5;som;2,3,1,7,5
+541161;bed window white rack fan ;3;top;5,5,3
+1147086;light smoke  hoodie people ;5;som;1,4,2,1,1
+343;indian colorful woman man celebration ;6;top;1,1,2,1,1,1
+343;indian robes ;5;top;4,2,1,2,1
+647700;sky men suit shirt text guns;0;som;
+647700;sky men suit shirt guns;0;som;
+647700; men suit shirt guns;0;som;
+20379;tree snow sky;0;top;
+127721;lights dark window;4;som;3,5,3,2
+127721;lights dark window foggy;0;som;
+127721;lights dark window foggy light;1;som;1
+127721;lights dark house foggy;0;som;
+127721;lights dark house ;0;som;
+127721;light dark house ;5;som;1,3,3,1,3
+127721;light dark windows;9;som;2,3,4,6,7,8,5,3,7
+900219;sign block brick;1;top;1
+900219;sign block brick text;2;top;2,4
+900219;sign block brick text street ;3;top;4,3,4
+900219;sign block brick text street spanish ;5;top;3,6,2,2,4
+900219;sign block brick text street ;8;top;4,1,1,1,3,1,2,1
+799783;church altar;0;som;
+799783;church altar small priest ;0;som;
+799783;church altar small priest bible ;0;som;
+799783;church altar small priest bible dim ;0;som;
+799783;church altar small priest bible dim poor ;2;som;1,1
+595922;stands cameraman sponsored ;0;top;
+595922;stands cameraman crowd ;0;top;
+595922;stands cameraman crowd viewers ;0;top;
+595922;stands cameraman viewers ;0;top;
+595922;stands cameraman viewers billboard ;0;top;
+595922;stands cameraman viewers billboard judges ;0;top;
+595922;stands cameraman viewers billboard ;2;top;1,1
+609301;snow sledge kid ;0;som;
+609301;snow sledge kid old ;0;som;
+609301;snow sledge kid old pull ;0;som;
+609301;snow kid old pull sled ;0;som;
+609301;snow kid old pull sled parent ;0;som;
+609301;snow kid old pull sled parent fade ;0;som;
+312770;motivational collage;0;top;
+312770;motivational collage bush ;0;top;
+312770;motivational collage bush sign ;0;top;
+312770;motivational collage bush sign garden ;0;top;
+312770;create conjuring;0;top;
+312770;sign bush fade body ;0;top;
+312770;sign bush fade body motivational ;0;top;
+312770;sign bush fade body motivational collage ;0;top;
+312770;sign bush fade body motivational collage writing ;0;top;
+312770;sign bush fade body motivational collage ;0;top;
+312770;sign bush fade body motivational collage pale ;0;top;
+733324;woman body hands green ;0;som;
+733324;woman body hands greenish ;0;som;
+733324;woman body hands greenish handshake ;0;som;
+733324;woman body hands greenish handshake side ;0;som;
+733324;park grass hands palm ;0;som;
+733324;park grass hands woman ;0;som;
+733324;park grass hands woman bracelet ;0;som;
+733324;park grass hands woman bracelet focus ;0;som;
+733324;park grass hands woman bracelet focus near ;0;som;
+733324;park grass hands woman bracelet focus near arm ;1;som;1
+733324;park grass hands woman bracelet focus arm close ;0;som;
+733324;park grass hands woman bracelet focus arm close handshake ;0;som;
+733324;park grass hands woman bracelet focus arm close ;0;som;
+733324;park grass hands woman bracelet arm close ;0;som;
+733324;park grass two hands woman bracelet arm close ;0;som;
+733324;park grass two hands woman bracelet arm close side ;0;som;
+733324;park grass two hands woman bracelet arm close side green ;0;som;
+733324;park grass two hands woman bracelet arm close side green right ;0;som;
+733324;park grass two hands woman bracelet arm close side green ;1;som;1
+578004;street entrance sign night ;0;top;
+578004;street entrance sign night light ;0;top;
+578004;street entrance sign night light gate ;0;top;
+578004;street entrance sign night light gate scooter ;0;top;
+578004;street entrance sign night light gate scooter dim ;0;top;
+578004;street entrance sign night light gate scooter dim fade ;0;top;
+578004;street entrance sign night light gate dim fade motorbike ;0;top;
+578004;street entrance sign night light gate dim fade motorbike parked ;0;top;
+578004;entrance sign night light gate dim fade motorbike parked ;0;top;
+578004;sign night light gate dim fade motorbike parked ;0;top;
+578004;sign night light gate dim fade motorbikes parked ;0;top;
+578004;sign night light gate dim fade motorbikes parked billboard ;0;top;
+578004;sign night light gate dim fade motorbikes parked ;0;top;
+578004;sign night light gate dim fade motorbikes parked portal ;0;top;
+578004;sign night light gate dim fade motorbikes parked columns ;0;top;
+578004;sign night light gate dim fade motorbikes parking columns ;0;top;
+578004;sign night light gate dim fade motorbikes parking columns fence ;0;top;
+578004;sign night light gate dim fade motorbikes parking columns wall ;0;top;
+578004;bright sign night light gate dim fade motorbikes parking columns wall ;0;top;
+578004;bright sign night light gate dim fade motorbikes parking columns screen ;0;top;
+578004;dark night street entrance gate ;0;top;
+578004;dark night street entrance gate bright sign ;0;top;
+578004;dark night street entrance gate bright billboard ;0;top;
+578004;dark night street entrance gate bright billboard lights ;0;top;
+578004;dark night street entrance open gate bright billboard lights ;0;top;
+633863;chopping knife ;0;som;
+633863;chopping knife board ;0;som;
+633863;chopping knife board ingredients ;0;som;
+633863;chopping knife board ingredients garlic ;0;som;
+633863;chopping borad knife ingredients garlic ;0;som;
+633863;chopping borad knife garlic ;0;som;
+633863;chopping borad knife ;0;som;
+633863;chopping borad knife table ;0;som;
+633863;chopping borad knife table cooking ;2;som;1,1
+757607;wheelchair sport gym ;5;top;3,5,1,2,1
+405349;orange zest ;0;som;
+405349;orange zest cooking ;0;som;
+405349;orange zest cooking peeling ;0;som;
+405349;orange zest cooking peeling hand ;0;som;
+405349;orange zest cooking peeling hand checkered ;0;som;
+405349;zest cooking peeling hand checkered ;0;som;
+405349;cooking peeling hand checkered ;0;som;
+405349;cooking peeling hand checkered orange peel ;0;som;
+405349;cooking peeling hand checkered orange peel sleeve ;0;som;
+405349;cooking peeling hand checkered orange peel sleeve peeled ;0;som;
+405349;cooking orange peeled ;0;som;
+405349;cooking orange peeled fruit ;0;som;
+405349;cooking orange peeled fruit white apron ;0;som;
+405349;cooking orange peeled fruit white apron checkered sleeve ;0;som;
+405349;cooking orange peeled fruit white apron checkered sleeve detail ;4;som;2,2,1,1
+405349;cooking orange peeled;0;som;
+405349;cooking orange peeled white apron hand sleeve ;0;som;
+405349;cooking orange peeled white apron hand sleeve holding ;0;som;
+405349;cooking orange peeled white apron hand sleeve holding checkered ;3;som;3,11,4
+405349;cooking orange peeled white apron hand sleeve checkered peel ;0;som;
+405349;cooking peeled white apron hand sleeve checkered peel orange;0;som;
+405349;cooking peeled white apron hand sleeve checkered peel orange yellow ;0;som;
+405349;cooking peeled white apron hand sleeve checkered peel orange;1;som;1
+380564;mic singer black ;3;top;1,3,5
+828435;backyard garden house chair drain ;0;som;
+828435;backyard garden house chair drain pipe ;0;som;
+828435;backyard garden house chair drain pipe railing ;0;som;
+828435;backyard garden house chair drain pipe railing pavement ;0;som;
+828435;backyard garden house chair drain pipe railing pavement grass ;0;som;
+828435;backyard garden house chair drain pipe railing pavement;0;som;
+828435;backyard garden house chair drain pipe railing pavement washing ;0;som;
+828435;backyard garden house chair drain pipe railing pavement hanging ;0;som;
+828435;backyard garden house chair drain pipe railing pavement hanging door ;1;som;1
+828435;backyard garden house chair drain pipe railing pavement hanging tree ;0;som;
+828435;backyard garden house chair drain pipe railing pavement hanging wall ;0;som;
+828435;backyard garden house chair drain pipe railing pavement hanging clothesline ;0;som;
+828435;backyard garden house chair drain pipe railing pavement hanging clothes ;0;som;
+828435;backyard garden house chair drain pipe railing pavement hanging clothes shadow ;0;som;
+828435;backyard garden house chair pipe railing pavement hanging clothes shadow ;0;som;
+828435;backyard garden house chair railing pavement hanging clothes shadow ;0;som;
+828435;backyard garden house chair railing pavement clothes shadow ;0;som;
+828435;backyard garden house chair railing pavement clothes shadow door ;0;som;
+828435;backyard garden house chair railing pavement clothes shadow door small ;0;som;
+828435;backyard garden house chair railing pavement clothes shadow door sunny ;0;som;
+828435;garden house chair railing pavement clothes shadow door sunny ;0;som;
+828435;backyard house chair railing pavement clothes shadow door sunny ;0;som;
+783244;street pavement city;0;top;
+783244;street pavement city pov ;0;top;
+783244;street pavement city pov buildings ;0;top;
+783244;street pavement city pov;0;top;
+783244;street pavement city pov cyclist ;0;top;
+783244;street pavement city pov cyclist stone ;0;top;
+783244;street pavement city pov cyclist stone posts ;0;top;
+783244;street pavement city pov cyclist stone posts stripes ;0;top;
+783244;street pavement city pov cyclist stone posts tree ;0;top;
+783244;street pavement city pov cyclist stone posts long ;0;top;
+783244;street pavement city pov cyclist stone posts long cars ;0;top;
+783244;street pavement city pov cyclist stone posts long cars glass ;0;top;
+783244;street pavement city pov cyclist stone posts long cars glass entrance ;2;top;6,2
+1003086;guitar bottle window reflection ;0;som;
+1003086;guitar bottle window reflection playing ;0;som;
+1003086;guitar bottle window reflection playing indoor ;0;som;
+1003086;guitar bottle window reflection playing indoors ;0;som;
+1003086;guitar bottle window reflection playing indoors guy ;1;som;1
+1003086;guitar bottle window reflection playing indoors guy party ;0;som;
+1003086;guitar bottle window reflection playing indoors guy yellow ;0;som;
+1003086;guitar bottle window reflection playing indoors guy yellowish ;0;som;
+1003086;guitar bottle window reflection playing indoors guy ;0;som;
+1003086;guitar bottle window reflection playing indoors guy paintings ;0;som;
+1003086;guitar bottle playing indoors guy ;0;som;
+1003086;guitar bottle playing indoors guys ;2;som;1,4
+281943;biker slope ;0;top;
+281943;biker slope jump ;0;top;
+281943;biker slope jump forest ;0;top;
+281943;biker slope jump forest ramp ;0;top;
+281943;biker slope jump forest ramp leaves ;12;top;4,2,1,4,3,1,4,7,1,1,1,1
+281943;biker slope jump forest ramp leaves bike ;0;top;
+281943;biker slope jump forest ramp leaves bike steep ;0;top;
+281943;biker forest ramp leaves bike steep ;0;top;
+281943;biker forest ramp leaves bike steep helmet ;0;top;
+281943;biker forest ramp leaves bike steep ;3;top;1,2,1
+1080823;building temple ;0;som;
+1080823;building temple marble ;0;som;
+1080823;building temple marble tall ;0;som;
+1080823;building temple marble tall sky ;0;som;
+1080823;building temple marble tall sky light ;0;som;
+1080823;building temple marble tall sky bright ;0;som;
+1080823;building temple marble tall sky bright arabic ;0;som;
+1080823;building tall sky bright arabic ;0;som;
+1080823;building tall sky bright arabic white ;0;som;
+1080823;nan;0;som;
+1080823;temple ;0;som;
+1080823;temple arabic ;0;som;
+1080823;temple arabic building ;0;som;
+1080823;temple arabic building sky ;1;som;1
+1080823;temple arabic building sky bright ;0;som;
+1080823;temple arabic building sky light ;0;som;
+1080823;temple arabic building sky light old ;0;som;
+1080823;temple building sky light old ;1;som;1
+1080823;temple building sky light old white ;0;som;
+1080823;temple building sky light old white arabic ;0;som;
+1080823;temple building sky light old white arabic;0;som;
+799783;church praying brown;1;top;1
+799783;church brown reading;0;top;
+799783;church brown reading chairs;1;top;4
+799783;brown reading chairs;0;top;
+799783;brown reading ;0;top;
+799783;brown reading table candles;0;top;
+595922;crowd stadion;0;som;
+595922;crowd stadion game;0;som;
+595922;crowd stadion sport;3;som;6,4,3
+609301;snow old plow;0;top;
+609301;snow old sled;0;top;
+312770;stone create cojure conceive create ;0;som;
+312770;stone create cojure conceive create bush;0;som;
+312770;monument citat bush;5;som;10,5,5,2,5
+733324;woman hands green braclet;0;top;
+733324;woman hands green braclet park;0;top;
+578004;fog display room;0;som;
+578004;display room;1;som;1
+578004;display room tg5;1;som;4
+633863;cutting board garlic;3;top;6,1,10
+633863;cuttingboard;0;top;
+633863;cutting board;0;top;
+633863;dark cutting board;0;top;
+633863;dark cutting board herbs;1;top;6
+757607;wheelchair sport rugby;0;som;
+757607;wheelchair sporting ;1;som;5
+757607;wheelchair sporting green;4;som;2,1,11,3
+405349;hand oranges peeled;0;top;
+405349;hand orange ;0;top;
+405349;hand tangerines;0;top;
+405349;hand tangerines white;0;top;
+405349;hand tangerines white squares ;0;top;
+405349;hand tangerines;0;top;
+380564;black person microphone;2;som;5,4
+828435;back garden home;0;top;
+828435;back garden home chair fence;1;top;4
+783244;square city;0;som;
+783244;square city pavement ;2;som;4,6
+1003086;guitar yellow window;0;top;
+1003086;guitar yellow window man;3;top;4,2,3
+281943;bmw bike hill cross;0;som;
+281943;bike hill cross;7;som;5,2,3,9,1,2,3
+1080823;church muslim white sky;1;top;4
+1080823;church muslim white sky ;0;top;
+744979;wide lance door;0;som;
+744979;wide lance scating;0;som;
+744979;wide lance skating;3;som;1,7,1
+541161;3rd bedroom white;3;top;2,7,2
+1147086;mask black fire mens;2;som;6,13
+343;india praying colorful people;5;top;4,2,1,1,1
+647700;pistols in pants mans white suits;1;som;1
+647700;pistols in pants mans white suits sky;3;som;1,2,5
+20379;pine snow;0;top;
+20379;pine snow sky;2;top;4,3
+127721;dark lights fence people;0;som;
+127721;dark lights fence people boat;2;som;4,3
+900219;sign advertise;0;top;
+900219;sign advertise fandi;1;top;2
+900219;sign advertise fandi street;2;top;4,6
+958292;bald mens black suits;1;som;4
+958292;bald mens black suits glasses black;2;som;3,1
+1098994;jeep savana;0;top;
+1098994;jeep grassland;1;top;4
+990334;tent bag man;3;som;5,3,2
+667883;snowboard mountains snow;0;top;
+667883;snowboard mountains snow pink;1;top;3
+920562;fishing lake mens white shirt;2;som;4,2
+920562;fishing lake mens white shirt net;1;som;3
+189079;snow green flag ;0;top;
+189079;snow green mountains;0;top;
+1025320;womans hair weding;0;som;
+1070429;cargo ship containers plains;0;top;
+727362;black hair from behind hall;2;top;1,3
+1080405;guitar mikrofon singers ;0;som;
+1080405;guitar mikrofon singer ;1;som;3
+346112;group photo lake;0;top;
+346112;group photo lake people;2;top;3,3
+860818;field sky orange;0;som;
+234980;tablet pavment;0;top;
+234980;tablet pavement;3;top;6,4,4
+237618;laughing men white;0;som;
+827903;pointing woman summer;0;top;
+827903;pointing woman summer turban;1;top;2
+373440;vest man gray;0;som;
+83008;old newspapers;0;top;
+83008;old municipai;0;top;
+83008;municipai;0;top;
+83008;theater old program;0;top;
+82591;guitar red band;1;som;2
+726654;mountain top;1;top;2
+780226;sprayed men ;0;som;
+780226;sprayed men building;0;som;
+1031917;climbing rock split;2;top;1,5
+468747;advertisement web browser;0;som;
+670383;road ;3;top;1,3,1
+427607;bike cross road plains;5;som;2,3,4,2,4
+331265;snow trail clean;2;som;1,4
+996744;pink field photo wedding;5;som;2,2,1,5,4
+384835;smith;0;som;
+384835;flames metal working;3;som;1,3,5
+689873;pink room decorations;0;top;
+689873;pink room decorations doors;0;top;
+341398;coach dudes;0;som;
+717732;road old building;0;top;
+627448;motorbike cross forest helmet ;3;som;1,5,2
+627874;motorbike helmet;0;top;
+627874;motorbike helmet cross forest;7;top;1,1,1,1,1,3,4
+799783;standing men church ;3;top;4,1,1
+595922;sport referee ;0;som;
+595922;sport referee sitting ;0;som;
+595922;sport referee sitting race ;0;som;
+595922;referee sitting race ;0;som;
+595922;referee sitting race auditorium ;0;som;
+595922;referee sitting race auditorium  camera ;0;som;
+595922;auditorium  camera bridge ;0;som;
+595922;auditorium  cameraman ;2;som;3,2
+595922;auditorium  cameraman referee ;0;som;
+595922;auditorium  cameraman referee advertisement ;0;som;
+595922;auditorium  cameraman referee billboard ;0;som;
+609301;sledge  tow snow blurred ;0;top;
+609301;sledge  tow snow blurred headscarf ;1;top;3
+609301;snow sledge kid women blurred ;1;top;1
+609301;snow sledge kid women blurred tow ;0;top;
+609301;snow sledge kid women blurred tow tree house ;1;top;2
+312770;create bush body green sign ;0;som;
+312770;create bush body green sign list ;0;som;
+312770;create bush body green sign list fade ;0;som;
+312770;create bush body green sign list fade conjure;0;som;
+312770;create bush body green sign list fade ;0;som;
+312770;bush body green sign list fade ;0;som;
+733324;handshake green ;0;top;
+733324;handshake green park ;0;top;
+733324;handshake green park detail ;1;top;3
+733324;handshake green park detail bracelets ;0;top;
+733324;green park bracelets ;0;top;
+733324;bracelets ;1;top;1
+733324;bracelets green ;5;top;1,1,2,5,3
+733324;bracelets green park ;0;top;
+733324;bracelets green park grass ;0;top;
+733324;bracelets green park grass woman ;1;top;1
+578004;night motorbikes fence light ;0;som;
+578004;night motorbikes fence light parking ;3;som;1,3,2
+633863;knife chopping board ;2;top;8,5
+633863;knife chopping board herbs ;0;top;
+633863;knife chopping board herbs tongs ;3;top;3,4,1
+757607;wheelchair sport ;11;som;2,5,2,1,2,2,5,1,1,5,2
+405349;lemon hand checkered red ;0;top;
+380564;afro singer microphone black ;1;som;2
+380564;afro microphone black ;0;som;
+380564;microphone black singing ;3;som;2,3,2
+799783;church priest ;0;som;
+799783;church preaching ;0;som;
+799783;preaching ;0;som;
+799783;bible reading;0;som;
+799783;holy church;0;som;
+799783;fofur priests;0;som;
+799783;four priests;0;som;
+799783;four priests church;0;som;
+799783;three priests church;0;som;
+799783;three priests church light;0;som;
+799783;three priests church light chairs;0;som;
+799783;priests church light chairs;0;som;
+799783;priests church light chairs candles ;0;som;
+799783;priests church light chairs candles  books reading ;0;som;
+799783;church light chairs candles  books reading ;0;som;
+799783;church light chairs candles  books reading curtain;0;som;
+799783;light chairs candles  books reading curtain;1;som;1
+799783;standing priests reading books church;0;som;
+799783;standing priests reading books;0;som;
+595922;caixa;0;top;
+595922;advertisements sport match cameraman ;0;top;
+595922;advertisements sport match cameraman sitting fans;0;top;
+595922;cameraman advertisements sport match sitting fans;0;top;
+595922;camera advertisements sport match sitting fans;0;top;
+595922;camera advertisements sport match sitting fans blue ;0;top;
+595922;camera advertisements sport match sitting fans blue  chairs;0;top;
+595922;camera stadium advertisements match sitting fans blue  chairs;0;top;
+595922;camera stadium match sitting fans blue  chairs;1;top;1
+595922;camera stadium match sitting fans blue  chairs committee ;0;top;
+595922;camera stadium cameraman sitting fans blue  chairs committee ;1;top;3
+595922;cameraman ;0;top;
+595922;two cameraman ;0;top;
+595922;two cameraman committee ;0;top;
+595922;two cameraman committee  blue chairs ;0;top;
+595922;sports fans sitting committee blue chairs ;1;top;1
+609301;kid snow grandmother ;0;som;
+609301;kid snow grandmother sledge ;0;som;
+609301;kid snow grandmother sledding ;0;som;
+609301;kid lying on sledge sledding  snow ;0;som;
+609301;kid lying on sledge sledding  snow red boots ;0;som;
+609301;kid lying on sledge sledding  snow red boots blue hat;0;som;
+609301;kid lying on sledge;0;som;
+609301;kid lying on sledging;0;som;
+609301;kid lying on sledding ;0;som;
+609301;kid lying sled ;0;som;
+312770;create conjure conceive;0;top;
+312770;green shirt tree;0;top;
+312770;man green shirt smiling dark ;0;top;
+312770;man green shirt smiling blurred ;0;top;
+312770;man green shirt smiling blurred white black text;0;top;
+312770;man green shirt smiling blurred pink;0;top;
+312770;man green shirt smiling blurred pink bush;0;top;
+312770;man green shirt smiling blurred pink bush leaves ;0;top;
+312770;man green blue shirt smiling blurred pink bush leaves ;0;top;
+312770;man green blue shirt teeth blurred pink bush leaves ;0;top;
+312770;woman green blue shirt teeth blurred pink bush leaves ;0;top;
+312770;woman green blue shirt teeth blurred pink bush leaves decoration ;0;top;
+312770;woman green blue shirt teeth blurred pink bush leaves ornament ;0;top;
+312770;woman green blue shirt teeth pink bush leaves ornament ;0;top;
+312770;woman green blue shirt teeth bush leaves ornament ;0;top;
+312770;woman head green shirt teeth bush leaves pink ornament ;0;top;
+312770;man head green shirt teeth bush leaves pink ornament ;0;top;
+733324;woman skinny hands green top;0;som;
+733324;woman skinny hands green top bracelet;0;som;
+733324;woman skinny hands green top bracelet green;0;som;
+733324;woman skinny hands green top bracelet grass ;0;som;
+733324;woman skinny arms hands green top bracelet grass ;0;som;
+578004;white panel ;0;top;
+578004;white panel building ;0;top;
+578004;white bright screen building branches ;0;top;
+578004;white bright screen building branches red gates ;0;top;
+578004;white bright screen building branches red gate;0;top;
+633863;radish knife preparing leaves ;0;som;
+633863;knife preparing leaves white radish;0;som;
+633863;knife preparing garlic leaves white radish;0;som;
+633863;knife cutting garlic leaves white radish;0;som;
+633863;knife cutting garlic leaves white radish brown board;0;som;
+633863;knife cutting garlic leaves white radish brown board fingers;0;som;
+633863;knife cutting garlic leaves white radish brown board zucchini ;0;som;
+633863;knife cutting garlic leaves white radish brown board zucchini  cucumber ;0;som;
+633863;knife cutting garlic leaves white radish brown board cucumber ;3;som;7,5,2
+633863;knife cutting garlic leaves white radish brown board chef ;0;som;
+757607;disabled  sport;0;top;
+757607;disabled green sport;0;top;
+757607;disabled green sport indoor hall ;0;top;
+757607;disabled green sport indoor hall  referee ;0;top;
+757607;disabled person green sport indoor hall  referee ;0;top;
+757607;disabled person carriage green sport indoor hall  referee ;4;top;4,7,1,2
+757607;disabled person carriage green sport indoor hall  referee watches ;0;top;
+757607;disabled person carriage green sport indoor hall  referee watches blue line ;2;top;2,1
+405349;lemon grass peeling ;0;som;
+405349;lemon peeling ;1;som;1
+380564;microphone man singing ;0;top;
+380564;microphone african man singing ;0;top;
+380564;microphone african man book yellow;0;top;
+380564;microphone african man B book yellow;0;top;
+380564;microphone african man black hair book yellow brown shirt ;0;top;
+380564;microphone african man black hair book yellow brown shirt glass ;0;top;
+380564;microphone african man black hair book yellow brown shirt glasses ;0;top;
+380564;microphone speaking african man black hair book yellow brown shirt glasses ;0;top;
+380564;microphone singing african man black hair book yellow brown shirt glasses ;0;top;
+380564;microphone sitting african man black hair book yellow brown shirt glasses ;0;top;
+828435;man in red shirt house doors chair water fence ;0;som;
+828435;man red shirt house doors chair water fence ;0;som;
+828435;man shirt house doors chair water fence ;0;som;
+828435;man shirt house doors chair water fence window ;0;som;
+783244;street cyclist  window bin cobblestones;0;top;
+783244;street cyclist  window bin buildings ;0;top;
+783244;street cyclist  window red white bin buildings cafe ;1;top;4
+783244;street cyclist  window red white bin buildings blocks ;1;top;1
+783244;street cyclist  window red white bin buildings blocks pavement sidewalk ;1;top;4
+783244;street cyclist entrance window red white bin buildings blocks pavement sidewalk ;0;top;
+1003086;bottle yellow shirt man playing guitar ;1;som;1
+281943;cyclist red helmet bmx jump ;0;top;
+281943;red helmet bmx jump ;0;top;
+281943;red helmet bmx man ramp ;0;top;
+281943;red helmet bmx man ramp trees ;9;top;1,5,8,2,3,8,1,1,2
+1080823;mosque blue sky ;0;som;
+1080823;mosque;0;som;
+1080823;cathedral blue sky;1;som;1
+799783;church orange ;0;top;
+799783;church orange people ;0;top;
+799783;church orange people light ;0;top;
+799783;church orange people light chairs ;0;top;
+799783;church 4 people ;0;top;
+799783;people chairs light candlelight ;0;top;
+799783;people chairs light candlelight orange ;0;top;
+799783;people chairs light candlelight orange  church ;0;top;
+799783;chairs orange candles art ;0;top;
+799783;chairs orange candles statue ;0;top;
+799783;chairs orange book ;0;top;
+799783;monk ;0;top;
+799783;monk orange chairs ;0;top;
+799783;monk candlelight chairs ;0;top;
+799783;chairs orange monk people ;0;top;
+799783;chairs orange scene monk people ;0;top;
+799783;church chair monk ;0;top;
+799783;church chair monk prayer ;0;top;
+799783;prayer ;0;top;
+799783;prayer chairs ;0;top;
+799783;prayer chairs table ;0;top;
+799783;prayer chairs table light ;0;top;
+799783;prayer chairs table light orange ;0;top;
+799783;prayer chairs table light orange candle ;0;top;
+799783;portraits chairs monk ;0;top;
+799783;portraits monk ;0;top;
+799783;8 chairs ;0;top;
+799783;pillar ;0;top;
+799783;pillar chair people ;0;top;
+799783;pillar chair people orange ;0;top;
+799783;pillar chair people light ;0;top;
+799783;pillar chair light monk ;0;top;
+799783;pillar chair light monk prayer ;0;top;
+799783;pillar chair light monk prayer orange ;0;top;
+799783;pillar chair light monk table ;0;top;
+595922;spectators ;0;som;
+595922;spectators text ;0;som;
+595922;spectators text chairs ;0;som;
+595922;spectators text chairs dark ;0;som;
+595922;spectators text chairs dark people;0;som;
+595922;people ;0;som;
+595922;people  stadium ;0;som;
+595922;caixa;0;som;
+595922;people watching ;0;som;
+595922;people watching  camera ;3;som;1,1,1
+595922;people watching  camera banner ;1;som;1
+595922;people spectators  camera banner ;0;som;
+595922;people spectators  camera add ;0;som;
+609301;snow tree sled ;0;top;
+609301;snow tree sled pink ;0;top;
+609301;snow tree sled pink child ;1;top;1
+312770;leaves wall tshirt text ;0;som;
+312770;leaves wall tshirt text tree ;0;som;
+312770;leaves wall text tree ;2;som;2,1
+312770;text;0;som;
+312770;text leaves ;0;som;
+312770;text bush ;0;som;
+312770;text bush wall ;0;som;
+733324;hand green;1;top;1
+733324;hand green bracelet ;0;top;
+733324;hands green bracelet ;2;top;1,1
+733324;hands green bracelet grass ;2;top;2,2
+578004;text screen bright ;0;som;
+633863;knife board ;1;top;1
+633863;knife board salad ;0;top;
+633863;knife board salad bowl ;0;top;
+633863;knife bowl ;0;top;
+633863;knife bowl pan ;1;top;1
+757607;wheelchair ;0;som;
+757607;wheelchair person;0;som;
+757607;wheelchair person green;0;som;
+757607;wheelchair person green gym ;4;som;1,3,2,1
+405349;lemon ;0;top;
+380564;mic ;1;som;1
+380564;mic man ;2;som;1,3
+828435;house railing ;0;top;
+828435;house railing chair ;0;top;
+828435;house railing chair tree ;1;top;2
+799783;pray church priest ;0;top;
+799783;pray priests chapel;0;top;
+799783;pray priests church men ;4;top;1,2,1,4
+595922;crowd cameramen;1;som;1
+595922;crowd cameramen advertisment ;0;som;
+595922;crowd cameramen ;2;som;1,2
+609301;snow kid toboggan;0;top;
+609301;snow kid toboggan parent ;1;top;1
+609301;snow kid sledding ;0;top;
+609301;snow kid sledding toboggang;0;top;
+609301;snow kid sledding cottage mom ;1;top;3
+312770;inscription wall tree grey ;0;som;
+312770;inscription wall tree men ;1;som;2
+312770;inscription wall tree men legend;1;som;1
+312770;inscription wall tree men legend create ;0;som;
+312770;create conjure conceive create conjure;0;som;
+312770;legend inscription quote tree;0;som;
+312770;legend quote treehouse ;1;som;2
+312770;legend quote tree nature;0;som;
+312770;legend quote tree men;0;som;
+312770;legend quote tree men board wall;0;som;
+312770;quote tree men wall;2;som;2,2
+312770;quote tree men wall grey ;1;som;1
+312770;quote tree men wall grey poem;0;som;
+312770;quote tree men wall poem ;2;som;1,3
+733324;hands touch dress girl ;0;top;
+733324;hands touch dress girl nature ;0;top;
+733324;hands touch girl nature ;3;top;4,4,4
+578004;smoke screen light street;1;som;1
+633863;cooking knife chopping vegetable ;4;top;5,1,1,1
+757607;wheelchair sport coach gym;3;som;1,5,2
+405349;lemon person apron;3;top;2,7,6
+405349;lemon yellow person apron;0;top;
+380564;blackmen rap sing mic;3;som;1,4,8
+828435;house garden chair;0;top;
+828435;house garden chair terrace;3;top;3,4,1
+783244;street tiles grey city;3;som;1,5,3
+1003086;men guitar laugh tshirt yellow;0;top;
+281943;trial bike men bmx nature;0;som;
+281943;trial bike men bmx nature jump ;0;som;
+281943;trial bike man bmx nature jump ;7;som;3,2,7,5,6,3,3
+1080823;cathedrale white building church ;3;top;1,2,3
+1080823;cathedrale white building church old ;1;top;1
+1080823;cathedrale white building church old sky ;1;top;1
+1080823;cathedrale white building church old sky arc  ;0;top;
+1080823;cathedral white building old sky arc  ;0;top;
+1080823;cathedral white old sky arc  ;3;top;2,2,1
+799783;priest mass inside four ;1;top;5
+799783;priest mass inside four empty chairs ;0;top;
+799783;priests mass inside four ;0;top;
+799783;priest mass inside four ;2;top;3,1
+595922;audiance contest ovation ;1;som;1
+595922;audiance contest ovation cameraman ;0;som;
+595922;audiance contest ovation cameraman sports ;0;som;
+595922;tribune contest ovation cameraman sports ;0;som;
+595922;tribune ovation cameraman sports ;0;som;
+595922;platform ovation cameraman sports ;3;som;2,4,2
+609301;black white sledge snow pulling ;3;top;3,3,4
+609301;black white sledge snow pulling lying ;0;top;
+609301;black white sledge snow pulling lying people ;1;top;5
+312770;tree plate create;8;som;4,4,3,2,5,6,4,2
+733324;handshake woman bracelet blue vest ;0;top;
+733324;handshake woman bracelet blue vest outdoors ;0;top;
+578004;outdoors billboard news night cinema ;3;som;4,4,2
+578004;outdoors entrance news night cinema light ;8;som;3,5,4,5,4,5,2,3
+633863;cooking slicing board knife ;0;top;
+757607;wheelchair sport indoor coach ;0;som;
+757607;wheelchair sport indoor coach green ;3;som;4,9,3
+405349;cooking lemon peel woman;0;top;
+380564;african american microphone ;0;som;
+380564;african american microphone grey ;0;som;
+380564;african american microphone grey conference ;4;som;3,5,3,11
+828435;garden chair terrace clothes house;10;top;4,3,4,3,3,4,5,4,5,6
+828435;garden chair terrace clothes house backyard ;5;top;5,2,6,5,5
+783244;city sidewalk entrance cobble;1;som;5
+783244;city sidewalk entrance cobble cyclist ;1;som;5
+1003086;guitarist guitar acustic yellow window alcohol talking ;0;top;
+1003086;guitarist guitar acustic yellow window alcohol talking sitting;3;top;3,4,3
+281943;bmx jump trail helmet rider outdoors;7;som;2,3,2,5,4,6,3
+799783;priest church indoors ;3;som;6,1,1
+595922;people sitting banners ;0;top;
+595922;people sitting banners stadium ;4;top;1,4,4,3
+609301;snow winter sledge ;0;som;
+609301;snow winter sledge pulling ;5;som;2,4,6,6,8
+312770;wall text ;0;top;
+312770;wall text tree ;0;top;
+312770;wall text tree building ;6;top;3,4,5,7,6,1
+733324;hands ;0;som;
+733324;hands outside ;3;som;2,5,2
+578004;screen building dark ;4;top;5,6,3,2
+633863;board knife food ;1;som;1
+757607;wheelchair gym green ;3;top;4,4,4
+405349;hand lemon ;1;som;4
+380564;microphone black man ;10;top;4,3,4,4,5,4,5,6,8,4
+828435;house garden porch chair ;3;som;5,8,5
+783244;sidewalk ;14;top;4,3,4,9,7,6,5,8,6,5,5,6,5,6
+1003086;guitarist yellow ;0;som;
+1003086;guitarist ;0;som;
+1003086;guitarist sitting ;3;som;2,3,1
+281943;bmx ramp ;0;top;
+281943;bmx ramp outside ;0;top;
+281943;bmx ramp nature ;16;top;5,3,5,3,5,5,2,6,5,4,8,4,7,6,5,2
+1080823;white building sky ;0;som;
+1080823;white sky temple ;22;som;3,7,6,6,7,5,6,1,2,3,5,2,1,2,1,4,3,1,2,2,2,2
+744979;fish eye ramp skateboard ;0;top;
+744979;fish eye ramp skateboard indoors ;8;top;4,3,3,4,6,4,4,2
+541161;bedroom window white ;1;som;2
+1147086;masked man lights foggy dark ;3;top;6,5,1
+343;indian people ;3;som;2,6,3
+647700;two man suit pistol subtitles ;0;top;
+647700;two man suit subtitles ;0;top;
+647700;two man suit sky ;3;top;5,3,2
+20379;tree snow sky;1;som;4
+127721;dark lights;0;top;
+127721;dark lights glowing ;0;top;
+127721;dark lights glowing stick people;0;top;
+127721;dark lights glowing stick ;0;top;
+127721;dark lights building ;0;top;
+127721;dark lights building glowing ;9;top;3,2,3,3,4,3,1,1,2
+900219;sign ;0;som;
+900219;sign wall ;0;som;
+900219;sign ;6;som;3,5,5,6,3,6
+958292;suit sunglasses two man ;0;top;
+958292;suit sunglasses bald ;0;top;
+958292;suit sunglasses bald building ;4;top;4,3,5,2
+1098994;jeep;1;som;2
+990334;tent head sleeping bag ;0;top;
+667883;snowboarder mountains sky ;4;som;1,5,5,5
+920562;man fishing water ;1;top;3
+189079;snow mountain sky;2;som;3,5
+1025320;woman back head hand;11;top;1,2,5,3,5,5,5,5,4,7,5
+1070429;crane ship foggy ;13;som;3,5,1,5,4,4,4,3,3,3,3,3,4
+300925;man smile wooden wall;0;top;
+300925;man smile wooden wall suit;2;top;1,4
+727362;black hair woman white corridor ;4;som;7,5,3,1
+1080405;guitarist playing microphone ;8;top;5,5,4,4,3,4,5,5
+346112;group photo mountains lake ;0;som;
+346112;group photo ;0;som;
+346112;group standing mountains ;0;som;
+346112;group people standing mountains ;0;som;
+346112;lineup group ;0;som;
+346112;group standing next eachother ;6;som;3,4,1,3,3,4
+860818;sky horizon ;0;top;
+860818;sky horizon ground ;3;top;6,3,5
+234980;tablet finger ;2;som;1,4
+237618;man smile face;2;top;2,3
+827903;woman man sunglasses;0;som;
+827903;woman man sunglasses sitting;0;som;
+827903;sunglasses sitting cup ;0;som;
+827903;sunglasses sitting cup man woman ;12;som;2,4,6,6,5,4,7,4,4,6,4,4
+806108;city tower female selfie;0;som;
+806108;city tower selfie;2;som;1,1
+132527;cap street chid;0;top;
+340554;club green light;1;som;3
+415597;teacher map moustache ;0;top;
+415597;teacher map moustache person ;6;top;2,5,4,4,2,2
+394281;blue shirt man glasses text ;1;som;1
+1145030;blue wedding valley;4;top;2,2,3,4
+337634;sign text grey;0;som;
+337634;sign text grey wall ;11;som;5,3,5,3,2,5,5,1,1,1,1
+337634;sign text grey wall stone ;2;som;2,1
+1016254;biker hills clear ;0;top;
+1016254;bicycle hills clear ;6;top;3,2,4,2,2,3
+486688;wedding hall empty;1;som;2
+486688;wedding hall empty podium ;4;som;2,2,3,1
+486688;purple white podium hall ;1;som;1
+486688;purple white podium hall event ;2;som;1,5
+785006;kids green trampoline ;1;top;5
+495903;racing curve ;4;som;1,9,3,3
+1153009;hug clothes shop ;0;top;
+1153009;hug ;0;top;
+1153009;hug shop ;0;top;
+1153009;hug clothes ;0;top;
+1153009;shop clothes male red;1;top;2
+1153009;shop clothes ;1;top;3
+1153009;shop clothes aisle ;1;top;3
+1153009;hug ;3;top;2,1,2
+517109;traffic sign cycling tree ;0;som;
+517109;traffic sign cycling tree lamps ;2;som;3,3
+517109;korean sign cycling tree lamps ;0;som;
+517109;korean sign tree lamps ;0;som;
+517109;blue sign tree lamps ;0;som;
+517109;traffic sign tree lamps ;7;som;1,2,4,1,3,2,2
+517109;traffic sign tree lamps chinese ;0;som;
+109923;subway  male ;3;top;6,3,1
+272999;grass tree dizzy ;0;som;
+272999;grass tree fuzzy ;0;som;
+272999;grass tree blurry ;3;som;3,2,3
+272999;grass trees sky ;4;som;4,1,3,3
+178150;rob cap black;0;top;
+178150;attack black men cap door ;2;top;3,3
+178150;attack black men cap door masked ;1;top;5
+178150;men cap door masked ;0;top;
+178150;men door masked ;3;top;5,2,1
+95394;surf wave ;6;som;2,3,1,4,1,2
+502449;dancing red ;0;top;
+502449;dancing red outdoor ;0;top;
+502449;dancing red outdoor daylight ;0;top;
+599777;meeting text ;0;som;
+599777;meeting ;0;som;
+599777;meeting blurred ;0;som;
+599777;meeting blurred greyish ;0;som;
+599777;meeting blurred grey;0;som;
+599777;meeting greyish;6;som;4,2,3,1,2,4
+219484;desert argument split ;0;top;
+219484;desert argument split films ;0;top;
+219484;desert argument split film ;0;top;
+219484;desert argument split film cap ;0;top;
+219484;desert discussion film cap ;0;top;
+219484;desert discussion film cap sand ;0;top;
+219484;desert discussion film cap sand boy female ;1;top;4
+219484;desert movie ;0;top;
+219484;desert movie persons ;2;top;1,2
+1130564;castle coast ;0;som;
+1130564;castle coast sea ;4;som;4,1,3,2
+799783;chair curtain person ;6;som;1,2,1,1,2,1
+595922;stand ;6;top;1,1,2,3,2,2
+609301;sledding ;7;som;1,2,1,2,2,2,1
+312770;text  bush concrete ;10;top;1,2,3,2,1,1,1,1,2,1
+733324;hand green ;6;som;2,1,2,2,2,1
+578004;screen stage ;2;top;1,1
+578004;screen city ;10;top;1,1,2,2,1,2,2,2,1,1
+633863;knife vegetables ;10;som;1,2,2,2,3,2,4,2,2,4
+757607;wheelchair green curtain ;0;top;
+757607;wheelchair curtain ;0;top;
+757607;wheelchair ;4;top;1,2,2,2
+405349;hand lemon ;1;som;2
+380564;microphone head ;7;top;2,2,1,2,2,1,1
+828435;chair garden house ;3;som;2,4,2
+783244;plaza pavement ;14;top;2,3,2,1,1,1,1,1,1,1,3,3,2,1
+1003086;guitarist yellow ;0;som;
+1003086;guitarist yellow shirt ;2;som;1,1
+281943;trees bycycle ;0;top;
+281943;trees bycycle helmet ;7;top;1,1,2,2,1,2,1
+281943;trees bycycle helmet ramp ;11;top;1,2,1,3,1,1,3,2,2,1,3
+1080823;cathedral ;0;som;
+1080823;nan;0;som;
+1080823;temple ;12;som;2,4,3,2,2,1,3,2,1,3,1,2
+744979;floor circular ;4;top;2,2,1,2
+541161;bedroom window ;2;som;2,4
+1147086;fireman ;0;top;
+1147086;fireman smoke ;0;top;
+1147086;fireman smoke  dark ;10;top;1,2,2,2,3,1,2,2,2,2
+343;hindu;3;som;1,1,2
+647700;two man suit belt ;2;top;1,3
+647700;two man suit belt sky ;3;top;1,1,1
+20379;tree snow sky ;1;som;3
+127721;night lights neon ;8;top;1,3,1,2,2,2,2,1
+900219;text billboard night brick ;7;som;2,3,3,3,3,2,1
+958292;sunglasses suit window man head ;0;top;
+958292;sunglasses suit window man head back ;1;top;2
+958292;sunglasses suit two man head back ;0;top;
+958292;sunglasses suit two man back ;3;top;2,2,3
+1098994;jeep grassland ;1;som;2
+990334;sleeping tent head ;0;top;
+667883;snow sky hill red jacket ;0;som;
+667883;snow sky rock red jacket ;0;som;
+667883;snow sky rock red jacket mountain ;4;som;3,2,3,4
+920562;fishing white shirt cap ;1;top;2
+189079;snow surf ;3;som;1,3,2
+1025320;hair face bracelet hand bra ;7;top;3,4,2,2,3,2,3
+1070429;ship crane field ;0;som;
+300925;closet black suit ;2;top;2,1
+727362;picture hair door ;1;som;3
+1080405;guitar player microphone ;3;top;2,2,2
+346112;group road cliff ;0;som;
+346112;group road cliff people ;4;som;1,1,2,2
+860818;clouds filed parachute ;0;top;
+860818;clouds filed parachute strings ;0;top;
+860818;clouds field parachute strings ;0;top;
+860818;field parachute strings ;6;top;2,2,1,2,3,1
+860818;field parachute ;17;top;2,2,1,2,2,2,2,2,3,2,2,2,3,2,1,2,4
+234980;hand tablet brick ;3;som;1,1,4
+237618;shirt smile man face ;0;top;
+827903;tree house people sunglasses ;0;som;
+827903;tree house people sunglasses crowd ;0;som;
+827903;tree street people sunglasses crowd ;14;som;2,3,3,3,2,1,2,2,3,2,3,1,1,2
+373440;concrete window man ;0;top;
+373440;concrete man ;7;top;3,2,1,1,2,1,1
+83008;newspaper ;2;som;2,1
+806108;paris ;0;top;
+806108;paris woman ;0;top;
+806108;paris woman outside ;0;top;
+806108;paris woman outside buildings ;0;top;
+806108;woman ;0;top;
+806108;woman heaven ;0;top;
+806108;woman heaven street ;0;top;
+806108;woman heaven street paris ;0;top;
+806108;woman street paris blue sky ;0;top;
+806108;woman street paris ;0;top;
+806108;woman street paris tower ;4;top;1,1,1,1
+132527;child building car ;0;som;
+132527;child building car hat ;1;som;1
+340554;club person green ;1;top;2
+415597;map man boy room ;0;som;
+415597;map man boy room shirt ;0;som;
+415597;map man room shirt ;0;som;
+415597;map man room shirt boy ;1;som;2
+415597;map man room shirt boy mustache ;0;som;
+415597;map man room shirt boy mustache tie ;0;som;
+394281;man shirt glasses ;3;top;1,1,1
+1145030;wedding woman flower white dress ;0;som;
+1145030;wedding woman flower white dress outside ;5;som;2,1,2,2,1
+1145030;wedding woman flower white dress outside suit veil ;0;som;
+1145030;wedding woman man flower white dress outside suit veil ;1;som;1
+1145030;wedding flower white dress outside suit veil wood ;0;som;
+337634;document list;0;top;
+337634;document list king ;0;top;
+337634;document list  paper ;5;top;2,2,1,1,4
+337634;document list  paper important ;0;top;
+337634;document list  paper important writing ;2;top;4,2
+337634;document list  paper important writing printed ;0;top;
+337634;document list  paper important printed ;2;top;1,1
+337634;document list  paper important printed mission day 2 ;0;top;
+337634;document list  paper  old ;0;top;
+1016254;bicycle mountains path ;2;som;3,1
+486688;bed hotel rich flowers ;0;top;
+486688;bed hotel rich;0;top;
+486688;bed hotel rich curtains ;0;top;
+486688;bed hotel rich curtains wedding ;6;top;3,2,2,3,3,5
+486688;bed hotel rich curtains wedding white ;2;top;2,1
+486688;bed hotel rich curtains white ;1;top;1
+486688;wedding rich curtains white roses petals hotel ;0;top;
+486688;wedding rich curtains white roses petals hotel altar ;0;top;
+486688;wedding curtains white roses petals hotel altar ;0;top;
+486688;wedding curtains white roses petals hotel altar inside ;7;top;1,1,4,4,4,2,7
+785006;trampoline child green ;2;som;1,1
+495903;race street motorcycle ;1;top;1
+1153009;man shop clothes ;3;som;1,1,2
+1153009;man shop clothes red ;0;som;
+1153009;man shop clothes hug ;0;som;
+1153009;man shop clothes hug dress ;3;som;1,1,1
+517109;chinese traffic ;0;top;
+517109;chinese traffic billboard ;0;top;
+517109;chinese traffic billboard sign ;0;top;
+517109;chinese traffic billboard sign street ;0;top;
+517109;chinese traffic billboard sign street nature ;3;top;3,2,2
+517109;chinese traffic billboard sign street nature truck cyclist ;0;top;
+517109;chinese billboard sign street truck cyclist forest ;0;top;
+109923;door people underground ;0;som;
+109923;door people metro ;0;som;
+109923;door people glass ;1;som;1
+109923;door people glass chair ;0;som;
+109923;door people glass chair sit ;0;som;
+109923;door people glass chair sit metro ;0;som;
+272999;forest meadow ;0;top;
+272999;forest meadow green ;1;top;2
+272999;forest meadow green fuzzy ;0;top;
+272999;forest meadow green ;0;top;
+272999;forest meadow green shadow ;0;top;
+178150;rob man cap door room ;0;som;
+178150;rob man cap door room gun ;1;som;2
+95394;raft person big see wave ;3;top;3,1,2
+95394;raft person big see wave green ;0;top;
+502449;woman redhead glasses street ;1;som;1
+502449;woman redhead glasses street curly ;1;som;1
+502449;woman redhead glasses street curly clapping ;0;som;
+502449;woman redhead glasses street outside ;4;som;3,1,1,1
+599777;people blue conference ;0;top;
+599777;people blue conference sitting ;2;top;2,1
+219484;man sand hat glasses ;2;som;3,2
+219484;man sand hat glasses clouds ;1;som;1
+1130564;old lighthouse ;0;top;
+1130564;lighthouse ;0;top;
+1130564;lighthouse portuguese ;0;top;
+1130564;lighthouse sea bridge ;0;top;
+1130564;lighthouse bridge ;0;top;
+1130564;lighthouse bricks ;2;top;1,4
+1130564;tower bricks ;0;top;
+1130564;castle bricks ;0;top;
+1130564;castle bricks sea coast ;2;top;1,3
+653571;guitar guitarist woman ;0;som;
+653571;guitar guitarist woman water ;0;som;
+653571;guitar guitarist woman water jazz ;0;som;
+799783;chairs church monk ;2;top;2,2
+799783;chairs church monks ;0;top;
+799783;chairs church monks inside light ;0;top;
+799783;chairs church monks inside light column ;0;top;
+799783;monks;0;top;
+799783;monk ;0;top;
+799783;monk church chair ;0;top;
+799783;monk chair ;0;top;
+609301;snow sledge ;0;top;
+609301;snow  tree person ;0;top;
+609301;snow  tree person child ;0;top;
+609301;snow  tree person child coat ;0;top;
+609301;snow  tree person child coat old ;5;top;3,3,1,3,1
+609301;snow  tree person child coat old blurry ;0;top;
+609301;snow  tree person child coat old fuzzy ;4;top;1,1,4,4
+733324;handshake bracelet hand ;0;top;
+733324;handshake bracelet hand person ;0;top;
+733324;handshake bracelet;2;top;2,3
+733324;handshake bracelet green ;1;top;2
+578004;screen ;0;som;
+578004;television ;0;som;
+578004;television big ;7;som;1,3,3,2,6,2,2
+633863;knife board ;0;top;
+633863;knife board cut ;5;top;4,6,5,3,1
+633863;knife board cut white ;2;top;1,2
+757607;wheelchair match green ;3;som;1,2,5
+405349;onion hand ;0;top;
+405349;hand lemon ;0;top;
+380564;microphone black man ;0;som;
+380564;microphone black woman ;3;som;3,5,1
+380564;microphone black woman sing ;0;som;
+828435;house chair door ;0;top;
+828435;house chair door garden ;2;top;4,3
+1003086;guitar man yellow ;0;top;
+281943;bicycle helmet man outside ;5;som;2,1,1,4,6
+1080823;church sky white ;4;top;1,2,2,3
+541161;bed fan hanger ;0;top;
+541161;bed fan hanger window ;0;top;
+541161;bed fan hanger window room ;1;top;4
+541161;bed fan window room white ;1;top;2
+541161;bed fan window room white frames ;1;top;5
+647700;men guns ;0;som;
+647700;men guns suit outside ;1;som;1
+1098994;safari truck ;0;top;
+1098994;safari jeep ;2;top;3,5
+990334;man tent ;1;som;1
+667883;mouintans snowboarder snow ;7;top;1,4,2,1,3,4,3
+920562;fishing boat water ;1;som;2
+189079;snow flag mountains ;1;top;3
+189079;snow flag mountains clouds ;2;top;3,2
+1025320;brida veil ;1;som;3
+1025320;brida veil dressing preparation ;1;som;1
+799783;church celebration ;9;top;3,1,2,1,2,2,1,1,1
+595922;crowd stadium cameraman ;3;som;2,3,1
+609301;snow kid photograph ;5;top;2,2,2,1,1
+312770;sign wall greenery ;7;som;2,1,1,1,1,1,1
+733324;body green hand ;0;top;
+733324;person person green hand ;0;top;
+733324;person person grass hand ;0;top;
+733324;person body grass hand ;0;top;
+733324;woman park hand ;0;top;
+733324;woman park hand dress hand;0;top;
+733324;woman hand dress hand;0;top;
+733324;woman hand handbag ;0;top;
+733324;woman hand hand;0;top;
+733324;woman hand hand park ;1;top;2
+578004;indoor screen ;0;som;
+578004;screen interior ;0;som;
+578004;screen dark hall ;0;som;
+578004;screen dark stage ;12;som;4,3,1,1,3,1,1,1,1,1,1,1
+578004;dark stage ;4;som;1,1,1,2
+578004;dark stage light smoke ;2;som;1,1
+578004;stage television ;4;som;4,3,3,1
+578004;dark television;3;som;1,1,1
+633863;cooking knife ;0;top;
+757607;wheelchair green gymnasium ;0;som;
+757607;wheelchair green gym ;3;som;3,2,1
+405349;hand orange ;0;top;
+405349;hand ball ;0;top;
+405349;hand fruit ;3;top;1,1,1
+380564;black man singing ;2;som;1,2
+380564;man singing microphone ;9;som;1,1,1,2,1,1,1,1,2
+380564;man singing microphone room ;6;som;5,1,1,2,1,6

@@ -82,6 +82,7 @@ def main(args):
                 text_query = tokens[1].strip()
                 iterations = int(tokens[2])
                 display_type = tokens[3].lower()
+                likes = list(map(lambda x: int(x) ,tokens[4].split(",")))
 
                 # Prepare search structures
                 display_gen = TopNDisplay()
@@ -104,6 +105,7 @@ def main(args):
                         found = iteration
                         break
                     
+                    pcu_user._count = likes[iteration]
                     likes = pcu_user.decision(display)
                     ranker.apply_feedback(likes, display)
                     log(".", end="", flush=True)
