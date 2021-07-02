@@ -21,9 +21,9 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--seed", default=42, type=int, help="Random seed.")
 parser.add_argument("--quiet", default=False, action="store_true", help="Quiet")
 
-parser.add_argument("-t", "--target_file", required=True, type=str, 
+parser.add_argument("-t", "--target_file", required=False, default="src/data/study_targets.csv", type=str, 
                     help="File with defined targets. On each line should be 'target_id;text_query;iterations;displayType'")
-parser.add_argument("-o", "--output_file", required=True, type=str,
+parser.add_argument("-o", "--output_file", required=False, default="src/data/study_targets.csv.out", type=str,
                     help="Name of output csv file.")
 
 parser.add_argument("--dataset_path", default="v3c1", type=str,
@@ -82,7 +82,7 @@ def main(args):
                 text_query = tokens[1].strip()
                 iterations = int(tokens[2])
                 display_type = tokens[3].lower()
-                likes = list(map(lambda x: int(x), filter(lambda x: len(x) > 0, tokens[4].split(","))))
+                num_of_likes = list(map(lambda x: int(x), filter(lambda x: len(x) > 0, tokens[4].split(","))))
 
                 # Prepare search structures
                 display_gen = TopNDisplay()
@@ -105,7 +105,7 @@ def main(args):
                         found = iteration
                         break
                     
-                    pcu_user._count = likes[iteration]
+                    pcu_user._count = num_of_likes[iteration]
                     likes = pcu_user.decision(display)
                     ranker.apply_feedback(likes, display)
                     log(".", end="", flush=True)
