@@ -112,8 +112,9 @@ def main(args):
                     
 
                 of.write(line + ";" + str(found) + "\n")
+                of.flush()
                 log("DONE", flush=True)
-                
+        
     log("Simulations done")
 
 if __name__ == "__main__":
