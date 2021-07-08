@@ -93,7 +93,7 @@ def main(args):
                 if text_query:
                     ranker._scores = kw_init.score(text_query)
 
-                pcu_user = RanSamUser(features, target_id, 12)
+                pcu_user = RanSamUser(features, target_id, 13)
 
                 # Generate first display
                 found = -1
