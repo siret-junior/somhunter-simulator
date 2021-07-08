@@ -407,9 +407,9 @@ void som_display(const float *const points,
             if (mapping_per_cluster[i + swidth * j]
                     .empty())
             {
-                auto k = koho[(i + swidth * j) * dim];
+                float* k = koho.data() + (i + swidth * j) * dim;
 
-                size_t clust = nearest_cluster_with_atleast(&k, stolen_count, mapping_per_cluster, koho, dim);
+                size_t clust = nearest_cluster_with_atleast(k, stolen_count, mapping_per_cluster, koho, dim);
 
                 stolen_count[clust]++;
                 std::vector<size_t> ci = mapping_per_cluster[clust];

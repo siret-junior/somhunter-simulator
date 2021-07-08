@@ -7,7 +7,7 @@ setup(
     ext_modules=[Extension("SOMDisplay",
                  sources=["_SOMDisplay.pyx", "SOMDisplay.cpp"],
                  include_dirs=[numpy.get_include()],
-                 extra_compile_args=['-O3', '-march=native'],
-                 extra_link_args=['-O3', '-march=native'],
+                 extra_compile_args=['-O2', '-march=native'],
+                 extra_link_args=['-O2', '-march=native'],
                  language="c++")],
 )
