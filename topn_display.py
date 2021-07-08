@@ -7,5 +7,5 @@ class TopNDisplay:
         self._dsize = dsize
 
     def generate(self, scores):
-        return np.argsort(scores)[:self._dsize]
+        return np.argsort(scores)[::-1][:self._dsize]
 
