@@ -21,9 +21,9 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--seed", default=42, type=int, help="Random seed.")
 parser.add_argument("--quiet", default=False, action="store_true", help="Quiet")
 
-parser.add_argument("-t", "--target_file", required=False, default="src/data/study_targets.csv", type=str, 
+parser.add_argument("-t", "--target_file", required=False, default="src/data/failed_targets.csv", type=str, 
                     help="File with defined targets. On each line should be 'target_id;text_query;iterations;displayType'")
-parser.add_argument("-o", "--output_file", required=False, default="src/data/study_targets.csv.out", type=str,
+parser.add_argument("-o", "--output_file", required=False, default="src/data/failed_targets.csv.out", type=str,
                     help="Name of output csv file.")
 
 parser.add_argument("--dataset_path", default="v3c1", type=str,
@@ -98,17 +98,19 @@ def main(args):
                 # Generate first display
                 found = -1
                 
-                for iteration in range(iterations):
+                for iteration in range(iterations + 1):
                     display = display_gen.generate(ranker.scores)
                     # Check if found
                     if target_id in display:
                         found = iteration
                         break
                     
-                    pcu_user._count = num_of_likes[iteration]
-                    likes = pcu_user.decision(display)
-                    ranker.apply_feedback(likes, display)
-                    log(".", end="", flush=True)
+                    # Skip feedback on last iteration
+                    if iteration < iterations:
+                        pcu_user._count = num_of_likes[iteration]
+                        likes = pcu_user.decision(display)
+                        ranker.apply_feedback(likes, display)
+                        log(".", end="", flush=True)
                     
 
                 of.write(line + ";" + str(found) + "\n")
