@@ -7,6 +7,8 @@ import argparse
 from bayesian_ranker import BayesianRanker
 
 from bow_initializer import BoWInitializer
+from logit_user import LogitUser
+from null_user import NullUser
 
 from ransam_display import RanSamDisplay
 from topn_display import TopNDisplay
@@ -21,9 +23,9 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--seed", default=42, type=int, help="Random seed.")
 parser.add_argument("--quiet", default=False, action="store_true", help="Quiet")
 
-parser.add_argument("-t", "--target_file", required=False, default="src/data/failed_targets.csv", type=str, 
-                    help="File with defined targets. On each line should be 'target_id;text_query;iterations;displayType'")
-parser.add_argument("-o", "--output_file", required=False, default="src/data/failed_targets.csv.out", type=str,
+parser.add_argument("-t", "--target_file", required=False, default="src/data/study_targets.csv", type=str, 
+                    help="File with defined targets. On each line should be 'target_id;text_query;iterations;displayType;likes'")
+parser.add_argument("-o", "--output_file", required=False, default="src/data/study_targets.csv.out", type=str,
                     help="Name of output csv file.")
 
 parser.add_argument("--dataset_path", default="v3c1", type=str,
@@ -41,6 +43,11 @@ parser.add_argument("--pca_matrix_name", default="V3C1_20191228.w2vv.pca.matrix.
                     help="Name of file with pca matrix.")
 parser.add_argument("--pca_mean_name", default="V3C1_20191228.w2vv.pca.mean.bin", type=str,
                     help="Name of file with pca mean.")
+
+parser.add_argument("--user", default="logit", type=str,
+                    help="Name of user.")
+parser.add_argument("--pickle_root", default="src/pickle", type=str,
+                    help="Root of pickle models.")
 
 def load_features(args):
     features = np.fromfile(os.path.join(args.dataset_path, args.features_name), dtype='float32')
@@ -93,7 +100,16 @@ def main(args):
                 if text_query:
                     ranker._scores = kw_init.score(text_query)
 
-                pcu_user = RanSamUser(features, target_id, 13)
+                user_type = args.user.lower()
+                if user_type == "pcu":
+                    user = RanSamUser(features, target_id, 13)
+                elif user_type == "ideal":
+                    user = IdealUser(features, target_id)
+                elif user_type == "null":
+                    user = RandomUser()
+                elif user_type == "logit":
+                    user = LogitUser(features, target_id, pickle_file = os.path.join(args.pickle_root, "smf.all.full.pickle"))
+                
 
                 # Generate first display
                 found = -1
@@ -107,8 +123,8 @@ def main(args):
                     
                     # Skip feedback on last iteration
                     if iteration < iterations:
-                        pcu_user._count = num_of_likes[iteration]
-                        likes = pcu_user.decision(display)
+                        user._count = num_of_likes[iteration]
+                        likes = user.decision(display)
                         ranker.apply_feedback(likes, display)
                         log(".", end="", flush=True)
                     
