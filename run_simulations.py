@@ -44,9 +44,9 @@ parser.add_argument("--pca_matrix_name", default="V3C1_20191228.w2vv.pca.matrix.
 parser.add_argument("--pca_mean_name", default="V3C1_20191228.w2vv.pca.mean.bin", type=str,
                     help="Name of file with pca mean.")
 
-parser.add_argument("--user", default="logit", type=str,
+parser.add_argument("--user", default="pcu", type=str,
                     help="Name of user.")
-parser.add_argument("--pickle_root", default="src/pickle", type=str,
+parser.add_argument("--pickle_root", default="pickle", type=str,
                     help="Root of pickle models.")
 
 def load_features(args):
