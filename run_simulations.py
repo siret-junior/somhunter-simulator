@@ -106,7 +106,7 @@ def main(args):
                 elif user_type == "ideal":
                     user = IdealUser(features, target_id)
                 elif user_type == "null":
-                    user = RandomUser()
+                    user = NullUser()
                 elif user_type == "logit":
                     user = LogitUser(features, target_id, pickle_file = os.path.join(args.pickle_root, "smf.all.full.pickle"))
                 
