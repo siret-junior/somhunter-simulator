@@ -6,4 +6,5 @@ void som_display(const float *const points,
                  const size_t dim,
                  const size_t swidth,
                  const size_t sheight,
-                 size_t *output);
+                 size_t *output,
+                 size_t seed);

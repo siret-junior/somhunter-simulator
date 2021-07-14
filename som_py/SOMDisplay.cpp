@@ -221,16 +221,16 @@ void mapPointsToKohos(size_t start,
     }
 }
 
-size_t weighted_example(const std::vector<size_t> &subset, const float *const scores)
+size_t weighted_example(const std::vector<size_t> &subset,
+                        const float *const scores,
+                        std::mt19937 &rng)
 {
     std::vector<float> fs(subset.size());
     for (size_t i = 0; i < subset.size(); ++i)
         fs[i] = scores[subset[i]];
 
-    std::random_device rd;
-    std::mt19937 gen(rd());
     std::discrete_distribution<size_t> dist(fs.begin(), fs.end());
-    return subset[dist(gen)];
+    return subset[dist(rng)];
 }
 
 size_t nearest_cluster_with_atleast(
@@ -267,10 +267,10 @@ void som_display(const float *const points,
                  const size_t dim,
                  const size_t swidth,
                  const size_t sheight,
-                 size_t *output)
+                 size_t *output,
+                 size_t seed)
 {
-    std::random_device rd;
-    std::mt19937 rng(rd());
+    std::mt19937 rng(seed);
 
     // Prepare cached distences
     std::vector<float> nhbrdist(
@@ -386,7 +386,7 @@ void som_display(const float *const points,
             else
             {
                 size_t id = weighted_example(
-                    mapping_per_cluster[i + swidth * j], scores);
+                    mapping_per_cluster[i + swidth * j], scores, rng);
                 ids[i + swidth * j] = id;
             }
         }
@@ -407,7 +407,7 @@ void som_display(const float *const points,
             if (mapping_per_cluster[i + swidth * j]
                     .empty())
             {
-                float* k = koho.data() + (i + swidth * j) * dim;
+                float *k = koho.data() + (i + swidth * j) * dim;
 
                 size_t clust = nearest_cluster_with_atleast(k, stolen_count, mapping_per_cluster, koho, dim);
 
@@ -424,7 +424,7 @@ void som_display(const float *const points,
 
                 assert(!ci.empty());
 
-                size_t id = weighted_example(ci, scores);
+                size_t id = weighted_example(ci, scores, rng);
                 ids[i + swidth * j] = id;
             }
         }

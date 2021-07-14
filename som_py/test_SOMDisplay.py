@@ -2,7 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import SOMDisplay
 
-points = np.random.uniform(size=(20000,2)).astype(np.float32) - 0.5
+np.random.seed(42)
+points = np.random.uniform(size=(2000,2)).astype(np.float32) - 0.5
 #scores = np.ones(1000).astype(np.float32)
 dists = np.sum(np.abs(points - np.array([0.2, 0.2])), axis=1)
 
