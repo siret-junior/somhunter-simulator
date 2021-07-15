@@ -3,15 +3,15 @@ import pandas as pd
 
 import argparse
 
-from src.topn_display import TopNDisplay
-from src.som_display import SOMDisplay
-from src.bayesian_ranker import BayesianRanker
-from src.ideal_user import IdealUser
-from src.null_user import NullUser
-from src.ransam_display import RanSamDisplay
-from src.ransam_user import RanSamUser
-from src.ransam_smooth_user import RanSamSmoothUser
-from src.bow_initializer import BoWInitializer
+from topn_display import TopNDisplay
+from som_display import SOMDisplay
+from bayesian_ranker import BayesianRanker
+from ideal_user import IdealUser
+from null_user import NullUser
+from ransam_display import RanSamDisplay
+from ransam_user import RanSamUser
+from ransam_smooth_user import RanSamSmoothUser
+from bow_initializer import BoWInitializer
 from sklearn.metrics import normalized_mutual_info_score
 
 import statsmodels
