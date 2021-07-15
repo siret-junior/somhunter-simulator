@@ -149,10 +149,10 @@ def main(args):
             
             prev_text = None
         __counter += 1
-        if __counter % 1000 == 0:
-            print(__counter)
+        if __counter % 100 == 0:
+            print(__counter, flush=True)
     else:
-        print(__counter)
+        print(__counter, flush=True)
 
     results_df = pd.DataFrame({model_name: results})
     results_df.to_csv(f"./data/first_step_validation_{model_name}.csv")
