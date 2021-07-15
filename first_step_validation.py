@@ -136,20 +136,19 @@ def main(args):
                 
             # apply feedback for all models
             foundings = 0
-            #for _ in range(repeats[row["display_type"]]):
             likes = get_likes(row)
 
             ranker._scores = scores.copy()
             ranker.apply_feedback(likes, display.to_list())
             disp = disp_gen.generate(scores)
             if int(row["target_id"]) in disp:
-                foundings += 1
+                foundings = 1
             results.append(foundings)
                 
             
             prev_text = None
         __counter += 1
-        if __counter % 100 == 0:
+        if __counter % 10 == 0:
             print(__counter, flush=True)
     else:
         print(__counter, flush=True)
