@@ -97,7 +97,7 @@ def main(args):
 
     test_model = models[args.model]
     model_name, get_likes = test_model
-    print("Testing model", model_name)
+    print("Testing model", model_name, flush=True)
 
     prev_user = None
     prev_target = None
