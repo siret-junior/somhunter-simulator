@@ -12,7 +12,6 @@ from ransam_display import RanSamDisplay
 from ransam_user import RanSamUser
 from ransam_smooth_user import RanSamSmoothUser
 from bow_initializer import BoWInitializer
-from sklearn.metrics import normalized_mutual_info_score
 
 import statsmodels
 import statsmodels.formula.api as smf
