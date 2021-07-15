@@ -27,7 +27,7 @@ def main(args):
     features = features.reshape(int(features.shape[0] / 128), 128)
     print("Features loaded", features.shape)
 
-    data = pd.read_csv("result_collection.csv")
+    data = pd.read_csv("./data/result_collection.csv")
     data = data[~data['target_id'].isin([1088886,171357,0])]
     data = data.sort_values(["user", "timestamp"])
     print("Data loaded")
