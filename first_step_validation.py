@@ -155,7 +155,7 @@ def main(args):
         print(__counter)
 
     results_df = pd.DataFrame({model_name: results})
-    results_df.to_csv(f"first_step_validation_{model_name}.csv")
+    results_df.to_csv(f"./data/first_step_validation_{model_name}.csv")
 
 if __name__ == "__main__":
     args = parser.parse_args([] if "__file__" not in globals() else None)
