@@ -22,7 +22,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--model", default=0, type=int, help="Index of the model (0-6).")
 
 def main(args):
-    features = np.fromfile("features.bin", dtype='float32')
+    features = np.fromfile("./v3c1/V3C1_20191228.w2vv.images.normed.128pca.viretfromat", dtype='float32')
     features = features[3:]
     features = features.reshape(int(features.shape[0] / 128), 128)
     print("Features loaded", features.shape)
