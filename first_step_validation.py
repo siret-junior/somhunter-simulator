@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import time
 
 import argparse
 
@@ -109,6 +110,7 @@ def main(args):
     results = []
 
     __counter = 0
+    last = time.time()
 
     for _, row in data.iterrows():
         
@@ -149,7 +151,8 @@ def main(args):
             prev_text = None
         __counter += 1
         if __counter % 10 == 0:
-            print(__counter, flush=True)
+            print(__counter, f"\t took {last - time.time()}", flush=True)
+            last = time.time()
     else:
         print(__counter, flush=True)
 
