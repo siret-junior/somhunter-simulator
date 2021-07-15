@@ -23,9 +23,9 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--seed", default=42, type=int, help="Random seed.")
 parser.add_argument("--quiet", default=False, action="store_true", help="Quiet")
 
-parser.add_argument("-t", "--target_file", required=False, default="src/data/study_targets.csv", type=str, 
+parser.add_argument("-t", "--target_file", required=False, default="data/study_targets.csv", type=str, 
                     help="File with defined targets. On each line should be 'target_id;text_query;iterations;displayType;likes'")
-parser.add_argument("-o", "--output_file", required=False, default="src/data/study_targets.csv.out", type=str,
+parser.add_argument("-o", "--output_file", required=False, default="data/study_targets.csv.out", type=str,
                     help="Name of output csv file.")
 
 parser.add_argument("--dataset_path", default="v3c1", type=str,
