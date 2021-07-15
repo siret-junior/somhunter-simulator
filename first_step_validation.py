@@ -101,6 +101,7 @@ def main(args):
 
     test_model = models[args.model]
     model_name, get_likes = test_model
+    print("Testing model", model_name)
 
     prev_user = None
     prev_target = None
