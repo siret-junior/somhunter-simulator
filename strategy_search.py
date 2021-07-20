@@ -182,7 +182,7 @@ def main(args):
             delta = datetime.now() - start
             per_instance = delta / len(res)
             left = (reps - len(res)) * per_instance
-            print(f"\rDone: {len(res)}/{reps}\tTime elapsed: {delta}\tTime left: {left}\t\t\t", end="", flush=True)
+            print(f"Done: {len(res)}/{reps}\tTime elapsed: {delta}\tTime left: {left}\t\t\t", end="\n", flush=True)
             of.write(f"{last_res.likes},{last_res.display_types},{last_res.database_part},{last_res.text_query},{last_res.target_id},{last_res.found}\n")
             of.flush()
 
