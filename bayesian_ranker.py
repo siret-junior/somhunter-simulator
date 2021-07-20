@@ -11,7 +11,7 @@ class BayesianRanker:
         self.MIN_SCORE = 1e-12
 
     def reset(self):
-        self._scores = np.ones(self._size, dtype=np.float32)
+        self._scores[:] = 1
         
     @property
     def features(self):

@@ -19,7 +19,7 @@ from ransam_user import RanSamUser
 from ransam_smooth_user import RanSamSmoothUser
 
 parser = argparse.ArgumentParser()
-# These arguments will be set appropriately by ReCodEx, even if you change them.
+
 parser.add_argument("--seed", default=42, type=int, help="Random seed.")
 parser.add_argument("--quiet", default=False, action="store_true", help="Quiet")
 
