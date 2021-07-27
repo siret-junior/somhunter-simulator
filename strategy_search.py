@@ -1,4 +1,5 @@
 
+from typing import List
 import numpy as np
 import os
 import multiprocessing as mp
@@ -24,6 +25,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--seed", default=42, type=int, help="Random seed.")
 parser.add_argument("--processes", default=-1, type=int, help="Number of precesses spawned.")
 
+parser.add_argument("--params_batch", default=0, type=int, help="Which experiments to be conducted [0,1].")
 
 parser.add_argument("--annotations", default="data/annotations.csv", type=str,
                     help="Annotations to be simulated.")
@@ -113,6 +115,13 @@ class Simulator(mp.Process):
             self._ranker._scores = self._kw_init.score(text_query)
             self._ranker.normalize()
 
+            # Set zero score to filtered elements
+            zero_indeces = np.array([])
+            if database_part is not None:
+                nonzero_count = int(database_part * self._ranker._scores.shape[0])
+                zero_indeces = np.flip(np.argsort(self._ranker._scores))[nonzero_count:]
+                self._ranker._scores[zero_indeces] = 0            
+
             # Run simulations
             found = -1
             for iteration, disp_type in enumerate(display_types):
@@ -124,12 +133,47 @@ class Simulator(mp.Process):
 
                 likes = self._user.decision(display)
                 self._ranker.apply_feedback(likes, display)
+                self._ranker._scores[zero_indeces] = 0
                 
             # Return result
             par.found = found
             self._res_q.put(par)
             
 
+def parameters_generation1(args, targets: list, text_queries: list, par_q: mp.Queue):
+    like_counts = range(1, 5)
+    display_types = [["som" for _ in range(10)], 
+                    ["top" for _ in range(10)],
+                    ["som" for _ in range(5)] + ["top" for _ in range(5)],
+                    [("som" if i % 2 == 0 else "top") for i in range(10)],
+                    [("som" if i % 2 == 1 else "top") for i in range(10)]]
+    reps = 0
+    for lik in like_counts:
+        for tar, text_query in zip(targets, text_queries):
+            for disp_type in display_types:
+                par_q.put(SimParameters(lik, disp_type, None, text_query, tar))
+                reps += 1
+
+    return reps
+
+
+def parameters_generation2(args, targets: list, text_queries: list, par_q: mp.Queue):
+    like_counts = range(3, 5)
+    display_types = [["som" for _ in range(10)], 
+                    ["top" for _ in range(10)],
+                    ["som" for _ in range(5)] + ["top" for _ in range(5)],
+                    [("som" if i % 2 == 0 else "top") for i in range(10)],
+                    [("som" if i % 2 == 1 else "top") for i in range(10)]]
+    db_parts = [0.01, 0.1, 0.5]
+    reps = 0
+    for lik in like_counts:
+        for tar, text_query in zip(targets, text_queries):
+            for db_part in db_parts:
+                for disp_type in display_types:
+                    par_q.put(SimParameters(lik, disp_type, db_part, text_query, tar))
+                    reps += 1
+
+    return reps
 
 def main(args):
     np.random.seed(args.seed)
@@ -146,12 +190,6 @@ def main(args):
         sim.start()
     
     # Add parameters
-    like_counts = range(1, 5)
-    display_types = [["som" for _ in range(10)], 
-                    ["top" for _ in range(10)],
-                    ["som" for _ in range(5)] + ["top" for _ in range(5)],
-                    [("som" if i % 2 == 0 else "top") for i in range(10)],
-                    [("som" if i % 2 == 1 else "top") for i in range(10)]]
     targets = []
     text_queries = []
     with open(args.annotations, "r") as f:
@@ -161,11 +199,12 @@ def main(args):
             text_queries.append(text_query)
 
     reps = 0
-    for lik in like_counts:
-        for tar, text_query in zip(targets, text_queries):
-            for disp_type in display_types:
-                par_q.put(SimParameters(lik, disp_type, None, text_query, tar))
-                reps += 1
+    if args.params_batch == 0:
+        reps = parameters_generation1(args, targets, text_queries, par_q)
+    elif args.params_batch == 1:
+        reps = parameters_generation2(args, targets, text_queries, par_q)
+    else:
+        raise Exception("Unknown type of params_batch")
 
     # Add poison pill
     for i in range(processes):

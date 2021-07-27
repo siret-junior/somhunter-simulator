@@ -198,26 +198,29 @@ void mapPointsToKohos(size_t start,
                       size_t dim,
                       const float *const &points,
                       const std::vector<float> &koho,
-                      std::vector<size_t> &mapping)
+                      std::vector<size_t> &mapping,
+                      const float *const scores)
 {
     for (size_t point = start; point < end; ++point)
     {
-        size_t nearest = 0;
-        float nearestd =
-            DIST_FUNC(points + dim * point, koho.data(), dim);
-        for (size_t i = 1; i < k; ++i)
-        {
-            float tmp = DIST_FUNC(points + dim * point,
-                                  koho.data() + dim * i,
-                                  dim);
-            if (tmp < nearestd)
+        if (scores[point] > 0) {
+            size_t nearest = 0;
+            float nearestd =
+                DIST_FUNC(points + dim * point, koho.data(), dim);
+            for (size_t i = 1; i < k; ++i)
             {
-                nearest = i;
-                nearestd = tmp;
+                float tmp = DIST_FUNC(points + dim * point,
+                                    koho.data() + dim * i,
+                                    dim);
+                if (tmp < nearestd)
+                {
+                    nearest = i;
+                    nearestd = tmp;
+                }
             }
-        }
 
-        mapping[point] = nearest;
+            mapping[point] = nearest;
+        }
     }
 }
 
@@ -343,7 +346,8 @@ void som_display(const float *const points,
                              dim,
                              points,
                              koho,
-                             mapping_per_image);
+                             mapping_per_image,
+                             scores);
         };
 
         for (size_t i = 0; i < n_threads; ++i)
@@ -359,15 +363,18 @@ void som_display(const float *const points,
                          dim,
                          points,
                          koho,
-                         mapping_per_image);
+                         mapping_per_image,
+                         scores);
 #endif
     }
 
     // Reverse mapping
     std::vector<std::vector<size_t>> mapping_per_cluster;
     mapping_per_cluster.resize(swidth * sheight);
-    for (size_t im = 0; im < mapping_per_image.size(); ++im)
-        mapping_per_cluster[mapping_per_image[im]].push_back(im);
+    for (size_t im = 0; im < mapping_per_image.size(); ++im) {
+        if (scores[im] > 0)
+            mapping_per_cluster[mapping_per_image[im]].push_back(im);
+    }
 
     // Sample from mapping
     std::vector<size_t> ids;
