@@ -23,7 +23,7 @@ from ransam_prior_user import RanSamPriorUser
 parser = argparse.ArgumentParser()
 
 parser.add_argument("--seed", default=42, type=int, help="Random seed.")
-parser.add_argument("--processes", default=-1, type=int, help="Number of precesses spawned.")
+parser.add_argument("--processes", default=1, type=int, help="Number of precesses spawned.")
 
 parser.add_argument("--params_batch", default=0, type=int, help="Which experiments to be conducted [0,1].")
 
@@ -116,7 +116,7 @@ class Simulator(mp.Process):
             self._ranker.normalize()
 
             # Set zero score to filtered elements
-            zero_indeces = np.array([])
+            zero_indeces = np.array([], dtype=np.int64)
             if database_part is not None:
                 nonzero_count = int(database_part * self._ranker._scores.shape[0])
                 zero_indeces = np.flip(np.argsort(self._ranker._scores))[nonzero_count:]
