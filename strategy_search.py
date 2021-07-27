@@ -23,7 +23,7 @@ from ransam_prior_user import RanSamPriorUser
 parser = argparse.ArgumentParser()
 
 parser.add_argument("--seed", default=42, type=int, help="Random seed.")
-parser.add_argument("--processes", default=1, type=int, help="Number of precesses spawned.")
+parser.add_argument("--processes", default=-1, type=int, help="Number of precesses spawned.")
 
 parser.add_argument("--params_batch", default=0, type=int, help="Which experiments to be conducted [0,1].")
 
