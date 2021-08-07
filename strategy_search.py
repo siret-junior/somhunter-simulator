@@ -158,9 +158,9 @@ def parameters_generation1(args, targets: list, text_queries: list, par_q: mp.Qu
 
 
 def parameters_generation2(args, targets: list, text_queries: list, par_q: mp.Queue):
-    like_counts = [2,3]
+    like_counts = [3]
     display_types = [[("som" if i % 2 == 0 else "top") for i in range(10)]]
-    db_parts = [0.05, 0.1, 0.5]
+    db_parts = [0.05, 0.1]
     reps = 0
     for lik in like_counts:
         for tar, text_query in zip(targets, text_queries):
