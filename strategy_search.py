@@ -19,13 +19,16 @@ from topn_display import TopNDisplay
 from som_display import SOMDisplay 
 
 from ransam_prior_user import RanSamPriorUser
+from logit_user import LogitUser
+from ideal_user import IdealUser
+from null_user import NullUser
 
 parser = argparse.ArgumentParser()
 
 parser.add_argument("--seed", default=42, type=int, help="Random seed.")
 parser.add_argument("--processes", default=-1, type=int, help="Number of precesses spawned.")
 
-parser.add_argument("--params_batch", default=0, type=int, help="Which experiments to be conducted [0,1].")
+parser.add_argument("--params_batch", default=0, type=int, help="Which experiments to be conducted [0,1,2].")
 
 parser.add_argument("--annotations", default="data/annotations.csv", type=str,
                     help="Annotations to be simulated.")
@@ -53,6 +56,8 @@ parser.add_argument("--pickle_model", default="pcu.prior.pickle", type=str,
 
 parser.add_argument("--verbose", default=False, action="store_true", help="Verbose")
 
+parser.add_argument("--output_prefix", default="", type=str,
+                    help="Prefix of the output file.")
 
 @dataclass
 class SimParameters:
@@ -225,7 +230,7 @@ def main(args):
     start = datetime.now()
     print("Simulations started\n")
     res = []
-    with open(f"data/strategy_search_output.{int(time.time())}.csv", "w") as of:
+    with open(f"data/{args.output_prefix}strategy_search_output.{int(time.time())}.csv", "w") as of:
         for i in range(reps):
             last_res = res_q.get()
             res.append(last_res)
