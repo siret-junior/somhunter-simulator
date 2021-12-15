@@ -4,7 +4,7 @@ import statsmodels.iolib.smpickle as smpickle
 
 class LogitUser:
 
-    def __init__(self, features, target, pickle_file = "./pickle/smf.all.full.pickle", count = 1):
+    def __init__(self, features, target, pickle_file = "../pickle/smf.all.full.pickle", count = 1):
         self._features = features
         self._target = target
         self._count = count

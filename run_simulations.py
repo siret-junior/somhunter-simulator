@@ -4,19 +4,19 @@ import os
 
 import argparse
 
-from bayesian_ranker import BayesianRanker
+from rankers import BayesianRanker
 
-from bow_initializer import BoWInitializer
-from logit_user import LogitUser
-from null_user import NullUser
+from initializers.bow_initializer import BoWInitializer
+from users import LogitUser
+from users import NullUser
 
-from ransam_display import RanSamDisplay
-from topn_display import TopNDisplay
-from som_display import SOMDisplay 
+from displays.ransam_display import RanSamDisplay
+from displays import TopNDisplay
+from displays import SOMDisplay 
 
-from ideal_user import IdealUser
-from ransam_user import RanSamUser
-from ransam_smooth_user import RanSamSmoothUser
+from users import IdealUser
+from users import RanSamUser
+from users import RanSamSmoothUser
 
 parser = argparse.ArgumentParser()
 

@@ -14,4 +14,4 @@ python setup.py build_ext -i
 2) Link v3c1 dataset
 
 ## Run
-python ./run\_simulations.py -t [targets file] -o [output file]
+```python ./run\_simulations.py -t [targets file] -o [output file]```

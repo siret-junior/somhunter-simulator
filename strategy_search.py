@@ -10,18 +10,18 @@ from dataclasses import dataclass
 
 import argparse
 
-from bayesian_ranker import BayesianRanker
+from rankers import BayesianRanker
 
-from bow_initializer import BoWInitializer
+from initializers.bow_initializer import BoWInitializer
 
-from ransam_display import RanSamDisplay
-from topn_display import TopNDisplay
-from som_display import SOMDisplay 
+from displays.ransam_display import RanSamDisplay
+from displays import TopNDisplay
+from displays import SOMDisplay 
 
-from ransam_prior_user import RanSamPriorUser
-from logit_user import LogitUser
-from ideal_user import IdealUser
-from null_user import NullUser
+from users import RanSamPriorUser
+from users import LogitUser
+from users import IdealUser
+from users import NullUser
 
 parser = argparse.ArgumentParser()
 

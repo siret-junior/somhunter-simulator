@@ -4,15 +4,15 @@ import time
 
 import argparse
 
-from topn_display import TopNDisplay
-from som_display import SOMDisplay
-from bayesian_ranker import BayesianRanker
-from ideal_user import IdealUser
-from null_user import NullUser
-from ransam_display import RanSamDisplay
-from ransam_user import RanSamUser
-from ransam_smooth_user import RanSamSmoothUser
-from bow_initializer import BoWInitializer
+from displays import TopNDisplay
+from displays import SOMDisplay
+from rankers import BayesianRanker
+from rankers import IdealUser
+from rankers import NullUser
+from displays import RanSamDisplay
+from rankers import RanSamUser
+from rankers import RanSamSmoothUser
+from initializers.bow_initializer import BoWInitializer
 
 import statsmodels
 import statsmodels.formula.api as smf
